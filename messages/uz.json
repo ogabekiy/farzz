@@ -1,0 +1,23 @@
+{
+    "HomePage":{
+        "callback":"Qayta aloqa",
+        "home":"Bosh sahifa",
+        "all_apartments":"Barcha kvartiralar",
+        "about":"Biz haqimizda",
+        "contact":"Bog'lanish",
+        "header-title":"Turkiyada ko‘chmas mulklar",
+        "fazz":"bu ishonch, shaffoflik va har bir mijozga individual yondashuv.",
+        "leave":"Bepul onlayn ko'rish uchun so'rov qoldiring"
+            },
+            "CallBack": {
+    "title": "Qayta qo'ng'iroq",
+    "text": "Batafsil ma'lumot olish uchun formani to'ldiring, va bizning menejerimiz siz bilan bog'lanadi",
+    "name": "Ismingiz",
+    "phone": "Telefoningiz",
+    "comment": "izohingiz",
+    "send": "Yuborish",
+    "error": "Iltimos, barcha maydonlarni to‘ldiring.",
+  "success": "Xabaringiz yuborildi!",
+  "sendError": "Xabar yuborishda xatolik yuz berdi. Keyinroq urinib ko‘ring."
+}
+}

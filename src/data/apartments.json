@@ -1,0 +1,1498 @@
+[
+  {
+    "id": 1,
+    "language_versions": {
+      "ru": {
+        "district": "Картал",
+        "region": "Анатолийская сторона",
+        "status": "Сдача — март 2028",
+        "plans": [
+          "1+1",
+          "2+1",
+          "3+1",
+          "4+1",
+          "дуплексы"
+        ],
+        "price": "от 290,000 USD (оплата в турецких лирах)",
+        "payment": {
+          "initial_payment": "35%",
+          "installment": "24 месяца"
+        },
+        "advantages": [
+          "НДС 1%",
+          "Тапу 0%",
+          "Двухэтажный торговый центр с 131 коммерческой единицей",
+          "Отличная инвестиционная возможность (на стадии строительства)",
+          "Стратегическое расположение рядом с транспортом"
+        ],
+        "distances": {
+          "Marmaray": "2 минуты",
+          "море": "5 минут",
+          "шоссе E5": "5 минут",
+          "аэропорт Сабиха Гекчен": "20 минут"
+        },
+        "amenities": [
+          "Большие зелёные зоны",
+          "пешеходные дорожки",
+          "теннисные и баскетбольные площадки",
+          "бассейн",
+          "фитнес",
+          "турецкая баня",
+          "SPA"
+        ],
+        "payment_currency": "турецкие лиры",
+        "suitable_for": [
+          "ВНЖ",
+          "гражданство"
+        ],
+        "contact": "+90 507 254 78 78",
+        "images": [
+          "/storage/kartal/1.jpeg",
+          "/storage/kartal/2.jpeg",
+          "/storage/kartal/3.jpeg",
+          "/storage/kartal/4.jpeg",
+          "/storage/kartal/5.jpeg",
+          "/storage/kartal/6.jpeg",
+          "/storage/kartal/7.jpeg",
+          "/storage/kartal/8.jpeg",
+          "/storage/kartal/9.jpeg",
+          "/storage/kartal/10.jpeg"
+        ],
+        "videos": ["https://drive.google.com/file/d/1mdLw8aV8CvNBWGU5-TJdRRxEqoNfLXJ-/preview",
+        "https://drive.google.com/file/d/15MwNt2eyD6CP13HNhCtTQsCXPCWfVH0i/preview"
+        ]
+
+      },
+      "uz": {
+        "district": "Kartal",
+        "region": "Anatoliya",
+        "status": "Topshirilish — 2028-yil mart",
+        "plans": [
+          "1+1",
+          "2+1",
+          "3+1",
+          "4+1",
+          "duplexlar"
+        ],
+        "price": "290,000 USD dan boshlab(to‘lovlar turk liralarida)",
+        "payment": {
+          "initial_payment": "35%",
+          "installment": "24 месяца"
+        },
+        "advantages": [
+          "QQS 1%",
+          "Tapu 0%",
+          "131 ta tijorat ob’ekti bilan ikki qavatli savdo markazi",
+          "Qurilish bosqichidagi foydali investitsiya",
+          "Transportga qulay joylashuv"
+        ],
+        "distances": {
+          "Marmaray": "2 daqiqa",
+          "dengiz": "5 daqiqa",
+          "E5 trassa": "5 daqiqa",
+          "Sabiha Gökçen aeroporti": "20 daqiqa"
+        },
+        "amenities": [
+          "Yashil zonalar",
+          "piyoda yo‘laklar",
+          "tennis va basketbol maydonchalari",
+          "basseyn",
+          "fitnes",
+          "turk hamomi",
+          "SPA"
+        ],
+        "payment_currency": "turk lirasi",
+        "suitable_for": [
+          "VNZH",
+          "fuqarolik"
+        ],
+        "contact": "+90 507 254 78 78",
+        "images": [
+          "/storage/kartal/1.jpeg",
+          "/storage/kartal/2.jpeg",
+          "/storage/kartal/3.jpeg",
+          "/storage/kartal/4.jpeg",
+          "/storage/kartal/5.jpeg",
+          "/storage/kartal/6.jpeg",
+          "/storage/kartal/7.jpeg",
+          "/storage/kartal/8.jpeg",
+          "/storage/kartal/9.jpeg",
+          "/storage/kartal/10.jpeg"
+        ],
+        "videos": ["https://drive.google.com/file/d/1mdLw8aV8CvNBWGU5-TJdRRxEqoNfLXJ-/preview",
+        "https://drive.google.com/file/d/15MwNt2eyD6CP13HNhCtTQsCXPCWfVH0i/preview"
+        ]
+      }
+    }
+  },
+ {
+  "id": 2,
+  "language_versions": {
+    "ru": {
+      "district": "Pendik",
+      "region": "Анатолийская сторона Стамбула",
+      "description": "Более чем в 80% квартир открывается вид на Мраморное море и Принцевы острова!",
+      "status": "декабрь 2026 г.",
+      "plans": [
+        "2+1",
+        "3+1"
+      ],
+      "amenities": [
+        "рядом Национальный парк",
+        "озеро",
+        "спортивные зоны"
+      ],
+      "distances": {
+        "метро": "1 минута",
+        "Marmaray Pendik": "10 минут",
+        "аэропорт": "4 станции на метро",
+        "до Кадыкёй": "30 минут",
+        "к трассе E5": "прямой выезд"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78",
+      "images":[
+        "/storage/pendik/1.jpg",
+        "/storage/pendik/2.jpg",
+        "/storage/pendik/3.jpg",
+        "/storage/pendik/4.jpg",
+        "/storage/pendik/8.jpg",
+        "/storage/pendik/9.jpg",
+        "/storage/pendik/10.jpg",
+        "/storage/pendik/12.jpg",
+       "/storage/pendik/16.jpg",
+        "/storage/pendik/17.jpg",
+       "/storage/pendik/18.jpg"
+      ],
+      "videos":["https://drive.google.com/file/d/1FSt-3P9fvoigeumygfVSAYbXXCJ_ismD/preview"],
+      "price": "от 325,000 USD",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "24 месяца"
+      }
+    },
+    "uz": {
+      "district": "Pendik",
+      "region": "Istanbulning Anatoliya tomoni",
+      "description": "Kvartiralarning 80% dan ko‘pida Marmara dengizi va Prens orollariga qaragan manzara!",
+      "status": "2026-yil dekabr",
+      "plans": [
+        "2+1",
+        "3+1"
+      ],
+      "amenities": [
+        "Yaqinida Milliy bog‘",
+        "ko‘l",
+        "sport zonalari"
+      ],
+      "distances": {
+        "metro": "1 daqiqa",
+        "Marmaray Pendikgacha": "10 daqiqa",
+        "Aeroport": "metro bilan 4 ta bekat",
+        "Kadıköygacha": "30 daqiqa",
+        "E5 trassasiga": "bevosita chiqish mumkin"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78",
+      "images":[
+        "/storage/pendik/1.jpg",
+        "/storage/pendik/2.jpg",
+        "/storage/pendik/3.jpg",
+        "/storage/pendik/4.jpg",
+        "/storage/pendik/8.jpg",
+        "/storage/pendik/9.jpg",
+        "/storage/pendik/10.jpg",
+        "/storage/pendik/12.jpg",
+       "/storage/pendik/16.jpg",
+        "/storage/pendik/17.jpg",
+       "/storage/pendik/18.jpg"
+      ],
+      "videos":["https://drive.google.com/file/d/1FSt-3P9fvoigeumygfVSAYbXXCJ_ismD/preview"],
+      "price": "325,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "24 oy"
+      }
+    }
+  }
+}
+,
+{
+  "id": 3,
+  "language_versions": {
+    "ru": {
+      "district": "Атакент (Кючюкчекмедже)",
+      "region": "Европейская сторона Стамбула",
+      "description": "Современный жилой комплекс в районе Атакент, Кючюкчекмедже. Квартиры от 2+1 до 4+1. Комплекс полностью готов к переезду. Подходит для инвестиций и получения гражданства.",
+      "status": "Комплекс полностью готов к заселению.",
+      "plans": [
+        "2+1",
+        "3+1",
+        "4+1"
+      ],
+      "amenities": [
+        "крытый и открытый бассейн",
+        "фитнес",
+        "хаммам",
+        "сауна",
+        "паровые бани",
+        "спортивные площадки (футбол, баскетбол, теннис)",
+        "детские зоны",
+        "парковка",
+        "охрана 24/7"
+      ],
+      "distances": {
+        "метро": "2 минуты",
+        "шоссе TEM": "1 минута",
+        "Arena Park": "1 минута",
+        "Mall of Istanbul": "5 минут",
+        "аэропорт Стамбула": "22 минуты",
+        "больница": "1 минута",
+        "университет": "6 минут"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/atakent/1.jpeg",
+        "/storage/atakent/2.jpeg",
+        "/storage/atakent/4.jpeg",
+        "/storage/atakent/6.jpeg",
+        "/storage/atakent/7.jpeg",
+        "/storage/atakent/9.jpeg",
+        "/storage/atakent/11.jpeg",
+        "/storage/atakent/12.jpeg",
+        "/storage/atakent/13.jpeg",
+        "/storage/atakent/14.jpeg",
+        "/storage/atakent/15.jpeg",
+        "/storage/atakent/16.jpeg",
+        "/storage/atakent/17.jpeg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1fWbtuvvA5ysEQslm2W3AeLNpYwm37x-1/preview",
+        "https://drive.google.com/file/d/1z8TZ2DfEbaNN8MBzZBEn-4RIKy1bWOas/preview"
+      ],  
+      "price": "от 450,000 USD",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "6 месяцев"
+      }
+    },
+    "uz": {
+      "district": "Atakent (Küçükçekmece)",
+      "region": "Istanbulning Yevropa tomoni",
+      "description": "Istanbulning Yevropa qismidagi Atakent (Küçükçekmece) tumanida zamonaviy turar joy majmuasi. Kvartiralar: 2+1 dan 4+1 gacha. Majmua to‘liq foydalanishga tayyor. Investitsiya va fuqarolik olish uchun mos.",
+      "status": "Majmua to‘liq foydalanishga tayyor.",
+      "plans": [
+        "2+1",
+        "3+1",
+        "4+1"
+      ],
+      "amenities": [
+        "yopiq va ochiq basseynlar",
+        "fitnes",
+        "hamom",
+        "sauna",
+        "bug‘ xonalari",
+        "sport maydonchalari (futbol, basketbol, tennis)",
+        "bolalar maydonchalari",
+        "avtoturargoh",
+        "24/7 qo‘riqlash"
+      ],
+      "distances": {
+        "metro": "2 daqiqa",
+        "TEM avtomagistrali": "1 daqiqa",
+        "Arena Park": "1 daqiqa",
+        "Mall of Istanbul": "5 daqiqa",
+        "Istanbul aeroporti": "22 daqiqa",
+        "shifoxona": "1 daqiqa",
+        "universitet": "6 daqiqa"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/atakent/1.jpeg",
+        "/storage/atakent/2.jpeg",
+        "/storage/atakent/4.jpeg",
+        "/storage/atakent/6.jpeg",
+        "/storage/atakent/7.jpeg",
+        "/storage/atakent/9.jpeg",
+        "/storage/atakent/11.jpeg",
+        "/storage/atakent/12.jpeg",
+        "/storage/atakent/13.jpeg",
+        "/storage/atakent/14.jpeg",
+        "/storage/atakent/15.jpeg",
+        "/storage/atakent/16.jpeg",
+        "/storage/atakent/17.jpeg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1fWbtuvvA5ysEQslm2W3AeLNpYwm37x-1/preview",
+        "https://drive.google.com/file/d/1z8TZ2DfEbaNN8MBzZBEn-4RIKy1bWOas/preview"
+      ],  
+      "price": "450,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "6 oylik to‘lov"
+      }
+    }
+  }
+}
+,
+{
+  "id": 4,
+  "language_versions": {
+    "ru": {
+      "district": "Малтепе",
+      "region": "Анатолийская сторона Стамбула",
+      "description": "Современный жилой комплекс в районе Малтепе. Варианты квартир от 1+1 до 4+1. Комплекс с системой «умный дом», готовыми TAPU, без комиссии, НДС 1% включён.",
+      "status": "Сдача — конец 2025 года.",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1"
+      ],
+      "amenities": [
+        "система «умный дом»",
+        "готовые TAPU",
+        "без комиссии",
+        "НДС 1% включён",
+        "кухонное оборудование Hafele (плита, вытяжка, посудомоечная машина, духовка, микроволновка)",
+        "кондиционеры Toshiba в каждой квартире",
+        "потолки — 2.80 м",
+        "балконы от 6 до 27 м² (в 90% квартир)"
+      ],
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/maltepe/1.jpg",
+        "/storage/maltepe/2.jpg",
+        "/storage/maltepe/3.jpg",
+        "/storage/maltepe/4.jpg",
+        "/storage/maltepe/5.jpg",
+        "/storage/maltepe/6.jpg",
+        "/storage/maltepe/7.jpg",
+        "/storage/maltepe/9.jpg",
+        "/storage/maltepe/10.jpg",
+        "/storage/maltepe/12.jpg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1TMGLjPaC60JvIk4va7vq8eoIOJDLVN9R/preview",
+        "https://drive.google.com/file/d/1xIAjm2fGl9Vbk78IadwYR5PbP2ot5B7H/preview"
+      ],
+      "price": "от 236,000 USD",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "до 36 месяцев"
+      }
+    },
+    "uz": {
+      "district": "Maltepe",
+      "region": "Istanbulning Anatoliya tomoni",
+      "description": "Istanbulning Anatoliya qismidagi Maltepe tumanida zamonaviy turar joy majmuasi. Kvartiralar: 1+1 dan 4+1 gacha. Majmua «aqlli uy» tizimi, tayyor TAPU, komissiyasiz, 1% QQS narxga kiritilgan.",
+      "status": "Topshirilish — 2025-yil oxiri.",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1"
+      ],
+      "amenities": [
+        "aqlli uy tizimi",
+        "tayyor TAPU",
+        "komissiyasiz",
+        "1% QQS narxga kiritilgan",
+        "Hafele oshxona texnikasi (plita, tutun so‘rgich, idish yuvish mashinasi, duxovka, mikroto‘lqinli pech)",
+        "har bir kvartirada Toshiba konditsioneri",
+        "shift balandligi — 2,80 m",
+        "90% kvartiralarda 6–27 m² balkon"
+      ],
+      
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/maltepe/1.jpg",
+        "/storage/maltepe/2.jpg",
+        "/storage/maltepe/3.jpg",
+        "/storage/maltepe/4.jpg",
+        "/storage/maltepe/5.jpg",
+        "/storage/maltepe/6.jpg",
+        "/storage/maltepe/7.jpg",
+        "/storage/maltepe/9.jpg",
+        "/storage/maltepe/10.jpg",
+        "/storage/maltepe/12.jpg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1TMGLjPaC60JvIk4va7vq8eoIOJDLVN9R/preview",
+        "https://drive.google.com/file/d/1xIAjm2fGl9Vbk78IadwYR5PbP2ot5B7H/preview"
+      ],
+      "price": "236,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "36 oylik to‘lov"
+      }
+    }
+  }
+}
+,
+{
+  "id": 5,
+  "language_versions": {
+    "ru": {
+      "district": "Басин-Экспресс",
+      "region": "Европейская сторона Стамбула",
+      "description": "Современный жилой комплекс в районе Басин-Экспресс с квартирами от 1+1 до 4+1, с террасами, садами и уникальными видами. Проект с государственной гарантией.",
+      "status": "Сдача — 2026 год.",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1"
+      ],
+      "amenities": [
+        "торговый центр с 87 магазинами",
+        "рестораны, кафе",
+        "крытые и открытые бассейны",
+        "фитнес",
+        "сауна",
+        "паровая баня",
+        "массажный кабинет",
+        "конференц-зал",
+        "террасы",
+        "спортивные площадки (футбол, теннис, баскетбол)",
+        "детские игровые сады",
+        "балконы в квартирах",
+        "звукоизоляция",
+        "сейсмостойкие конструкции"
+      ],
+      "distances": {
+        "метро": "3 минуты",
+        "шоссе TEM": "5 минут",
+        "трасса E5": "4 км",
+        "аэропорт Ататюрк": "10 км",
+        "новый аэропорт Стамбула": "30 минут"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/basin-express/1.jpg",
+        "/storage/basin-express/2.jpg",
+        "/storage/basin-express/3.jpg",
+        "/storage/basin-express/4.jpg",
+        "/storage/basin-express/5.jpg",
+        "/storage/basin-express/6.jpg",
+        "/storage/basin-express/7.jpg",
+        "/storage/basin-express/8.jpg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/17f0-ouskHnCLy4BpW1Cs9CIGXgy44J9D/preview",
+        "https://drive.google.com/file/d/1JipUf6ZgkUsqcSaWT4YRVLxE_cMSm0Yz/preview",
+        "https://drive.google.com/file/d/1k5ajjJWSXwCBnX3qER8DJM5IYt-Y24yg/preview"
+      ],
+      "price": "от 277,500 USD",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "до 18 месяцев"
+      }
+    },
+    "uz": {
+      "district": "Basin Express",
+      "region": "Istanbulning Yevropa tomoni",
+      "description": "Istanbulning Yevropa qismidagi Basin Express hududida joylashgan zamonaviy turar joy majmuasi. Kvartiralar 1+1 dan 4+1 gacha, terassali va bog‘li variantlar mavjud. Davlat kafolatidagi loyiha.",
+      "status": "Topshirilish — 2026-yil.",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1"
+      ],
+      "amenities": [
+        "87 ta do‘kondan iborat savdo markazi",
+        "restoranlar, kafelar",
+        "yopiq va ochiq basseynlar",
+        "fitnes zali",
+        "sauna",
+        "bug‘ xonalari",
+        "massaj xonasi",
+        "konferensiya zali",
+        "terassalar",
+        "futbol, tennis va basketbol maydonchalari",
+        "bolalar bog‘lari",
+        "har bir kvartirada balkon",
+        "ovoz izolyatsiyasi",
+        "zilzilaga chidamli bino konstruksiyasi"
+      ],
+      "distances": {
+        "metro": "3 daqiqa",
+        "TEM avtomagistrali": "5 daqiqa",
+        "E5 trassasi": "4 km",
+        "Atatürk aeroporti": "10 km",
+        "Yangi Istanbul aeroporti": "30 daqiqa"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/basin-express/1.jpg",
+        "/storage/basin-express/2.jpg",
+        "/storage/basin-express/3.jpg",
+        "/storage/basin-express/4.jpg",
+        "/storage/basin-express/5.jpg",
+        "/storage/basin-express/6.jpg",
+        "/storage/basin-express/7.jpg",
+        "/storage/basin-express/8.jpg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/17f0-ouskHnCLy4BpW1Cs9CIGXgy44J9D/preview",
+        "https://drive.google.com/file/d/1JipUf6ZgkUsqcSaWT4YRVLxE_cMSm0Yz/preview",
+        "https://drive.google.com/file/d/1k5ajjJWSXwCBnX3qER8DJM5IYt-Y24yg/preview"
+      ],
+      "price": "277,500 USD dan boshlab",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "18 oylik to‘lov"
+      }
+    }
+  }
+}
+,
+{
+  "id": 6,
+  "language_versions": {
+    "ru": {
+      "district": "Бейликдюзю",
+      "region": "Европейская сторона Стамбула",
+      "description": "Современный жилой комплекс в Бейликдюзю с квартирами от 2+1 до 5+2 дуплексов. Проект с панорамным видом на Мраморное море, 70% зелёной зоны, магазины под открытым небом и развитая инфраструктура.",
+      "status": "Сдача — март 2025.",
+      "plans": [
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+2 дуплекс"
+      ],
+      "amenities": [
+        "бассейны",
+        "спортзалы",
+        "теннис",
+        "баскетбол",
+        "волейбол",
+        "бани",
+        "сауны",
+        "кинотеатр",
+        "конференц-зал",
+        "паркинги",
+        "отдельные соцзоны для мужчин и женщин"
+      ],
+      "distances": {
+        "Е-5": "5 минут",
+        "TEM": "10 минут",
+        "метробус": "5 минут",
+        "марина": "2 минуты",
+        "аэропорт": "30 минут"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/beylikduzyu6/3.jpg",
+        "/storage/beylikduzyu6/4.jpg",
+        "/storage/beylikduzyu6/5.jpg",
+        "/storage/beylikduzyu6/8.jpg",
+        "/storage/beylikduzyu6/9.jpg",
+         "/storage/beylikduzyu6/10.jpg",
+        "/storage/beylikduzyu6/11.jpg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1rT2TZ1s5HkPza4fWPcvdyAwCOamt1uJU/preview",
+        "https://drive.google.com/file/d/1_NMLqyHm0Cp-yqlaNEXn4LJn5uObyam1/preview"
+      ],
+      "price": "от 330,000 USD",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "12 месяцев без процентов"
+      }
+    },
+    "uz": {
+      "district": "Beylikdüzü",
+      "region": "Istanbulning Yevropa tomoni",
+      "description": "Istanbulning Yevropa qismidagi Beylikdüzü tumanida zamonaviy turar joy majmuasi. Kvartiralar 2+1 dan 5+2 duplexgacha. Marmara dengiziga ajoyib panoramali ko‘rinish, 70% yashil maydon, ochiq havodagi savdo markazlari va rivojlangan infratuzilma mavjud.",
+      "status": "Topshirilish — 2025-yil mart.",
+      "plans": [
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+2 duplex"
+      ],
+      "amenities": [
+        "basseynlar",
+        "sport zallari",
+        "tennis",
+        "basketbol",
+        "voleybol",
+        "hamom",
+        "sauna",
+        "kinoteatr",
+        "konferensiya zali",
+        "avtoturargoh",
+        "erkaklar va ayollar uchun alohida ijtimoiy zonalar"
+      ],
+      "distances": {
+        "E5 trassasi": "5 daqiqa",
+        "TEM avtomagistrali": "10 daqiqa",
+        "metrobus": "5 daqiqa",
+        "marina": "2 daqiqa",
+        "aeroport": "30 daqiqa"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/beylikduzyu6/3.jpg",
+        "/storage/beylikduzyu6/4.jpg",
+        "/storage/beylikduzyu6/5.jpg",
+        "/storage/beylikduzyu6/8.jpg",
+        "/storage/beylikduzyu6/9.jpg",
+        "/storage/beylikduzyu6/10.jpg",
+        "/storage/beylikduzyu6/11.jpg"
+      ],
+      "videos":[
+          "https://drive.google.com/file/d/18wngVeG-p1u9RThFM0VhJTMHDbkwW4C_/preview",
+          "https://drive.google.com/file/d/1LbQne6-A9PJSP5uHGqQkqkQXqLI2ia4B/preview",
+          "https://drive.google.com/file/d/1VDEO2KEupq52h0u8o0DMJ9RRAkG5vFHF/preview"
+      ],
+      "price": "330,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "12 oylik to‘lov, foizsiz"
+      }
+    }
+  }
+}
+,
+{
+  "id": 7,
+  "language_versions": {
+    "ru": {
+      "district": "Бейликдюзю, Гюрпынар",
+      "region": "Европейская сторона Стамбула",
+      "description": "Жилой комплекс в районе Бейликдюзю, Гюрпынар. Квартиры 2+1 и 3+1. Комплекс готов к переезду. Проект с государственной гарантией, TAPU без дополнительной оплаты, НДС 1% включён.",
+      "status": "Комплекс готов к переезду.",
+      "plans": [
+        "2+1",
+        "3+1"
+      ],
+      "amenities": [
+        "бассейны",
+        "турецкая баня",
+        "сауна",
+        "фитнес",
+        "детские площадки",
+        "зелёные зоны"
+      ],
+      "distances": {
+        "пляж Гюрпынар": "2 минуты",
+        "автобусная остановка": "1 минута",
+        "метробус": "10 минут",
+        "больницы": "3 минуты",
+        "яхтенная марина": "10 минут",
+        "ТЦ Perlavista": "10 минут",
+        "ТЦ Marmara Park": "15 минут",
+        "трасса E5": "10 минут",
+        "университет Бейкент": "10 минут",
+        "университет Айдын": "20 минут",
+        "школы": "рядом, частные и государственные"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/beylikduzyu7/1.jpeg",
+        "/storage/beylikduzyu7/2.jpeg",
+        "/storage/beylikduzyu7/3.jpeg",
+        "/storage/beylikduzyu7/4.jpeg",
+        "/storage/beylikduzyu7/5.jpeg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1rT2TZ1s5HkPza4fWPcvdyAwCOamt1uJU/preview",
+        "https://drive.google.com/file/d/1_NMLqyHm0Cp-yqlaNEXn4LJn5uObyam1/preview"
+      ],
+      "price": "от 190,000 USD",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "6 месяцев"
+      }
+    },
+    "uz": {
+      "district": "Beylikdüzü, Gürpınar",
+      "region": "Istanbulning Yevropa tomoni",
+      "description": "Istanbulning Yevropa qismidagi Beylikdüzü, Gürpınar hududida joylashgan turar joy majmuasi. Kvartiralar 2+1 va 3+1. Majmua foydalanishga tayyor. Davlat kafolatidagi loyiha, TAPU qo‘shimcha to‘lovlarsiz, QQS 1% kiritilgan.",
+      "status": "Majmua foydalanishga tayyor.",
+      "plans": [
+        "2+1",
+        "3+1"
+      ],
+      "amenities": [
+        "basseynlar",
+        "turk hamomi",
+        "sauna",
+        "fitnes",
+        "bolalar maydonchalari",
+        "yashil hududlar"
+      ],
+      "distances": {
+        "Gürpınar plyaji": "2 daqiqa",
+        "avtobus bekati": "1 daqiqa",
+        "metrobus": "10 daqiqa",
+        "shifoxona": "3 daqiqa",
+        "yaxta marinasigacha": "10 daqiqa",
+        "Perlavista savdo markazi": "10 daqiqa",
+        "Marmara Park savdo markazi": "15 daqiqa",
+        "E5 trassasi": "10 daqiqa",
+        "Beykent universiteti": "10 daqiqa",
+        "Aydın universiteti": "20 daqiqa",
+        "maktablar": "yaqinida, davlat va xususiy"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/beylikduzyu7/1.jpeg",
+        "/storage/beylikduzyu7/2.jpeg",
+        "/storage/beylikduzyu7/3.jpeg",
+        "/storage/beylikduzyu7/4.jpeg",
+        "/storage/beylikduzyu7/5.jpeg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1rT2TZ1s5HkPza4fWPcvdyAwCOamt1uJU/preview",
+        "https://drive.google.com/file/d/1_NMLqyHm0Cp-yqlaNEXn4LJn5uObyam1/preview"
+      ],
+      "price": "190,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "6 oylik to‘lov"
+      }
+    }
+  }
+}
+,
+{
+  "id": 8,
+  "language_versions": {
+    "ru": {
+      "district": "Зейтинбурну",
+      "region": "Европейская сторона Стамбула",
+      "description": "Элитный жилой комплекс в районе Зейтинбурну, Европейская сторона Стамбула. Квартиры от 2+1 до 4,5+1, также дуплексы 3+1 и 4+1. Комплекс готов к переезду. Проект с уникальной концепцией набережной Стамбула, отмечен наградами.",
+      "status": "Комплекс готов к переезду.",
+      "plans": [
+        "2+1",
+        "3+1",
+        "4+1",
+        "4.5+1"
+      ],
+      "amenities": [
+        "крытые и открытые бассейны",
+        "фитнес",
+        "СПА",
+        "сауна",
+        "джакузи",
+        "массажные кабинеты",
+        "зелёные сады",
+        "панорамные балконы",
+        "детские площадки",
+        "спортивные площадки",
+        "80 магазинов",
+        "ветеринарные услуги",
+        "трансфер в аэропорт",
+        "почасовой водитель",
+        "персональная экспресс-доставка"
+      ],
+      "distances": {
+        "станция Мармарай Зейтинбурну": "100 м",
+        "марина Атакёй и туннель Евразия": "2 км",
+        "Метробус": "3 км",
+        "Эминёню": "7 км",
+        "Султанахмет и Топкапы": "10 км"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/zeytinburnu/1.JPG",
+        "/storage/zeytinburnu/2.JPG",
+        "/storage/zeytinburnu/4.JPG",
+        "/storage/zeytinburnu/5.JPG",
+        "/storage/zeytinburnu/6.JPG",
+        "/storage/zeytinburnu/7.JPG",
+        "/storage/zeytinburnu/8.JPG",
+        "/storage/zeytinburnu/Blocks.jpg"
+      ]
+      ,
+            "videos":[
+              "https://drive.google.com/file/d/1YZJQWL8e2nCmpPJxzS4siFd82sqxA4S4/preview",
+              "https://drive.google.com/file/d/1LwK5iGnTveczFStAeRNvKl98QHjwrVQS/preview",
+              "https://drive.google.com/file/d/1u_1oJ8ryNIXyVAMxat7ACpfhWd9aahY2/preview",
+              "https://drive.google.com/file/d/1UhPldhQQdmEW61FP3LIDdH1ZupxqTeGf/preview",
+              "https://drive.google.com/file/d/1tkxedhGqy7vlo424uDpG7MJr2mAfcqAk/preview",
+              "https://drive.google.com/file/d/1wvj5MBzcYQHoRntPx3GTKoDplP3alz-m/preview",
+              "https://drive.google.com/file/d/1T77xKR9T3rIG44qFQkutTcignVEThpuL/preview"
+      
+            ],
+      "price": "от 870,000 USD",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "12 месяцев"
+      }
+    },
+    "uz": {
+      "district": "Zeytinburnu",
+      "region": "Istanbulning Yevropa tomoni",
+      "description": "Istanbulning Yevropa qismidagi Zeytinburnu hududidagi hashamatli turar joy majmuasi. Kvartiralar: 2+1 dan 4,5+1 gacha, shuningdek 3+1 va 4+1 duplex. Majmua foydalanishga tayyor. Istanbul bo‘yidagi mukofotli loyiha.",
+      "status": "Majmua foydalanishga tayyor.",
+      "plans": [
+        "2+1",
+        "3+1",
+        "4+1",
+        "4.5+1"
+      ],
+      "amenities": [
+        "yopiq va ochiq basseynlar",
+        "fitnes",
+        "SPA",
+        "sauna",
+        "jakuzi",
+        "massaj xonalari",
+        "yashil bog‘lar",
+        "panoramali balkonlar",
+        "bolalar maydonchalari",
+        "sport maydonchalari",
+        "80 ta do‘kon",
+        "veterinariya xizmati",
+        "aeroport transferi",
+        "soatlik haydovchi",
+        "shaxsiy kuryer yetkazib berish"
+      ],
+      "distances": {
+        "Zeytinburnu Marmaray stansiyasi": "100 metr",
+        "Ataköy marinasiga va Evrosiyo tunneligacha": "2 km",
+        "Metrobusa": "3 km",
+        "Eminönügacha": "7 km",
+        "Sultonahmet va Topkapıgacha": "10 km"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/zeytinburnu/1.JPG",
+        "/storage/zeytinburnu/2.JPG",
+        "/storage/zeytinburnu/4.JPG",
+        "/storage/zeytinburnu/5.JPG",
+        "/storage/zeytinburnu/6.JPG",
+        "/storage/zeytinburnu/7.JPG",
+        "/storage/zeytinburnu/8.JPG",
+        "/storage/zeytinburnu/Blocks.jpg"
+      ]
+,
+      "videos":[
+        "https://drive.google.com/file/d/1YZJQWL8e2nCmpPJxzS4siFd82sqxA4S4/preview",
+        "https://drive.google.com/file/d/1LwK5iGnTveczFStAeRNvKl98QHjwrVQS/preview",
+        "https://drive.google.com/file/d/1u_1oJ8ryNIXyVAMxat7ACpfhWd9aahY2/preview",
+        "https://drive.google.com/file/d/1UhPldhQQdmEW61FP3LIDdH1ZupxqTeGf/preview",
+        "https://drive.google.com/file/d/1tkxedhGqy7vlo424uDpG7MJr2mAfcqAk/preview",
+        "https://drive.google.com/file/d/1wvj5MBzcYQHoRntPx3GTKoDplP3alz-m/preview",
+        "https://drive.google.com/file/d/1T77xKR9T3rIG44qFQkutTcignVEThpuL/preview"
+
+      ],
+      "price": "870,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "12 oylik to‘lov"
+      }
+    }
+  }
+}
+,
+{
+  "id": 9,
+  "language_versions": {
+    "ru": {
+      "district": "Маслак – Вадистанбул",
+      "region": "Европейская сторона Стамбула",
+      "description": "Современный жилой комплекс в районе Маслак – Вадистанбул, Европейская сторона Стамбула. Квартиры от 1+1 до 5+1. Сдача — декабрь 2026. Проект с государственной гарантией.",
+      "status": "Сдача — декабрь 2026.",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+1"
+      ],
+      "amenities": [
+        "крытый бассейн",
+        "фитнес",
+        "сауна",
+        "паровые комнаты",
+        "детские площадки",
+        "спортивные зоны",
+        "панорамные виды на город",
+        "вид на леса Белграда"
+      ],
+      "distances": {
+        "станция метро Seyrantepe": "1 минута",
+        "мост 15 июля": "5 минут",
+        "аэропорт Стамбула": "25 минут",
+        "Vadi Istanbul AVM, рестораны и кафе": "в шаговой доступности"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+  "/storage/maslak9/1.jpg",
+  "/storage/maslak9/2.jpg",
+  "/storage/maslak9/4.jpg",
+  "/storage/maslak9/5.jpg",
+  "/storage/maslak9/6.jpg",
+  "/storage/maslak9/7.jpg",
+  "/storage/maslak9/8.jpg",
+  "/storage/maslak9/9.jpg"
+]
+,
+    "videos":[
+      "https://drive.google.com/file/d/1IKGGiOYXhd2PRoPb6q3-6NQYdLxsBEUm/preview",
+      "https://drive.google.com/file/d/1Fz0SPbRgNouGf1vOF0GDcrRQhpSPTFpb/preview",
+      "https://drive.google.com/file/d/1m0D7YkqJt3IASm6jI-d4IwvtQX-MSgGj/preview",
+      "https://drive.google.com/file/d/1QMWzLUH_yW-hrbLY51jrUaFqasdJ1e6T/preview",
+      "https://drive.google.com/file/d/1CKAuQsFPaWlqS7YF9eeGO-lQLoARw_gG/preview"
+    ],
+      "price": "от 450,000 USD",
+      "payment": {
+        "initial_payment": "35%",
+        "installment": "24 месяца"
+      }
+    },
+    "uz": {
+      "district": "Maslak – Vadistanbul",
+      "region": "Istanbulning Yevropa tomoni",
+      "description": "Istanbulning Yevropa qismidagi Maslak – Vadistanbul hududida joylashgan zamonaviy turar joy majmuasi. Kvartiralar: 1+1 dan 5+1 gacha. Topshirilish — 2026-yil dekabr. Davlat kafolatidagi loyiha.",
+      "status": "Topshirilish — 2026-yil dekabr.",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+1"
+      ],
+      "amenities": [
+        "yopiq basseyn",
+        "fitnes zali",
+        "sauna",
+        "bug‘ xonalari",
+        "bolalar maydonchalari",
+        "sport maydonchalari",
+        "shaharga panoramali manzara",
+        "Belgrad o‘rmonlariga qaragan manzara"
+      ],
+      "distances": {
+        "Seyrantepe metro bekati": "1 daqiqa",
+        "15-Iyul ko‘prigi": "5 daqiqa",
+        "Istanbul aeroporti": "25 daqiqa",
+        "Vadi Istanbul savdo markazi, restoran va kafelar": "yaqinida"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/maslak9/1.jpg",
+        "/storage/maslak9/2.jpg",
+        "/storage/maslak9/4.jpg",
+        "/storage/maslak9/5.jpg",
+        "/storage/maslak9/6.jpg",
+        "/storage/maslak9/7.jpg",
+        "/storage/maslak9/8.jpg",
+        "/storage/maslak9/9.jpg"
+      ]
+,
+    "videos":[
+      "https://drive.google.com/file/d/1IKGGiOYXhd2PRoPb6q3-6NQYdLxsBEUm/preview",
+      "https://drive.google.com/file/d/1Fz0SPbRgNouGf1vOF0GDcrRQhpSPTFpb/preview",
+      "https://drive.google.com/file/d/1m0D7YkqJt3IASm6jI-d4IwvtQX-MSgGj/preview",
+      "https://drive.google.com/file/d/1QMWzLUH_yW-hrbLY51jrUaFqasdJ1e6T/preview",
+      "https://drive.google.com/file/d/1CKAuQsFPaWlqS7YF9eeGO-lQLoARw_gG/preview"
+    ],
+      "price": "450,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "35%",
+        "installment": "24 oylik to‘lov"
+      }
+    }
+  }
+}
+,
+{
+  "id": 10,
+  "language_versions": {
+    "ru": {
+      "district": "Испартакуле",
+      "region": "Европейская сторона Стамбула",
+      "description": "Современный жилой комплекс в районе Испартакуле, Европейская сторона Стамбула. Квартиры от 2+1 до 5+1. Часть комплекса уже готова к заселению, другая — в стадии строительства. Проект с государственной гарантией.",
+      "status": "Частично готов, сдача: май 2025, финальный этап — 2026.",
+      "plans": [
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+1"
+      ],
+      "amenities": [
+        "сауна",
+        "турецкий хаммам",
+        "спортивный зал",
+        "детская площадка",
+        "крытый бассейн",
+        "футбольные, баскетбольные и теннисные корты",
+        "двухуровневая парковка",
+        "55 магазинов"
+      ],
+      "distances": {
+        "Канал Стамбул": "1 км",
+        "озеро Кючюкчекмедже": "панорамный вид",
+        "станция Marmaray": "2 км",
+        "станция метро M7": "1.5 км"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/ispartakule/1.jpg",
+        "/storage/ispartakule/2.jpg",
+        "/storage/ispartakule/3.jpg",
+        "/storage/ispartakule/4.jpg",
+        "/storage/ispartakule/5.jpg",
+        "/storage/ispartakule/6.jpg",
+        "/storage/ispartakule/7.jpg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1zWxOn30za7B4BxBShrCLGdOwiMiEhyEG/preview",
+        "https://drive.google.com/file/d/181bOLt2uJmMqgrIGL5VumTgf8SlURTeM/preview",
+        "https://drive.google.com/file/d/1DYaFbSjqdP9ea2RTQd80mg5H2xD6BZCi/preview",
+        "https://drive.google.com/file/d/1RDTYvnAge54L6-uDwfGc_4EIW50lH8Yq/preview"
+      ],
+      "price": "от 320,000 USD",
+      "payment": {
+        "initial_payment": "35%",
+        "installment": "36 месяцев (в турецких лирах)"
+      },
+      "additional_costs": {
+        "НДС": "1%",
+        "оформление права собственности": "2%",
+        "подключение": "1%"
+      }
+    },
+    "uz": {
+      "district": "Ispartakule",
+      "region": "Istanbulning Yevropa tomoni",
+      "description": "Istanbulning Yevropa qismidagi Ispartakule hududida joylashgan zamonaviy turar joy majmuasi. Kvartiralar: 2+1 dan 5+1 gacha. Majmuaning bir qismi foydalanishga tayyor, qolgan qismi qurilish bosqichida. Davlat kafolatidagi loyiha.",
+      "status": "Bir qismi tayyor, topshirilish: 2025-yil may, yakuniy bosqich — 2026.",
+      "plans": [
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+1"
+      ],
+      "amenities": [
+        "sauna",
+        "turk hamomi",
+        "sport zali",
+        "bolalar maydonchasi",
+        "yopiq basseyn",
+        "futbol, basketbol va tennis maydonchalari",
+        "ikki qavatli avtoturargoh",
+        "55 ta do‘kon"
+      ],
+      "distances": {
+        "Kanal Istanbul": "1 km",
+        "Kichikchikmadje ko‘li": "panoramali manzara",
+        "Marmaray stansiyasi": "2 km",
+        "M7 metro bekati": "1,5 km"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/ispartakule/1.jpg",
+        "/storage/ispartakule/2.jpg",
+        "/storage/ispartakule/3.jpg",
+        "/storage/ispartakule/4.jpg",
+        "/storage/ispartakule/5.jpg",
+        "/storage/ispartakule/6.jpg",
+        "/storage/ispartakule/7.jpg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1zWxOn30za7B4BxBShrCLGdOwiMiEhyEG/preview",
+        "https://drive.google.com/file/d/181bOLt2uJmMqgrIGL5VumTgf8SlURTeM/preview",
+        "https://drive.google.com/file/d/1DYaFbSjqdP9ea2RTQd80mg5H2xD6BZCi/preview",
+        "https://drive.google.com/file/d/1RDTYvnAge54L6-uDwfGc_4EIW50lH8Yq/preview"
+      ],
+      "price": "320,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "35%",
+        "installment": "36 oylik to‘lov (turk liralarida)"
+      },
+      "additional_costs": {
+        "QQS": "1%",
+        "mulk huquqi rasmiylashtirish": "2%",
+        "ulanish to‘lovi": "1%"
+      }
+    }
+  }
+}
+,
+{
+  "id": 11,
+  "language_versions": {
+    "ru": {
+      "district": "Маслак – Вадистанбул",
+      "region": "Европейская сторона Стамбула",
+      "description": "Элитный жилой комплекс в районе Маслак – Вадистанбул, Европейская сторона Стамбула. Квартиры от 2+1 до 5+1, с разными планировками и видами. Комплекс готов к переезду. Проект с государственной гарантией.",
+      "status": "Готов к заселению",
+      "plans": [
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+1"
+      ],
+      "amenities": [
+        "конный клуб",
+        "государственная школа",
+        "частный колледж",
+        "рестораны и кафе",
+        "футбольные, баскетбольные и теннисные корты",
+        "открытый и закрытый бассейны",
+        "сауна",
+        "турецкая баня",
+        "спортивный центр"
+      ],
+      "distances": {
+        "шоссе": "1 минута",
+        "торговый центр Vadistanbul": "5 минут",
+        "аэропорт Стамбула": "25 минут"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/maslak11/1.jpeg",
+        "/storage/maslak11/2.jpeg",
+        "/storage/maslak11/3.jpeg",
+        "/storage/maslak11/4.jpeg",
+        "/storage/maslak11/5.jpeg",
+        "/storage/maslak11/6.jpeg",
+        "/storage/maslak11/7.jpeg",
+        "/storage/maslak11/8.jpeg",
+        "/storage/maslak11/9.jpeg",
+        "/storage/maslak11/10.jpeg",
+        "/storage/maslak11/11.jpeg",
+        "/storage/maslak11/12.jpeg",
+        "/storage/maslak11/13.jpeg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1IKGGiOYXhd2PRoPb6q3-6NQYdLxsBEUm/preview",
+        "https://drive.google.com/file/d/1Fz0SPbRgNouGf1vOF0GDcrRQhpSPTFpb/preview",
+        "https://drive.google.com/file/d/1m0D7YkqJt3IASm6jI-d4IwvtQX-MSgGj/preview",
+        "https://drive.google.com/file/d/1QMWzLUH_yW-hrbLY51jrUaFqasdJ1e6T/preview",
+        "https://drive.google.com/file/d/1CKAuQsFPaWlqS7YF9eeGO-lQLoARw_gG/preview"
+      ],
+      "price": "от 900,000 USD",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "6 месяцев"
+      }
+    },
+    "uz": {
+      "district": "Maslak – Vadistanbul",
+      "region": "Istanbulning Yevropa tomoni",
+      "description": "Istanbulning Yevropa qismidagi Maslak – Vadistanbul hududida joylashgan hashamatli turar joy majmuasi. Kvartiralar: 2+1 dan 5+1 gacha, turli rejalashtirish va manzaralar bilan. Majmua foydalanishga tayyor. Davlat kafolatidagi loyiha.",
+      "status": "Foydalanishga tayyor",
+      "plans": [
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+1"
+      ],
+      "amenities": [
+        "ot sport klubi",
+        "davlat maktabi",
+        "xususiy kollej",
+        "restoran va kafelar",
+        "futbol, basketbol va tennis maydonchalari",
+        "ochiq va yopiq basseynlar",
+        "sauna",
+        "turk hamomi",
+        "sport markazi"
+      ],
+      "distances": {
+        "shosse": "1 daqiqa",
+        "Vadistanbul savdo markazi": "5 daqiqa",
+        "Istanbul aeroporti": "25 daqiqa"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/maslak11/1.jpeg",
+        "/storage/maslak11/2.jpeg",
+        "/storage/maslak11/3.jpeg",
+        "/storage/maslak11/4.jpeg",
+        "/storage/maslak11/5.jpeg",
+        "/storage/maslak11/6.jpeg",
+        "/storage/maslak11/7.jpeg",
+        "/storage/maslak11/8.jpeg",
+        "/storage/maslak11/9.jpeg",
+        "/storage/maslak11/10.jpeg",
+        "/storage/maslak11/11.jpeg",
+        "/storage/maslak11/12.jpeg",
+        "/storage/maslak11/13.jpeg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1IKGGiOYXhd2PRoPb6q3-6NQYdLxsBEUm/preview",
+        "https://drive.google.com/file/d/1Fz0SPbRgNouGf1vOF0GDcrRQhpSPTFpb/preview",
+        "https://drive.google.com/file/d/1m0D7YkqJt3IASm6jI-d4IwvtQX-MSgGj/preview",
+        "https://drive.google.com/file/d/1QMWzLUH_yW-hrbLY51jrUaFqasdJ1e6T/preview",
+        "https://drive.google.com/file/d/1CKAuQsFPaWlqS7YF9eeGO-lQLoARw_gG/preview"
+      ],
+      "price": "900,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "6 oylik to‘lov"
+      }
+    }
+  }
+}
+,
+{
+  "id": 12,
+  "language_versions": {
+    "ru": {
+      "district": "Бейликдюзю, улица Каваклы",
+      "region": "Европейская сторона Стамбула",
+      "description": "Жилой комплекс расположен на улице Каваклы в районе Бейликдюзю, одном из самых удобных и развивающихся районов на Европейской стороне Стамбула. Проект предлагает квартиры форматов 1+1, 2+1, 3+1 и 4+1, часть из которых с видом на море. Комплекс полностью готов к заселению.",
+      "status": "Готов к заселению",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1"
+      ],
+      "amenities": [
+        "бассейн",
+        "спортзал",
+        "баскетбольная площадка",
+        "детская игровая зона",
+        "социальные объекты"
+      ],
+      "distances": {
+        "шоссе (E5)": "2 минуты"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/beylikduzyu12/12.jpg",
+        "/storage/beylikduzyu12/13.jpg",
+        "/storage/beylikduzyu12/14.jpg",
+        "/storage/beylikduzyu12/111.png",
+        "/storage/beylikduzyu12/122.jpg",
+        "/storage/beylikduzyu12/123.jpg",
+        "/storage/beylikduzyu12/133.jpg",
+        "/storage/beylikduzyu12/144.jpg",
+        "/storage/beylikduzyu12/145.jpg",
+        "/storage/beylikduzyu12/1455.jpg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1H0a9o3P82cxOuqdi0ERZJIrYZzWWs5KX/preview",
+        "https://drive.google.com/file/d/18aFwSCRnWEtaX4Q4Ae-On9QzUdfWrBu4/preview",
+        "https://drive.google.com/file/d/1noPS0Jt_-Fl8MAPG8oUWxiJgQcRWVtjS/preview"
+      ],
+      "price": "от 150,000 USD"
+    },
+    "uz": {
+      "district": "Beylikdüzü, Kavaklı ko‘chasi",
+      "region": "Istanbulning Yevropa tomoni",
+      "description": "Turar joy majmuasi Istanbulning Beylikdüzü tumanidagi Kavaklı ko‘chasida joylashgan. Bu hudud shaharning Yevropa qismidagi eng qulay va tez rivojlanayotgan tumanlaridan biridir. Loyihada 1+1, 2+1, 3+1 va 4+1 formatdagi kvartiralar taklif etiladi. Ba’zi kvartiralardan dengiz manzarasi ko‘rinadi. Majmua to‘liq foydalanishga tayyor.",
+      "status": "Foydalanishga tayyor",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1"
+      ],
+      "amenities": [
+        "basseyn",
+        "sport zali",
+        "basketbol maydonchasi",
+        "bolalar o‘yin maydonchasi",
+        "ijtimoiy qulayliklar"
+      ],
+      "distances": {
+        "shosse (E5)": "2 daqiqa"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/beylikduzyu12/12.jpg",
+        "/storage/beylikduzyu12/13.jpg",
+        "/storage/beylikduzyu12/14.jpg",
+        "/storage/beylikduzyu12/111.png",
+        "/storage/beylikduzyu12/122.jpg",
+        "/storage/beylikduzyu12/123.jpg",
+        "/storage/beylikduzyu12/133.jpg",
+        "/storage/beylikduzyu12/144.jpg",
+        "/storage/beylikduzyu12/145.jpg",
+        "/storage/beylikduzyu12/1455.jpg"
+      ],
+      "videos":[
+        "https://drive.google.com/file/d/1H0a9o3P82cxOuqdi0ERZJIrYZzWWs5KX/preview",
+        "https://drive.google.com/file/d/18aFwSCRnWEtaX4Q4Ae-On9QzUdfWrBu4/preview",
+        "https://drive.google.com/file/d/1noPS0Jt_-Fl8MAPG8oUWxiJgQcRWVtjS/preview"
+      ],
+      "price": "150,000 USD dan boshlab"
+    }
+  }
+}
+,
+{
+  "id": 13,
+  "language_versions": {
+    "ru": {
+      "district": "Бюкчекмедже",
+      "region": "Европейская сторона",
+      "status": "Сдача — декабрь 2027",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "виллы 2+1 – 5+1"
+      ],
+      "amenities": [
+        "Прямой вид на озеро",
+        "Университеты и школы рядом",
+        "Пляж",
+        "Торговые центры"
+      ],
+      "distances": {
+        "метро": "между трассами E5 и TEM",
+        "шоссе": "E5 и TEM"
+      },
+      "suitable_for": [
+        "ВНЖ",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/byukchekmedje/1.jpg",
+        "/storage/byukchekmedje/2.jpg",
+        "/storage/byukchekmedje/3.jpg",
+        "/storage/byukchekmedje/4.jpg",
+        "/storage/byukchekmedje/5.jpg",
+        "/storage/byukchekmedje/6.jpg",
+        "/storage/byukchekmedje/7.jpg"
+      ],
+      "price": "от 185,000 USD",
+      "payment": {
+        "initial_payment": "35%",
+        "installment": "рассрочка на 36 месяцев"
+      }
+    },
+    "uz": {
+      "district": "Büyükçekmece",
+      "region": "Yevropa tomoni",
+      "status": "Topshirilish: 2027-yil dekabr",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "2+1 – 5+1 villalar"
+      ],
+      "amenities": [
+        "To‘g‘ridan-to‘g‘ri ko‘l manzarasi",
+        "Yaqinida universitetlar va maktablar",
+        "Plyaj",
+        "Savdo markazlari"
+      ],
+      "distances": {
+        "metro": "E5 va TEM yo‘llari orasida",
+        "shosse": "E5 va TEM"
+      },
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images":[
+        "/storage/byukchekmedje/1.jpg",
+        "/storage/byukchekmedje/2.jpg",
+        "/storage/byukchekmedje/3.jpg",
+        "/storage/byukchekmedje/4.jpg",
+        "/storage/byukchekmedje/5.jpg",
+        "/storage/byukchekmedje/6.jpg",
+        "/storage/byukchekmedje/7.jpg"
+      ],
+      "price": "185,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "35%",
+        "installment": "36 oylik to‘lov"
+      }
+    }
+  }
+}
+
+]
