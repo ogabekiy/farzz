@@ -2,20 +2,27 @@
 import { Mail, Phone, Instagram, Youtube, MessageCircle, Send, Globe, Home, Info, Building2, Facebook, SendIcon } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { useRouter } from 'next/navigation';
+import { useRouter, usePathname, useSearchParams } from 'next/navigation';
 import CallbackModal from './CallBackModel';
 import { useState } from 'react';
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 
 const Footer = () => {
   const router = useRouter();
-
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+  const locale = useLocale();
   const t = useTranslations("Footer")
 
   const [modalOpen, setModalOpen] = useState(false);
 
-  const changeLocale = (locale) => {
-    router.push(`/${locale}`);
+  const changeLocale = (newLocale) => {
+    const segments = pathname.split('/').filter(Boolean);
+    segments[0] = newLocale;
+    const newPath = `/${segments.join('/')}`;
+    const query = searchParams.toString();
+    const fullPath = query ? `${newPath}?${query}` : newPath;
+    router.replace(fullPath);
   };
 
   return (
@@ -110,7 +117,7 @@ const Footer = () => {
               <select
                 className="bg-gray-800 text-white border border-gray-700 rounded-md px-2 py-1 focus:outline-none focus:ring-2 focus:ring-blue-400"
                 onChange={(e) => changeLocale(e.target.value)}
-                defaultValue="uz"
+                value={locale}
               >
                 <option value="uz">Oʻzbek</option>
                 <option value="ru">Русский</option>

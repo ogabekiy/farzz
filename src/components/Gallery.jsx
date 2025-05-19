@@ -1,13 +1,9 @@
-"use client"
-import Masonry from "react-masonry-css"
-import Image from "next/image"
-import { cn } from "@/lib/utils"
-
-import { useTranslations } from "next-intl"
-
-
-
-
+"use client";
+import Masonry from "react-masonry-css";
+import Image from "next/image";
+import { cn } from "@/lib/utils";
+import { useTranslations } from "next-intl";
+import { motion } from "framer-motion";
 
 export default function Home() {
   const breakpointColumnsObj = {
@@ -15,9 +11,9 @@ export default function Home() {
     1100: 3,
     700: 2,
     500: 1,
-  }
+  };
 
-  const t = useTranslations("Gallery")
+  const t = useTranslations("Gallery");
 
   const propertyCategories = [
     {
@@ -69,10 +65,34 @@ export default function Home() {
       image: "/storage/beylikduzyu7/4.jpeg",
       size: "large",
     },
-  ]
+  ];
 
-  const title = t("title")  
-  const description = t("text")
+  const title = t("title");
+  const description = t("text");
+
+  // Variant generator
+  const getRandomVariant = (index) => {
+    const directions = [
+      { x: -50, y: 0 },
+      { x: 50, y: 0 },
+      { x: 0, y: -50 },
+      { x: 0, y: 50 },
+    ];
+    const dir = directions[index % directions.length];
+    return {
+      hidden: { opacity: 0, ...dir },
+      visible: {
+        opacity: 1,
+        x: 0,
+        y: 0,
+        transition: {
+          duration: 0.6,
+          delay: index * 0.1,
+          ease: "easeOut",
+        },
+      },
+    };
+  };
 
   return (
     <main className="min-h-screen py-12">
@@ -87,19 +107,24 @@ export default function Home() {
           className="flex w-auto -ml-4"
           columnClassName="pl-4 bg-clip-padding"
         >
-          {propertyCategories.map((category) => {
+          {propertyCategories.map((category, index) => {
             const heights = {
               small: "h-[180px] sm:h-[220px]",
               medium: "h-[220px] sm:h-[280px]",
               large: "h-[280px] sm:h-[380px]",
-            }
-
-            const height = category.size ? heights[category.size] : heights.medium
+            };
+            const height = category.size ? heights[category.size] : heights.medium;
 
             return (
-              <div
+              <motion.div
                 key={category.id}
-                className={cn("mb-4 overflow-hidden rounded-lg relative group cursor-pointer", height)}
+                className={cn(
+                  "mb-4 overflow-hidden rounded-lg relative group cursor-pointer",
+                  height
+                )}
+                variants={getRandomVariant(index)}
+                initial="hidden"
+                animate="visible"
                 style={{ marginBottom: `${Math.random() * 8 + 16}px` }}
               >
                 <div className="absolute inset-0 bg-black/20 group-hover:bg-black/30 transition-all duration-300 z-10"></div>
@@ -114,11 +139,11 @@ export default function Home() {
                   <div className="text-sm font-medium mb-1">{category.count} объектов</div>
                   <h3 className="text-xl font-bold">{category.title}</h3>
                 </div>
-              </div>
-            )
+              </motion.div>
+            );
           })}
         </Masonry>
       </div>
     </main>
-  )
+  );
 }

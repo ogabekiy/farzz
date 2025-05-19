@@ -11,6 +11,7 @@ import 'swiper/css/navigation';
 import { MapPin, ChevronLeft, ChevronRight, ArrowRight, Building2 } from 'lucide-react';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Link from 'next/link';
 
 export default function AllApartments() {
   const locale = useLocale();
@@ -63,6 +64,7 @@ export default function AllApartments() {
                 >
                   {(apartment.images || []).map((img, idx) => (
                     <SwiperSlide key={idx}>
+                       <Link href={`/${locale}/apartments/${index+1}`}>
                       <Image
                         width={800}
                         height={400}
@@ -70,6 +72,7 @@ export default function AllApartments() {
                         alt={`Apartment ${apartment.id}`}
                         className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
                       />
+                      </Link>
                     </SwiperSlide>
                   ))}
                 </Swiper>

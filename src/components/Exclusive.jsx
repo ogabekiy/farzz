@@ -9,6 +9,7 @@ import { Navigation } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import { MapPin, ChevronLeft, ChevronRight, ArrowRight, Building2 } from 'lucide-react';
+import Link from 'next/link';
 
 export default function Exclusive() {
   const locale = useLocale();
@@ -51,6 +52,7 @@ export default function Exclusive() {
                 >
                   {(apartment.images || []).map((img, idx) => (
                     <SwiperSlide key={idx}>
+                      <Link href={`/${locale}/apartments/${index+1}`}>
                       <Image
                         width={800}
                         height={400}
@@ -58,6 +60,7 @@ export default function Exclusive() {
                         alt={`Apartment ${apartment.id}`}
                         className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
                       />
+                      </Link>
                     </SwiperSlide>
                   ))}
                 </Swiper>
@@ -110,10 +113,10 @@ export default function Exclusive() {
         })}
       </div>
 
-      <button className="group bg-[#174d99] mx-auto mt-10 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full text-base sm:text-lg hover:bg-[#1a6de0] transition-all flex items-center gap-2">
+      <Link href={`/${locale}/apartments`} className="group w-[400px] bg-[#174d99] mx-auto mt-10 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full text-base sm:text-lg hover:bg-[#1a6de0] transition-all flex items-center gap-2">
                 {t("view")}
                 <ArrowRight className="h-5 w-5 group-hover:translate-x-1 transition-transform" />
-              </button>
+              </Link>
 
 
       {/* Hide default arrows */}
