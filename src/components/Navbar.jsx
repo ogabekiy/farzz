@@ -21,7 +21,6 @@ export default function Navbar() {
   const pathname = usePathname();
   const searchParams = useSearchParams();
 
-  // ✅ Scroll uchun background o‘zgartirish
   useEffect(() => {
     const handleScroll = () => {
       setIsScrolled(window.scrollY > 10);
@@ -186,24 +185,7 @@ export default function Navbar() {
             </Link>
 
             {/* Example dropdown */}
-            <div>
-              <button
-                onClick={() => handleDropdownToggle("services")}
-                className="w-full text-left hover:text-[#1e7bff] text-sm"
-              >
-                Services
-              </button>
-              {activeDropdown === "services" && (
-                <div className="pl-4 py-2">
-                  <Link href="#" className="block py-1 hover:text-[#1e7bff] text-sm">
-                    Consulting
-                  </Link>
-                  <Link href="#" className="block py-1 hover:text-[#1e7bff] text-sm">
-                    Property Management
-                  </Link>
-                </div>
-              )}
-            </div>
+           
           </div>
         </nav>
       )}
