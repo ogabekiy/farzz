@@ -84,7 +84,7 @@ export default function AboutPage() {
             {t("us")}
           </motion.h2>
           <motion.p
-            className="text-lg text-gray-700 leading-8 text-justify mb-10"
+            className="text-lg text-gray-700 text-justify mb-10"
             variants={fadeInUp}
             initial="hidden"
             animate="visible"
