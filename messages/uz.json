@@ -27,5 +27,11 @@
         "initial_payment":"Boshlang'ich to'lov",
         "installment":"muddat",
         "view":"Barcha obyektlarni ko'rish"
+    },
+    "Gallery": {
+        "title": "Ushbu variantlarni ham ko'rib chiqing",
+        "text": "Farzz Group – bu ishonch, shaffoflik va har bir mijozga individual yondashuv.",
+        "euro":"Yevropa tomoni",
+        "anotoly":"Anatoliya tomoni"
     }
 }

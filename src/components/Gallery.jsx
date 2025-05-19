@@ -3,57 +3,11 @@ import Masonry from "react-masonry-css"
 import Image from "next/image"
 import { cn } from "@/lib/utils"
 
-const propertyCategories = [
-  {
-    id: 1,
-    title: "У моря",
-    count: 244,
-    image: "https://drive.google.com/uc?export=download&id=17J--PnTouEJ_80phd4ETOhUcan47a5LU",
-    size: "small",
-  },
-  {
-    id: 2,
-    title: "Эксклюзивные",
-    count: 397,
-    image: "https://drive.google.com/uc?id=1cnnw-tNaFzT0qnsdKJggEHvM2R8KlmHX",
-    size: "large",
-  },
-  {
-    id: 3,
-    title: "Элитная",
-    count: 841,
-    image: "https://drive.google.com/uc?export=download&id=1nblS8fSc92ikZMF2ZlFr8c0ud1d_YFSM",
-    size: "medium",
-  },
-  {
-    id: 4,
-    title: "Под гражданство",
-    count: 398,
-    image: "https://drive.google.com/uc?export=download&id=1eIx3pHFj7Mf076YOIE57pD4RpOmTr9KV",
-    size: "small",
-  },
-  {
-    id: 5,
-    title: "От застройщиков",
-    count: 635,
-    image: "https://drive.google.com/uc?export=download&id=14BBrYbKhyg5Qkcl99YvA6C4NyiRS_Dex",
-    size: "medium",
-  },
-  {
-    id: 6,
-    title: "От собственника",
-    count: 3502,
-    image: "https://drive.google.com/uc?export=download&id=1ZHlMJn1hwL7ZgErgeYcFrr1vJGeyadep",
-    size: "medium",
-  },
-  {
-    id: 7,
-    title: "Виллы",
-    count: 255,
-    image: "https://drive.google.com/uc?export=download&id=1oE8r9BUOIjgV9y0bXp0M1kzYBi8RxTbm",
-    size: "large",
-  },
-]
+import { useTranslations } from "next-intl"
+
+
+
+
 
 export default function Home() {
   const breakpointColumnsObj = {
@@ -63,8 +17,62 @@ export default function Home() {
     500: 1,
   }
 
-  const title = "Лучшие предложения для наших клиентов"
-  const description = "Point Property – агентство недвижимости с самой обширной базой жилых и коммерческих объектов в лучших локациях Турции"
+  const t = useTranslations("Gallery")
+
+  const propertyCategories = [
+    {
+      id: 1,
+      title: t("anotoly"),
+      count: 244,
+      image: "/storage/kartal/1.jpeg",
+      size: "small",
+    },
+    {
+      id: 2,
+      title: t("euro"),
+      count: 397,
+      image: "/storage/atakent/4.jpeg",
+      size: "large",
+    },
+    {
+      id: 3,
+      title: t("anotoly"),
+      count: 841,
+      image: "/storage/pendik/18.jpg",
+      size: "medium",
+    },
+    {
+      id: 4,
+      title: t("anotoly"),
+      count: 398,
+      image: "/storage/atakent/11.jpeg",
+      size: "small",
+    },
+    {
+      id: 5,
+      title: t("euro"),
+      count: 635,
+      image: "/storage/basin-express/3.jpg",
+      size: "medium",
+    },
+    {
+      id: 6,
+      title: t("euro"),
+      count: 3502,
+      image: "/storage/basin-express/4.jpg",
+      size: "medium",
+    },
+    {
+      id: 7,
+      title: t("euro"),
+      count: 255,
+      image: "/storage/beylikduzyu7/4.jpeg",
+      size: "large",
+    },
+  ]
+
+  const title = t("title")  
+  const description = t("text")
 
   return (
     <main className="min-h-screen py-12">
