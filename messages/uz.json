@@ -19,5 +19,13 @@
     "error": "Iltimos, barcha maydonlarni to‘ldiring.",
   "success": "Xabaringiz yuborildi!",
   "sendError": "Xabar yuborishda xatolik yuz berdi. Keyinroq urinib ko‘ring."
-}
+},
+    "Exclusive": {
+        "title": "Eksklyuziv takliflar",
+        "rooms": "Xonalar",
+        "pay": "To'lov",
+        "initial_payment":"Boshlang'ich to'lov",
+        "installment":"muddat",
+        "view":"Barcha obyektlarni ko'rish"
+    }
 }

@@ -140,5 +140,9 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+.swiper-button-next,
+.swiper-button-prev {
+  color: white;
+}
 
 /* Add this CSS in your global stylesheet or a <style> tag */
