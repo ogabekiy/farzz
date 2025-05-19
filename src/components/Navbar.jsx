@@ -3,7 +3,7 @@ import { Phone, Mail, Menu, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useState, useEffect } from "react";
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { useRouter } from "next/navigation";
 import CallbackModal from "./CallBackModel";
 
@@ -14,6 +14,8 @@ export default function Navbar() {
   const [modalOpen, setModalOpen] = useState(false);
   const t = useTranslations("HomePage");
   const router = useRouter();
+
+  const localeNav = useLocale();
 
   const changeLocale = (locale) => {
     router.push(`/${locale}`);
@@ -102,64 +104,30 @@ export default function Navbar() {
         {/* Desktop Navigation */}
         <nav className="hidden lg:flex items-center gap-4">
           <div className="relative">
-            <button
-              onClick={() => handleDropdownToggle("company")}
+            <Link
+             href={`/${localeNav}/about`}
               className="hover:text-[#1e7bff] text-sm"
             >
               {t("about")}
-            </button>
-            {activeDropdown === "company" && (
-              <div className="absolute top-full left-0 bg-[#0e1e3a] shadow-md rounded-md py-2 min-w-[150px] z-50">
-                <Link href="#" className="block px-4 py-2 hover:bg-[#1e7bff] hover:text-white text-sm">
-                  Our Story
-                </Link>
-                <Link href="#" className="block px-4 py-2 hover:bg-[#1e7bff] hover:text-white text-sm">
-                  Team
-                </Link>
-              </div>
-            )}
+            </Link>
+        
           </div>
 
-          <div className="relative">
-            <button
-              onClick={() => handleDropdownToggle("services")}
-              className="hover:text-[#1e7bff] text-sm"
-            >
-              Services
-            </button>
-            {activeDropdown === "services" && (
-              <div className="absolute top-full left-0 bg-[#0e1e3a] shadow-md rounded-md py-2 min-w-[150px] z-50">
-                <Link href="#" className="block px-4 py-2 hover:bg-[#1e7bff] hover:text-white text-sm">
-                  Consulting
-                </Link>
-                <Link href="#" className="block px-4 py-2 hover:bg-[#1e7bff] hover:text-white text-sm">
-                  Property Management
-                </Link>
-              </div>
-            )}
-          </div>
+          
 
           <Link href="#" className="hover:text-[#1e7bff] text-sm">
             {t("home")}
           </Link>
 
           <div className="relative">
-            <button
-              onClick={() => handleDropdownToggle("catalog")}
-              className="flex items-center bg-blue-900 rounded-3xl p-2 gap-1 hover:text-[#1e7bff] text-sm"
-            >
-              <span>{t("all_apartments")}</span>
-            </button>
-            {activeDropdown === "catalog" && (
-              <div className="absolute top-full left-0 bg-[#0e1e3a] shadow-md rounded-md py-2 min-w-[150px] z-50">
-                <Link href="#" className="block px-4 py-2 hover:bg-[#1e7bff] hover:text-white text-sm">
-                  Apartments
-                </Link>
-                <Link href="#" className="block px-4 py-2 hover:bg-[#1e7bff] hover:text-white text-sm">
-                  Villas
-                </Link>
-              </div>
-            )}
+          <Link
+  href={`/${localeNav}/apartments`}
+  className="flex items-center bg-blue-900 rounded-3xl p-2 gap-1 hover:text-[#1e7bff] text-sm"
+>
+  <span>{t("all_apartments")}</span>
+</Link>
+
+              
           </div>
         </nav>
 

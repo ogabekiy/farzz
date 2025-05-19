@@ -26,7 +26,8 @@
         "pay": "To'lov",
         "initial_payment":"Boshlang'ich to'lov",
         "installment":"muddat",
-        "view":"Barcha obyektlarni ko'rish"
+        "view":"Barcha obyektlarni ko'rish",
+        "see_more":"Ko'proq ko'rish"
     },
     "Gallery": {
         "title": "Ushbu variantlarni ham ko'rib chiqing",

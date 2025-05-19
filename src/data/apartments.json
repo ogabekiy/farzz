@@ -4,7 +4,8 @@
     "language_versions": {
       "ru": {
         "district": "Картал",
-        "region": "Анатолийская сторона",
+        "region": "Анатолийская сторона Стамбула",
+        "description": "Роскошный жилой и коммерческий проект в районе Картал, Стамбул. Сдача — март 2028. Квартиры от 1+1 до 4+1, а также дуплексы. Проект с государственной гарантией.",
         "status": "Сдача — март 2028",
         "plans": [
           "1+1",
@@ -23,7 +24,8 @@
           "Тапу 0%",
           "Двухэтажный торговый центр с 131 коммерческой единицей",
           "Отличная инвестиционная возможность (на стадии строительства)",
-          "Стратегическое расположение рядом с транспортом"
+          "Стратегическое расположение рядом с транспортом",
+          "Проект с государственной гарантией"
         ],
         "distances": {
           "Marmaray": "2 минуты",
@@ -32,7 +34,7 @@
           "аэропорт Сабиха Гекчен": "20 минут"
         },
         "amenities": [
-          "Большие зелёные зоны",
+          "большие зелёные зоны",
           "пешеходные дорожки",
           "теннисные и баскетбольные площадки",
           "бассейн",
@@ -45,7 +47,7 @@
           "ВНЖ",
           "гражданство"
         ],
-        "contact": "+90 507 254 78 78",
+        "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
         "images": [
           "/storage/kartal/1.jpeg",
           "/storage/kartal/2.jpeg",
@@ -58,14 +60,15 @@
           "/storage/kartal/9.jpeg",
           "/storage/kartal/10.jpeg"
         ],
-        "videos": ["https://drive.google.com/file/d/1mdLw8aV8CvNBWGU5-TJdRRxEqoNfLXJ-/preview",
-        "https://drive.google.com/file/d/15MwNt2eyD6CP13HNhCtTQsCXPCWfVH0i/preview"
+        "videos": [
+          "https://drive.google.com/file/d/1mdLw8aV8CvNBWGU5-TJdRRxEqoNfLXJ-/preview",
+          "https://drive.google.com/file/d/15MwNt2eyD6CP13HNhCtTQsCXPCWfVH0i/preview"
         ]
-
       },
       "uz": {
         "district": "Kartal",
-        "region": "Anatoliya",
+        "region": "Istanbulning Anatoliya tomoni",
+        "description": "Istanbulning Kartal hududidagi hashamatli turar joy va tijorat loyihasi. Topshirilish — 2028-yil mart. Kvartiralar: 1+1 dan 4+1 gacha va duplexlar. Loyiha davlat kafolatiga ega.",
         "status": "Topshirilish — 2028-yil mart",
         "plans": [
           "1+1",
@@ -74,17 +77,18 @@
           "4+1",
           "duplexlar"
         ],
-        "price": "290,000 USD dan boshlab(to‘lovlar turk liralarida)",
+        "price": "290,000 USD dan boshlab (to‘lovlar turk liralarida)",
         "payment": {
           "initial_payment": "35%",
-          "installment": "24 месяца"
+          "installment": "24 oy"
         },
         "advantages": [
           "QQS 1%",
           "Tapu 0%",
           "131 ta tijorat ob’ekti bilan ikki qavatli savdo markazi",
           "Qurilish bosqichidagi foydali investitsiya",
-          "Transportga qulay joylashuv"
+          "Transportga qulay joylashuv",
+          "Davlat kafolatidagi loyiha"
         ],
         "distances": {
           "Marmaray": "2 daqiqa",
@@ -106,7 +110,7 @@
           "VNZH",
           "fuqarolik"
         ],
-        "contact": "+90 507 254 78 78",
+        "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
         "images": [
           "/storage/kartal/1.jpeg",
           "/storage/kartal/2.jpeg",
@@ -119,12 +123,14 @@
           "/storage/kartal/9.jpeg",
           "/storage/kartal/10.jpeg"
         ],
-        "videos": ["https://drive.google.com/file/d/1mdLw8aV8CvNBWGU5-TJdRRxEqoNfLXJ-/preview",
-        "https://drive.google.com/file/d/15MwNt2eyD6CP13HNhCtTQsCXPCWfVH0i/preview"
+        "videos": [
+          "https://drive.google.com/file/d/1mdLw8aV8CvNBWGU5-TJdRRxEqoNfLXJ-/preview",
+          "https://drive.google.com/file/d/15MwNt2eyD6CP13HNhCtTQsCXPCWfVH0i/preview"
         ]
       }
     }
-  },
+  }
+,  
  {
   "id": 2,
   "language_versions": {
