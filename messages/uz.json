@@ -37,5 +37,8 @@
     "Videos": {
         "title": "Ko'rgazma videolari",
         "text" :"Ushbu videolar orqali kvartiralarimizning betakror qulayliklari va nafis dizaynini yaqindan kashf etishingiz mumkin."
+      },
+      "Footer": {
+        "text":"Sizning mukammal uy topishda ishonchli hamkoringiz. Farzz Group bilan premium kvartiralarni kashf eting"
       }
 }

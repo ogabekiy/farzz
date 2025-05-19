@@ -182,7 +182,7 @@ export default function Navbar() {
                 onClick={() => handleDropdownToggle("company")}
                 className="w-full text-left hover:text-[#1e7bff] text-sm"
               >
-                {t("about_company")}
+               {t("about")}
               </button>
               {activeDropdown === "company" && (
                 <div className="pl-4 py-2">
