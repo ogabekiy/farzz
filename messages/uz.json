@@ -33,5 +33,9 @@
         "text": "Farzz Group – bu ishonch, shaffoflik va har bir mijozga individual yondashuv.",
         "euro":"Yevropa tomoni",
         "anotoly":"Anatoliya tomoni"
-    }
+    },
+    "Videos": {
+        "title": "Ko'rgazma videolari",
+        "text" :"Ushbu videolar orqali kvartiralarimizning betakror qulayliklari va nafis dizaynini yaqindan kashf etishingiz mumkin."
+      }
 }

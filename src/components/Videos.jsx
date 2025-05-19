@@ -2,6 +2,7 @@
 
 import React, { useRef } from 'react';
 import { ChevronLeft, ChevronRight, Youtube } from 'lucide-react';
+import { useTranslations } from 'next-intl';
 
 const videos = [
   {
@@ -45,6 +46,8 @@ const videos = [
 const VideoSlider = () => {
   const sliderRef = useRef(null);
 
+  const t = useTranslations('Videos');
+
   const scroll = (direction) => {
     if (!sliderRef.current) return;
     const { scrollLeft, clientWidth } = sliderRef.current;
@@ -55,29 +58,34 @@ const VideoSlider = () => {
     });
   };
 
+  // Videolar soni bittadan kam bo‘lsa, tugmalarni yashirish uchun shart
+  const showArrows = videos.length > 1;
+
   return (
     <section className="bg-[#E6F0FA] py-12 px-4 md:px-8 sketch-bg">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-8">
-          <h2 className="text-3xl font-bold text-gray-800 sketch-text">Our YouTube Channel</h2>
-          <p className="text-gray-600 mt-2 sketch-text">
-            Video reviews of apartments, instructions for processing documents and paying taxes, our clients' testimonials, as well as videos about life in Turkey – all this is on our channel.
-          </p>
+          <h2 className="text-3xl font-bold text-gray-800 sketch-text">{t("title")}</h2>
+          <p className="text-gray-600 mt-2 sketch-text">{t("text")}</p>
         </div>
 
         <div className="relative">
-          <button
-            className="absolute left-0 top-1/2 -translate-y-1/2 z-10 bg-white sketch-border p-2 rounded-full hover:bg-gray-100"
-            onClick={() => scroll('left')}
-          >
-            <ChevronLeft className="w-6 h-6 text-gray-800" />
-          </button>
-          <button
-            className="absolute right-0 top-1/2 -translate-y-1/2 z-10 bg-white sketch-border p-2 rounded-full hover:bg-gray-100"
-            onClick={() => scroll('right')}
-          >
-            <ChevronRight className="w-6 h-6 text-gray-800" />
-          </button>
+          {showArrows && (
+            <>
+              <button
+                className="absolute left-0 top-1/2  -translate-y-1/2 z-10 bg-white sketch-border p-2 rounded-full hover:bg-gray-100"
+                onClick={() => scroll('left')}
+              >
+                <ChevronLeft className="w-6 h-6 cursor-pointer text-gray-800" />
+              </button>
+              <button
+                className="absolute right-0 top-1/2 -translate-y-1/2 z-10 bg-white sketch-border p-2 rounded-full hover:bg-gray-100"
+                onClick={() => scroll('right')}
+              >
+                <ChevronRight className="w-6 h-6 cursor-pointer text-gray-800" />
+              </button>
+            </>
+          )}
 
           <div
             ref={sliderRef}
@@ -86,7 +94,12 @@ const VideoSlider = () => {
             {videos.map((video) => (
               <div
                 key={video.id}
-                className="min-w-[300px] bg-white sketch-border rounded-lg overflow-hidden sketch-shadow"
+                className={`
+                  bg-white sketch-border rounded-lg overflow-hidden sketch-shadow
+                  flex-shrink-0
+                  w-[90vw]  /* Mobilda kengligi */
+                  md:w-[32%] /* Desktopda 3 ta video uchun */
+                `}
               >
                 <div className="aspect-video">
                   <iframe
@@ -96,16 +109,14 @@ const VideoSlider = () => {
                     className="w-full h-full"
                   ></iframe>
                 </div>
-                <div className="p-3 text-center sketch-text">
-                  {video.title}
-                </div>
+                {/* <div className="p-3 text-center sketch-text">{video.title}</div> */}
               </div>
             ))}
           </div>
         </div>
 
         <div className="text-center mt-6">
-          <a href="#" className="inline-flex items-center text-blue-600 hover:text-blue-800 sketch-text">
+          <a href="https://www.youtube.com/@FARZZGROUP" className="inline-flex items-center text-blue-600 hover:text-blue-800 sketch-text">
             Go to our YouTube channel <Youtube className="ml-2 w-5 h-5 text-red-600" />
           </a>
         </div>
@@ -115,4 +126,3 @@ const VideoSlider = () => {
 };
 
 export default VideoSlider;
-
