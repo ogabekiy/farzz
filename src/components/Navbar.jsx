@@ -1,4 +1,5 @@
 "use client";
+
 import { Phone, Mail, Menu, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
@@ -12,6 +13,7 @@ export default function Navbar() {
   const [activeDropdown, setActiveDropdown] = useState(null);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [modalOpen, setModalOpen] = useState(false);
+
   const t = useTranslations("HomePage");
 
   const router = useRouter();
@@ -19,6 +21,29 @@ export default function Navbar() {
   const pathname = usePathname();
   const searchParams = useSearchParams();
 
+  // ✅ Scroll uchun background o‘zgartirish
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 10);
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  // ✅ URL'dan modalni ochish
+  useEffect(() => {
+    const callbackParam = searchParams.get("callback");
+    if (callbackParam === "true") {
+      setModalOpen(true);
+      // Optional: URL dan `callback` query ni tozalash
+      const newParams = new URLSearchParams(searchParams.toString());
+      newParams.delete("callback");
+      const newUrl = `${pathname}?${newParams.toString()}`;
+      router.replace(newUrl, { scroll: false });
+    }
+  }, [searchParams]);
+
+  // ✅ Tilni o‘zgartirish
   const changeLocale = (locale) => {
     const pathSegments = pathname.split("/").filter(Boolean);
     pathSegments[0] = locale;
@@ -27,14 +52,6 @@ export default function Navbar() {
     const fullPath = queryString ? `${newPath}?${queryString}` : newPath;
     router.replace(fullPath);
   };
-
-  useEffect(() => {
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 10);
-    };
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
 
   const handleDropdownToggle = (dropdown) => {
     setActiveDropdown(activeDropdown === dropdown ? null : dropdown);
@@ -47,17 +64,25 @@ export default function Navbar() {
   return (
     <header
       className={`${
-        isScrolled ? "fixed top-0 left-0 right-0 z-50 bg-[#0e1e3a] shadow-md" : "bg-[#0e1e3a]"
+        isScrolled
+          ? "fixed top-0 left-0 right-0 z-50 bg-[#0e1e3a] shadow-md"
+          : "bg-[#0e1e3a]"
       } text-white transition-all duration-300 w-full`}
     >
       {!isScrolled && (
         <div className="container mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-between text-sm border-b border-gray-700">
           <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6 mb-2 sm:mb-0">
-            <Link href="tel:+905072547878" className="flex items-center gap-1 hover:text-[#1e7bff]">
+            <Link
+              href="tel:+905072547878"
+              className="flex items-center gap-1 hover:text-[#1e7bff]"
+            >
               <Phone className="h-4 w-4" />
               <span>+90 (507)-254-78-78</span>
             </Link>
-            <Link href="mailto:farzzgroup@gmail.com" className="flex items-center gap-1 hover:text-[#1e7bff]">
+            <Link
+              href="mailto:farzzgroup@gmail.com"
+              className="flex items-center gap-1 hover:text-[#1e7bff]"
+            >
               <Mail className="h-4 w-4" />
               <span>farzzgroup@gmail.com</span>
             </Link>
@@ -65,19 +90,25 @@ export default function Navbar() {
 
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-2">
-              <button onClick={() => changeLocale("ru")} className="hover:text-[#1e7bff] text-sm">
+              <button
+                onClick={() => changeLocale("ru")}
+                className="hover:text-[#1e7bff] text-sm"
+              >
                 RU
               </button>
-              <button onClick={() => changeLocale("uz")} className="hover:text-[#1e7bff] text-sm">
+              <button
+                onClick={() => changeLocale("uz")}
+                className="hover:text-[#1e7bff] text-sm"
+              >
                 UZ
               </button>
             </div>
-            <button
-              onClick={() => setModalOpen(true)}
+            <Link
+              href={`/${localeNav}?callback=true`}
               className="bg-[#1e7bff] text-white px-4 py-1.5 rounded-md hover:bg-[#1a6de0] text-sm"
             >
               Call back
-            </button>
+            </Link>
           </div>
         </div>
       )}
@@ -92,17 +123,25 @@ export default function Navbar() {
             className="sm:w-14 sm:h-14 object-fill"
           />
           <div className="flex flex-col">
-            <span className="font-bold text-base sm:text-lg uppercase">FARZZ GROUP</span>
+            <span className="font-bold text-base sm:text-lg uppercase">
+              FARZZ GROUP
+            </span>
             <span className="text-xs">Real Estate in Turkey</span>
           </div>
         </Link>
 
         {/* Desktop Navigation */}
         <nav className="hidden lg:flex items-center gap-4">
-          <Link href={`/${localeNav}/about`} className="hover:text-[#1e7bff] text-sm">
+          <Link
+            href={`/${localeNav}/about`}
+            className="hover:text-[#1e7bff] text-sm"
+          >
             {t("about")}
           </Link>
-          <Link href={`/${localeNav}`} className="hover:text-[#1e7bff] text-sm">
+          <Link
+            href={`/${localeNav}`}
+            className="hover:text-[#1e7bff] text-sm"
+          >
             {t("home")}
           </Link>
           <Link
@@ -127,17 +166,26 @@ export default function Navbar() {
       {isMobileMenuOpen && (
         <nav className="lg:hidden bg-[#0e1e3a] px-4 py-4 border-t border-gray-700">
           <div className="flex flex-col gap-4">
-            <Link href={`/${localeNav}/about`} className="hover:text-[#1e7bff] text-sm">
+            <Link
+              href={`/${localeNav}/about`}
+              className="hover:text-[#1e7bff] text-sm"
+            >
               {t("about")}
             </Link>
-            <Link href={`/${localeNav}`} className="hover:text-[#1e7bff] text-sm">
+            <Link
+              href={`/${localeNav}`}
+              className="hover:text-[#1e7bff] text-sm"
+            >
               {t("home")}
             </Link>
-            <Link href={`/${localeNav}/apartments`} className="hover:text-[#1e7bff] text-sm">
+            <Link
+              href={`/${localeNav}/apartments`}
+              className="hover:text-[#1e7bff] text-sm"
+            >
               {t("all_apartments")}
             </Link>
 
-            {/* Dropdown examples (optional) */}
+            {/* Example dropdown */}
             <div>
               <button
                 onClick={() => handleDropdownToggle("services")}
@@ -160,6 +208,7 @@ export default function Navbar() {
         </nav>
       )}
 
+      {/* ✅ MODAL */}
       <CallbackModal isOpen={modalOpen} onClose={() => setModalOpen(false)} />
     </header>
   );
