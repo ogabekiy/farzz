@@ -89,7 +89,7 @@ const Footer = () => {
                 <button className="mt-2 bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition" 
                   onClick={() => setModalOpen(true)}
                 >
-                  Request a Callback
+                  {t("callback")}
                 </button>
               </li>
             </ul>

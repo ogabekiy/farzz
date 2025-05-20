@@ -43,7 +43,8 @@
         "text" :"Ushbu videolar orqali kvartiralarimizning betakror qulayliklari va nafis dizaynini yaqindan kashf etishingiz mumkin."
       },
       "Footer": {
-        "text":"FARZZ GROUP — Turkiyada ko‘chmas mulk xaridi.Markaziy Osiyolik mijozlar uchun Istanbul va boshqa shaharlaridan uy tanlash, VNZH va fuqarolik olish jarayonlarini to‘liq hamrohligimizda amalga oshiramiz.Bo‘lib to‘lash imkoniyati, tayyor va investitsion loyihalar.Ishonchli xizmat, o‘z tilingizda."
+        "text":"FARZZ GROUP — Turkiyada ko‘chmas mulk xaridi.Markaziy Osiyolik mijozlar uchun Istanbul va boshqa shaharlaridan uy tanlash, VNZH va fuqarolik olish jarayonlarini to‘liq hamrohligimizda amalga oshiramiz.Bo‘lib to‘lash imkoniyati, tayyor va investitsion loyihalar.Ishonchli xizmat, o‘z tilingizda.",
+        "callback":"Qayta aloqa"
       },
       "About":{
         "description":"Sizning Turkiyadagi ko‘chmas mulk bo‘yicha ishonchli hamkoringiz",
