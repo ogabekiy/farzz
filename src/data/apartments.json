@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "region":"anatoliya",
     "language_versions": {
       "ru": {
         "district": "Картал",
@@ -21,7 +22,7 @@
         },
         "advantages": [
           "НДС 1%",
-          "Тапу 0%",
+          "Тапу 0%", 
           "Двухэтажный торговый центр с 131 коммерческой единицей",
           "Отличная инвестиционная возможность (на стадии строительства)",
           "Стратегическое расположение рядом с транспортом",
@@ -133,6 +134,7 @@
 ,  
  {
   "id": 2,
+  "region":"anatoliya",
   "language_versions": {
     "ru": {
       "district": "Pendik",
@@ -231,6 +233,7 @@
 ,
 {
   "id": 3,
+  "region":"europe",
   "language_versions": {
     "ru": {
       "district": "Атакент (Кючюкчекмедже)",
@@ -357,6 +360,7 @@
 ,
 {
   "id": 4,
+  "region":"anatoliya",
   "language_versions": {
     "ru": {
       "district": "Малтепе",
@@ -460,6 +464,7 @@
 ,
 {
   "id": 5,
+  "region":"europe",
   "language_versions": {
     "ru": {
       "district": "Басин-Экспресс",
@@ -586,6 +591,7 @@
 ,
 {
   "id": 6,
+  "region":"europe",
   "language_versions": {
     "ru": {
       "district": "Бейликдюзю",
@@ -703,6 +709,7 @@
 ,
 {
   "id": 7,
+  "region":"europe",
   "language_versions": {
     "ru": {
       "district": "Бейликдюзю, Гюрпынар",
@@ -813,6 +820,7 @@
 ,
 {
   "id": 8,
+  "region":"europe",
   "language_versions": {
     "ru": {
       "district": "Зейтинбурну",
@@ -953,6 +961,7 @@
 ,
 {
   "id": 9,
+  "region":"europe",
   "language_versions": {
     "ru": {
       "district": "Маслак – Вадистанбул",
@@ -1073,6 +1082,7 @@
 ,
 {
   "id": 10,
+  "region":"europe",
   "language_versions": {
     "ru": {
       "district": "Испартакуле",
@@ -1195,6 +1205,7 @@
 ,
 {
   "id": 11,
+  "region":"europe",
   "language_versions": {
     "ru": {
       "district": "Маслак – Вадистанбул",
@@ -1321,6 +1332,7 @@
 ,
 {
   "id": 12,
+  "region":"europe",
   "language_versions": {
     "ru": {
       "district": "Бейликдюзю, улица Каваклы",
@@ -1417,6 +1429,7 @@
 ,
 {
   "id": 13,
+  "region":"europe",
   "language_versions": {
     "ru": {
       "district": "Бюкчекмедже",

@@ -27,7 +27,10 @@
         "initial_payment":"Boshlang'ich to'lov",
         "installment":"muddat",
         "view":"Barcha obyektlarni ko'rish",
-        "see_more":"Ko'proq ko'rish"
+        "see_more":"Ko'proq ko'rish",
+        "all":"Barchasi",
+        "anatoly":"Anatoliya",
+        "europe":"Yevropa"
     },
     "Gallery": {
         "title": "Ushbu variantlarni ham ko'rib chiqing",
@@ -40,7 +43,7 @@
         "text" :"Ushbu videolar orqali kvartiralarimizning betakror qulayliklari va nafis dizaynini yaqindan kashf etishingiz mumkin."
       },
       "Footer": {
-        "text":"Sizning mukammal uy topishda ishonchli hamkoringiz. Farzz Group bilan premium kvartiralarni kashf eting"
+        "text":"FARZZ GROUP — Turkiyada ko‘chmas mulk xaridi.Markaziy Osiyolik mijozlar uchun Istanbul va boshqa shaharlaridan uy tanlash, VNZH va fuqarolik olish jarayonlarini to‘liq hamrohligimizda amalga oshiramiz.Bo‘lib to‘lash imkoniyati, tayyor va investitsion loyihalar.Ishonchli xizmat, o‘z tilingizda."
       },
       "About":{
         "description":"Sizning Turkiyadagi ko‘chmas mulk bo‘yicha ishonchli hamkoringiz",

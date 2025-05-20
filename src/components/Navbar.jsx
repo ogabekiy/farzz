@@ -106,7 +106,7 @@ export default function Navbar() {
               href={`/${localeNav}?callback=true`}
               className="bg-[#1e7bff] text-white px-4 py-1.5 rounded-md hover:bg-[#1a6de0] text-sm"
             >
-              Call back
+              {t("callback")}
             </Link>
           </div>
         </div>

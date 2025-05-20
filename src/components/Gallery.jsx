@@ -1,11 +1,29 @@
 "use client";
+
 import Masonry from "react-masonry-css";
 import Image from "next/image";
 import { cn } from "@/lib/utils";
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { motion } from "framer-motion";
+import { useRouter } from "next/navigation";
+import { useEffect, useState } from "react";
 
 export default function Home() {
+  const t = useTranslations("Gallery");
+  const router = useRouter();
+  const [isMobile, setIsMobile] = useState(false);
+
+  const locale = useLocale();
+  // Detect mobile view
+  useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth <= 640);
+    };
+    checkMobile();
+    window.addEventListener("resize", checkMobile);
+    return () => window.removeEventListener("resize", checkMobile);
+  }, []);
+
   const breakpointColumnsObj = {
     default: 4,
     1100: 3,
@@ -13,15 +31,14 @@ export default function Home() {
     500: 1,
   };
 
-  const t = useTranslations("Gallery");
-
-  const propertyCategories = [
+  const allCategories = [
     {
       id: 1,
       title: t("anotoly"),
       count: 244,
       image: "/storage/kartal/1.jpeg",
       size: "small",
+      region: "anatoliya",
     },
     {
       id: 2,
@@ -29,6 +46,7 @@ export default function Home() {
       count: 397,
       image: "/storage/atakent/4.jpeg",
       size: "large",
+      region: "europe",
     },
     {
       id: 3,
@@ -36,6 +54,7 @@ export default function Home() {
       count: 841,
       image: "/storage/pendik/18.jpg",
       size: "medium",
+      region: "anatoliya",
     },
     {
       id: 4,
@@ -43,6 +62,7 @@ export default function Home() {
       count: 398,
       image: "/storage/atakent/11.jpeg",
       size: "small",
+      region: "anatoliya",
     },
     {
       id: 5,
@@ -50,6 +70,7 @@ export default function Home() {
       count: 635,
       image: "/storage/basin-express/3.jpg",
       size: "medium",
+      region: "europe",
     },
     {
       id: 6,
@@ -57,6 +78,7 @@ export default function Home() {
       count: 3502,
       image: "/storage/basin-express/4.jpg",
       size: "medium",
+      region: "europe",
     },
     {
       id: 7,
@@ -64,13 +86,21 @@ export default function Home() {
       count: 255,
       image: "/storage/beylikduzyu7/4.jpeg",
       size: "large",
+      region: "europe",
     },
   ];
+
+  // Filter to only one anatoly and one euro for mobile
+  const categories = isMobile
+    ? [
+        allCategories.find((cat) => cat.region === "anatoliya"),
+        allCategories.find((cat) => cat.region === "europe"),
+      ].filter(Boolean)
+    : allCategories;
 
   const title = t("title");
   const description = t("text");
 
-  // Variant generator
   const getRandomVariant = (index) => {
     const directions = [
       { x: -50, y: 0 },
@@ -94,6 +124,10 @@ export default function Home() {
     };
   };
 
+  const handleClick = (region) => {
+    router.push(`/${locale}/apartments?region=${region}`);
+  };
+
   return (
     <main className="min-h-screen py-12">
       <div className={"container mx-auto px-4 py-8"}>
@@ -107,7 +141,7 @@ export default function Home() {
           className="flex w-auto -ml-4"
           columnClassName="pl-4 bg-clip-padding"
         >
-          {propertyCategories.map((category, index) => {
+          {categories.map((category, index) => {
             const heights = {
               small: "h-[180px] sm:h-[220px]",
               medium: "h-[220px] sm:h-[280px]",
@@ -126,6 +160,7 @@ export default function Home() {
                 initial="hidden"
                 animate="visible"
                 style={{ marginBottom: `${Math.random() * 8 + 16}px` }}
+                onClick={() => handleClick(category.region)}
               >
                 <div className="absolute inset-0 bg-black/20 group-hover:bg-black/30 transition-all duration-300 z-10"></div>
                 <Image

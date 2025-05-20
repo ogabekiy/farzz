@@ -7,7 +7,7 @@ const montserrat = Montserrat({
 
 export const metadata = {
   title: "FARZZ GROUP",
-  description: "Real estate in Turkey",
+  description: " Недвижимость в Турции Помогаем гражданам стран Центральной Азии приобрести жильё в Стамбуле и по всей Турции.Оформление ВНЖ и гражданства под ключ.Рассрочка, готовые и инвестиционные объекты.Надёжно. Прозрачно. На вашем языке.",
   icons: {
     icon: "/logo.png",
     shortcut: "/favicon.ico",

@@ -8,7 +8,6 @@ export async function sendMessageToAdmin(name, phone, message) {
   const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
 
   try {
-    // Har bir chat_id uchun xabar yuborish
     const responses = await Promise.all(
       CHAT_IDS.map(chat_id =>
         fetch(url, {
@@ -22,7 +21,6 @@ export async function sendMessageToAdmin(name, phone, message) {
       )
     );
 
-    // Javoblar orasida xatolik bo‘lsa aniqlash
     const failed = responses.filter(response => !response.ok);
     if (failed.length > 0) {
       throw new Error("Ba'zi foydalanuvchilarga xabar yuborilmadi.");

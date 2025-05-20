@@ -19,7 +19,7 @@ export default function Exclusive() {
   const localized = apartments.map(item => ({
     id: item.id,
     ...item.language_versions[locale],
-  })).slice(0, 3); 
+  })).slice(0, 13); 
 
   return (
     <section className="py-12 px-4 max-w-screen-xl mx-auto">
@@ -113,10 +113,10 @@ export default function Exclusive() {
         })}
       </div>
 
-      <Link href={`/${locale}/apartments`} className="group w-[400px] bg-[#174d99] mx-auto mt-10 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full text-base sm:text-lg hover:bg-[#1a6de0] transition-all flex items-center gap-2">
+      {/* <Link href={`/${locale}/apartments`} className="group w-[400px] bg-[#174d99] mx-auto mt-10 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full text-base sm:text-lg hover:bg-[#1a6de0] transition-all flex items-center gap-2">
                 {t("view")}
                 <ArrowRight className="h-5 w-5 group-hover:translate-x-1 transition-transform" />
-              </Link>
+              </Link> */}
 
 
       {/* Hide default arrows */}
