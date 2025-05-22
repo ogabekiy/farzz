@@ -19,7 +19,7 @@ export default function Exclusive() {
   const localized = apartments.map(item => ({
     id: item.id,
     ...item.language_versions[locale],
-  })).slice(0, 13); 
+  })); 
 
   return (
     <section className="py-12 px-4 max-w-screen-xl mx-auto">

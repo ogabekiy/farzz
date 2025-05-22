@@ -1512,6 +1512,563 @@
       }
     }
   }
+},
+
+{
+  "id": 14,
+  "region":"europe",
+  "language_versions": {
+    "ru": {
+      "district": "BASIN EKSPRES",
+      "region": "Европейская часть Стамбула",
+      "description": "Современный жилой проект на стадии строительства в районе BASIN EKSPRES. Сдача — июнь 2026 года. Подходит для получения гражданства. Квартиры от 1+1 до 3+1, а также 12 коммерческих помещений.",
+      "status": "Сдача — июнь 2026 года",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1"
+      ],
+      "price": "от 170,000 USD",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "24 месяца (можно адаптировать под клиента)"
+      },
+      "advantages": [
+        "Готовый ТАПУ (право собственности)",
+        "Подходит для гражданства",
+        "2 блока по 12 этажей, всего 210 жилых единиц",
+        "70% территории — зелёные зоны и удобства",
+        "Теннисные и баскетбольные площадки",
+        "Детская площадка и прогулочные аллеи",
+        "Крытый бассейн, сауна, джакузи, соляная комната",
+        "Умные системы: парковка, зарядки для электромобилей"
+      ],
+      "distances": {
+        "метро M9": "200 метров",
+        "Mall of İstanbul": "5 минут",
+        "новый аэропорт": "20 минут"
+      },
+      "amenities": [
+        "зелёные зоны",
+        "теннисные и баскетбольные площадки",
+        "детская площадка",
+        "прогулочные аллеи",
+        "крытый бассейн",
+        "сауна",
+        "джакузи",
+        "соляная комната",
+        "умные парковочные системы",
+        "зарядки для электромобилей"
+      ],
+      "payment_currency": "доллары США",
+      "suitable_for": [
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/basin-express14/1.jpg",
+        "/storage/basin-express14/2.jpg",
+        "/storage/basin-express14/3.jpg",
+        "/storage/basin-express14/4.jpg",
+        "/storage/basin-express14/5.jpg",
+        "/storage/basin-express14/6.jpg",
+        "/storage/basin-express14/7.jpg",
+        "/storage/basin-express14/8.jpg",
+        "/storage/basin-express14/9.jpg",
+        "/storage/basin-express14/10.jpg",
+        "/storage/basin-express14/11.jpg",
+        "/storage/basin-express14/12.jpeg",
+        "/storage/basin-express14/13.jpeg",
+        "/storage/basin-express14/14.jpg",
+        "/storage/basin-express14/15.jpg"
+      ],
+      "videos": []
+    },
+    "uz": {
+      "district": "BASIN EKSPRES",
+      "region": "Istanbulning Yevropa qismi",
+      "description": "BASIN EKSPRES hududida qurilayotgan zamonaviy turar joy loyihasi. Topshirilish muddati — 2026-yil iyun. Fuqarolik olish uchun mos. Kvartiralar: 1+1 dan 3+1 gacha, 12 ta tijorat obyekti mavjud.",
+      "status": "Topshirilish muddati — 2026-yil iyun",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1"
+      ],
+      "price": "170,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "24 oy (mijoz istagiga ko‘ra o‘zgartirilishi mumkin)"
+      },
+      "advantages": [
+        "Tayyor TAPU (mulk huquqi guvohnomasi)",
+        "Fuqarolik olish uchun mos",
+        "2 ta blok, har biri 12 qavatli, jami 210 ta turar joy",
+        "Yer maydonining 70 foizi yashil zonalar va ijtimoiy qulayliklar",
+        "Tennis va basketbol maydonchalari",
+        "Bolalar maydonchasi va sayr yo‘laklari",
+        "Yopiq basseyn, sauna, jakuzi, tuz xonasi",
+        "Aqlli tizimlar: avtoturargoh va elektromobillar uchun quvvatlash stansiyalari"
+      ],
+      "distances": {
+        "M9 metro yo‘li": "200 metr",
+        "Mall of İstanbul": "5 daqiqa",
+        "Yangi aeroport": "20 daqiqa"
+      },
+      "amenities": [
+        "Yashil zonalar",
+        "tennis va basketbol maydonchalari",
+        "bolalar maydonchasi",
+        "sayr yo‘laklari",
+        "yopiq basseyn",
+        "sauna",
+        "jakuzi",
+        "tuz xonasi",
+        "aqlli avtoturargoh tizimi",
+        "elektromobil quvvatlash stansiyasi"
+      ],
+      "payment_currency": "AQSh dollari",
+      "suitable_for": [
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/basin-express14/1.jpg",
+        "/storage/basin-express14/2.jpg",
+        "/storage/basin-express14/3.jpg",
+        "/storage/basin-express14/4.jpg",
+        "/storage/basin-express14/5.jpg",
+        "/storage/basin-express14/6.jpg",
+        "/storage/basin-express14/7.jpg",
+        "/storage/basin-express14/8.jpg",
+        "/storage/basin-express14/9.jpg",
+        "/storage/basin-express14/10.jpg",
+        "/storage/basin-express14/11.jpg",
+        "/storage/basin-express14/12.jpeg",
+        "/storage/basin-express14/13.jpeg",
+        "/storage/basin-express14/14.jpg",
+        "/storage/basin-express14/15.jpg"
+      ],
+      "videos": []
+    }
+  }
 }
+,
+{
+  "id": 15,
+  "region":"europe",
+  "language_versions": {
+    "ru": {
+      "district": "Büyükçekmece",
+      "region": "Европейская часть Стамбула",
+      "description": "Проект с государственной гарантией, готов к заселению. Подходит для получения ВНЖ и гражданства. Квартиры с видом на море и озеро.В нижней части проекта расположен крупный супермаркет Metro, а также популярные рестораны и кафе.",
+      "status": "Готов к заселению",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+1"
+      ],
+      "price": "от 180,000 USD",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "12 месяцев"
+      },
+      "advantages": [
+        "Подходит для получения ВНЖ и гражданства",
+        "Проект с государственной гарантией",
+        "ТАПУ готов, экспертиза не требуется",
+        "Варианты с видом на море и озеро",
+        "Проект готов к заселению"
+      ],
+      "distances": {
+        "Avenue и Perlavista": "5 минут",
+        "Akbatı": "10 минут",
+        "Marmara Park": "15 минут",
+        "государственная больница": "8 минут",
+        "пляж и побережье Büyükçekmece": "10 минут",
+        "West Marina (Beylikdüzü)": "20 минут"
+      },
+      "amenities": [
+        "гольф-площадка",
+        "2 открытых бассейна",
+        "1 закрытый бассейн",
+        "джакузи",
+        "спортивный зал",
+        "турецкая баня",
+        "сауна",
+        "массажная комната",
+        "открытая и закрытая парковка",
+        "система безопасности и камеры 24/7"
+      ],
+      "payment_currency": "доллары США",
+      "suitable_for": [
+        "вид на жительство",
+        "гражданство"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/buyukcekmece14/1.jpg",
+        "/storage/buyukcekmece14/2.jpeg",
+        "/storage/buyukcekmece14/3.jpg",
+        "/storage/buyukcekmece14/4.jpg",
+        "/storage/buyukcekmece14/5.JPG",
+        "/storage/buyukcekmece14/6.jpeg",
+        "/storage/buyukcekmece14/7.jpg",
+        "/storage/buyukcekmece14/8.jpg",
+        "/storage/buyukcekmece14/9.jpeg",
+        "/storage/buyukcekmece14/10.jpg",
+        "/storage/buyukcekmece14/11.JPG",
+        "/storage/buyukcekmece14/12.jpeg",
+        "/storage/buyukcekmece14/13.jpg",
+        "/storage/buyukcekmece14/14.jpeg",
+        "/storage/buyukcekmece14/15.jpg",
+        "/storage/buyukcekmece14/16.jpg",
+        "/storage/buyukcekmece14/17.jpg",
+        "/storage/buyukcekmece14/18.jpeg",
+        "/storage/buyukcekmece14/19.jpeg",
+        "/storage/buyukcekmece14/20.jpeg",
+        "/storage/buyukcekmece14/21.jpeg"
+      ],
+      "videos": []
+    },
+    "uz": {
+      "district": "Büyükçekmece",
+      "region": "Istanbul Yevropa qismi",
+      "description": "Davlat kafolatidagi loyiha, yashashga tayyor. VNZH va fuqarolik olish uchun mos. Dengiz va ko‘l manzarali kvartira variantlari mavjud.Loyiha binosi pastki qismida Metro supermarket, mashhur restoranlar va kafelar mavjud.",
+      "status": "Yashashga tayyor",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+1"
+      ],
+      "price": "180,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "12 oy"
+      },
+      "advantages": [
+        "Yashash ruxsatnomasi va fuqarolik uchun mos",
+        "Davlat kafolatiga ega loyiha",
+        "TAPU tayyor, ekspertiza talab qilinmaydi",
+        "Dengiz va ko‘l manzarali variantlar mavjud",
+        "Loyiha qurib bitkazilgan"
+      ],
+      "distances": {
+        "Avenue va Perlavista savdo markazlari": "5 daqiqa",
+        "Akbatı savdo markazi": "10 daqiqa",
+        "Marmara Park savdo markazi": "15 daqiqa",
+        "davlat shifoxonasi": "8 daqiqa",
+        "Büyükçekmece sohili": "10 daqiqa",
+        "Beylikdüzü West Marina porti": "20 daqiqa"
+      },
+      "amenities": [
+        "golf maydoni",
+        "2 ta ochiq basseyn",
+        "1 ta yopiq basseyn",
+        "jakuzi",
+        "sport zali",
+        "turk hammomi",
+        "sauna",
+        "massaj xonasi",
+        "ochiq va yopiq avtoturargoh",
+        "24/7 xavfsizlik va kuzatuv kamerasi"
+      ],
+      "payment_currency": "AQSh dollari",
+      "suitable_for": [
+        "VNZH",
+        "fuqarolik"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/buyukcekmece14/1.jpg",
+        "/storage/buyukcekmece14/2.jpeg",
+        "/storage/buyukcekmece14/3.jpg",
+        "/storage/buyukcekmece14/4.jpg",
+        "/storage/buyukcekmece14/5.JPG",
+        "/storage/buyukcekmece14/6.jpeg",
+        "/storage/buyukcekmece14/7.jpg",
+        "/storage/buyukcekmece14/8.jpg",
+        "/storage/buyukcekmece14/9.jpeg",
+        "/storage/buyukcekmece14/10.jpg",
+        "/storage/buyukcekmece14/11.JPG",
+        "/storage/buyukcekmece14/12.jpeg",
+        "/storage/buyukcekmece14/13.jpg",
+        "/storage/buyukcekmece14/14.jpeg",
+        "/storage/buyukcekmece14/15.jpg",
+        "/storage/buyukcekmece14/16.jpg",
+        "/storage/buyukcekmece14/17.jpg",
+        "/storage/buyukcekmece14/18.jpeg",
+        "/storage/buyukcekmece14/19.jpeg",
+        "/storage/buyukcekmece14/20.jpeg",
+        "/storage/buyukcekmece14/21.jpeg"
+      ],
+      "videos": []
+    }
+  }
+}
+,
+{
+  "id": 16,
+  "region":"europe",
+  "language_versions": {
+    "uz": {
+      "district": "Sarıyer",
+      "region": "Istanbulning Yevropa tarafi",
+      "description": "Shahar markazida tabiat bilan uyg‘un hayot. Davlat kafolatli loyiha.Umumiy yer maydoni 103,000 m², shundan 70% yashil hududlar hisoblanadi. 16 ta blok mavjud, ularning qavat balandligi 6, 7 va 10 qavatdan iborat. Kvartira maydonlari 69 m² dan 413 m² gacha.  Loyihaning konsepsiyasi shahar chekkasidagi hayotdir. Yashash va sarmoya kiritish uchun ajoyib tanlov. Davlat kafolati va markaziy joylashuvi bilan foydali va xavfsiz kelajak kafolatlangan.",
+      "status": "Davlat kafolatli loyiha, tapu darhol topshiriladi",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1"
+      ],
+      "price": "490,000 USD dan boshlanadi",
+      "payment": null,
+      "advantages": [
+        "Shahar chekkasidagi hayot konsepsiyasi",
+        "Metro stansiyasiga 2 daqiqa piyoda",
+        "TEM avtomagistraliga maxsus tunnel kirishi",
+        "Belgrad o‘rmoni manzarasi",
+        "Har bir kvartirada keng balkonlar",
+        "Mevali daraxtlar va 500+ daraxt ekilgan",
+        "24/7 xavfsizlik",
+        "Avtoturargoh va ijtimoiy zonalar",
+        "40 yillik ishonchli quruvchi kompaniya"
+      ],
+      "distances": {
+        "Metro": "2 daqiqa piyoda",
+        "TEM avtomagistrali": "to‘g‘ridan-to‘g‘ri tunnel kirish"
+      },
+      "amenities": [
+        "Yashil hududlar",
+        "Shaxsiy basseynlar (ba’zi kvartiralarda)",
+        "Avtoturargoh",
+        "Ijtimoiy zonalar",
+        "Xavfsizlik tizimi"
+      ],
+      "payment_currency": "AQSh dollari",
+      "suitable_for": [
+        "Fuqarolik olish uchun mos"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/sariyer/01.jpg",
+        "/storage/sariyer/02.jpg",
+        "/storage/sariyer/03.jpg",
+        "/storage/sariyer/04.jpg",
+        "/storage/sariyer/05.jpg",
+        "/storage/sariyer/07.jpg",
+        "/storage/sariyer/08.jpg",
+        "/storage/sariyer/11.jpg",
+        "/storage/sariyer/12.jpg",
+        "/storage/sariyer/13.jpg",
+        "/storage/sariyer/14.jpg",
+        "/storage/sariyer/15.jpg",
+        "/storage/sariyer/16.jpg",
+        "/storage/sariyer/17.jpg"
+      ],
+      "videos": [
+        "https://drive.google.com/file/d/1v4TKeRb9JBPOU2IFIYKjWkr3u82R5cnQ/preview"
+      ]
+    },
+    "ru": {
+      "district": "Sarıyer",
+      "region": "Европейская часть Стамбула",
+      "description":"Жизнь на природе в центре города с государственной гарантией. Общая площадь — 103,000 м², 70% зелёных зон. Проект включает 16 блоков (6, 7 и 10 этажей). Квартиры от 1+1 до 4+1, площадью 69–413 м². Цены от 490,000 USD. В продаже есть готовые квартиры и на стадии строительства. В 2 минутах ходьбы метро, есть тоннель к трассе TEM. Панорамный вид на Белградский лес, просторные балконы. Более 500 фруктовых деревьев, круглосуточная охрана, парковка и социальные зоны. Надёжный застройщик с 40-летним опытом. Отличный вариант для жизни и инвестиций в престижном районе Sarıyer.",
+      "status": "Проект с государственной гарантией, тапу готов к передаче",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1"
+      ],
+      "price": "от 490,000 USD",
+      "payment": null,
+      "advantages": [
+        "Концепция жизни на окраине мегаполиса",
+        "Метро в 2 минутах ходьбы",
+        "Специальный тоннель к трассе TEM",
+        "Панорамный вид на Белградский лес",
+        "Просторные балконы в каждой квартире",
+        "Более 500 фруктовых деревьев",
+        "Круглосуточная охрана",
+        "Парковка и социальные зоны",
+        "Надежный застройщик с 40-летним опытом"
+      ],
+      "distances": {
+        "Метро": "2 минуты пешком",
+        "Автомагистраль TEM": "Прямой тоннельный доступ"
+      },
+      "amenities": [
+        "Зелёные зоны",
+        "Собственные бассейны (в некоторых квартирах)",
+        "Парковка",
+        "Социальные зоны",
+        "Система безопасности"
+      ],
+      "payment_currency": "Доллары США",
+      "suitable_for": [
+        "Подходит для получения гражданства"
+      ],
+      "contact": "+90 507 254 78 78 (Telegram / WhatsApp)",
+      "images": [
+        "/storage/sariyer/01.jpg",
+        "/storage/sariyer/02.jpg",
+        "/storage/sariyer/03.jpg",
+        "/storage/sariyer/04.jpg",
+        "/storage/sariyer/05.jpg",
+        "/storage/sariyer/07.jpg",
+        "/storage/sariyer/08.jpg",
+        "/storage/sariyer/11.jpg",
+        "/storage/sariyer/12.jpg",
+        "/storage/sariyer/13.jpg",
+        "/storage/sariyer/14.jpg",
+        "/storage/sariyer/15.jpg",
+        "/storage/sariyer/16.jpg",
+        "/storage/sariyer/17.jpg"
+      ],
+      "videos": [
+        "https://drive.google.com/file/d/1v4TKeRb9JBPOU2IFIYKjWkr3u82R5cnQ/preview"
+      ]
+    }
+  }
+}
+,
+{
+  "id": "17",
+  "region":"europe",
+  "language_versions": {
+    "ru": {
+      "district": "Büyükçekmece",
+      "region": "Европейская сторона Стамбула",
+      "description": "Проект расположен на участке площадью 29 200 м² с видом на озеро Büyükçekmece. Включает 528 квартир от 1+1 до 3+1, виллы с планировкой 2+1, 3+1, 4+1 и 5+1, а также 28 коммерческих единиц. Находится между автомагистралями E5 и TEM — один из самых привлекательных районов Стамбула для жизни и инвестиций. Рядом университеты, школы и торговые центры, полностью удовлетворяющие потребности жителей.",
+      "status": "Сдача — декабрь 2027 года",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+1"
+      ],
+      "price": "от 185,000 USD",
+      "payment": {
+        "initial_payment": "35%",
+        "installment": "до 36 месяцев"
+      },
+      "advantages": [
+        "Вид на озеро Büyükçekmece",
+        "Расположение между автомагистралями E5 и TEM",
+        "Близость к университетам, школам и торговым центрам",
+        "Закрытый бассейн",
+        "Спортивный зал",
+        "Сауна",
+        "Турецкая баня",
+        "Просторные зелёные зоны"
+      ],
+      "distances": {
+        "Метробус": "10 минут",
+        "Побережье": "10 минут",
+        "Школа": "7 минут",
+        "Торговый центр": "10 минут",
+        "Университет": "5 минут",
+        "Больница": "5 минут",
+        "Аэропорт Стамбула": "27 минут",
+        "Автомагистраль": "10 минут"
+      },
+      "amenities": [
+        "Закрытый бассейн",
+        "Спортивный зал",
+        "Сауна",
+        "Турецкая баня",
+        "Зелёные зоны"
+      ],
+      "payment_currency": "доллары США",
+      "suitable_for": [
+        "жильё",
+        "инвестиции"
+      ],
+      "contact": "",
+      "images": [
+        "/storage/buyukcekmece17/1.jpg",
+        "/storage/buyukcekmece17/2.jpg",
+        "/storage/buyukcekmece17/3.jpg",
+        "/storage/buyukcekmece17/4.jpg",
+        "/storage/buyukcekmece17/5.jpg",
+        "/storage/buyukcekmece17/6.jpg",
+        "/storage/buyukcekmece17/7.jpg",
+        "/storage/buyukcekmece17/8.jpg" 
+      ],
+      "videos": []
+    },
+    "uz": {
+      "district": "Büyükçekmece",
+      "region": "Istanbulning Yevropa tomonida",
+      "description": "Loyiha 29 200 m² yer maydonida, Büyükçekmece ko‘liga qaragan joyda joylashgan. 1+1 dan 3+1 gacha 528 ta kvartira, 2+1, 3+1, 4+1 va 5+1 tipidagi villalar hamda 28 ta tijorat maydoni mavjud. E5 va TEM magistrallari orasida joylashgan bo‘lib, Istanbulning eng istiqbolli hududlaridan biri hisoblanadi. Atrofda universitetlar, maktablar va savdo markazlari bor, ular aholining barcha ehtiyojlarini qondiradi.",
+      "status": "Topshirilish muddati — 2027 yil dekabr",
+      "plans": [
+        "1+1",
+        "2+1",
+        "3+1",
+        "4+1",
+        "5+1"
+      ],
+      "price": "185,000 USD dan boshlab",
+      "payment": {
+        "initial_payment": "35%",
+        "installment": "36 oygacha"
+      },
+      "advantages": [
+        "Büyükçekmece ko‘liga qarash",
+        "E5 va TEM magistrallari orasida joylashgan",
+        "Universitetlar, maktablar va savdo markazlariga yaqinlik",
+        "Yopiq basseyn",
+        "Sport zal",
+        "Sauna",
+        "Turk hammomi",
+        "Keng yashil hududlar"
+      ],
+      "distances": {
+        "Metrobus": "10 daqiqa",
+        "Sohil": "10 daqiqa",
+        "Maktab": "7 daqiqa",
+        "Savdo markazi": "10 daqiqa",
+        "Universitet": "5 daqiqa",
+        "Kasalxona": "5 daqiqa",
+        "Istanbul aeroporti": "27 daqiqa",
+        "Magistral yo‘l": "10 daqiqa"
+      },
+      "amenities": [
+        "Yopiq basseyn",
+        "Sport zal",
+        "Sauna",
+        "Turk hammomi",
+        "Yashil zonalar"
+      ],
+      "payment_currency": "AQSh dollari",
+      "suitable_for": [
+        "yashash",
+        "investitsiya"
+      ],
+      "contact": "",
+      "images": [
+        "/storage/buyukcekmece17/1.jpg",
+        "/storage/buyukcekmece17/2.jpg",
+        "/storage/buyukcekmece17/3.jpg",
+        "/storage/buyukcekmece17/4.jpg",
+        "/storage/buyukcekmece17/5.jpg",
+        "/storage/buyukcekmece17/6.jpg",
+        "/storage/buyukcekmece17/7.jpg",
+        "/storage/buyukcekmece17/8.jpg" 
+      ],
+      "videos": []
+    }
+  }
+}
+
+
+
 
 ]
