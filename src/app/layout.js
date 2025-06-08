@@ -1,5 +1,5 @@
 import { Montserrat } from "next/font/google";
-import Script from "next/script"; 
+import Script from "next/script";
 
 const montserrat = Montserrat({
   variable: "--font-montserrat",
@@ -67,7 +67,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* ✅ Facebook Pixel script */}
+        {/* ✅ YANGI Facebook Pixel script */}
         <Script
           id="facebook-pixel"
           strategy="afterInteractive"
@@ -81,20 +81,20 @@ export default function RootLayout({ children }) {
               t.src=v;s=b.getElementsByTagName(e)[0];
               s.parentNode.insertBefore(t,s)}(window, document,'script',
               'https://connect.facebook.net/en_US/fbevents.js');
-              fbq('init', '722783247095632');
+              fbq('init', '1350839289344019');
               fbq('track', 'PageView');
             `,
           }}
         />
       </head>
       <body className={`${montserrat.variable} antialiased`}>
-        {/* 📸 noscript backup image */}
+        {/* 📸 YANGI noscript image */}
         <noscript>
           <img
             height="1"
             width="1"
             style={{ display: "none" }}
-            src="https://www.facebook.com/tr?id=722783247095632&ev=PageView&noscript=1"
+            src="https://www.facebook.com/tr?id=1350839289344019&ev=PageView&noscript=1"
             alt="fb pixel"
           />
         </noscript>
