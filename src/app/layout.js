@@ -85,7 +85,7 @@ export default function RootLayout({ children }) {
               fbq('track', 'PageView');
             `,
           }}
-        />
+        />r
       </head>
       <body className={`${montserrat.variable} antialiased`}>
         {/* 📸 YANGI noscript image */}

@@ -1,0 +1,153 @@
+{
+    "asia": [
+        {
+            "id": 1,
+            "code": "ANDY 2002",
+            "title": "Uskddar, Almond Garden",
+            "img": "https://drive.google.com/uc?id=1MJiRugHZYZRjyDAH6Ah0ChgFYEmD27i6",
+            "link": "https://drive.google.com/drive/folders/16aRuya6rtf7R5OrfwCJpG8Q1UgusTicw"
+        },
+        {
+            "id": 2,
+            "code": "ANDY 2009",
+            "title": "Kadikéy, IKI Yaka",
+            "img": "https://drive.google.com/uc?id=1-Yk1k7G28M0L8dwNny-FqvUkWlINqjyU",
+            "link": "https://drive.google.com/drive/folders/1pAvBNwu1ZInQELdYJXwj6TPVuuGXw8BJ"
+        },
+        {
+            "id": 3,
+            "code": "ANDY 2010",
+            "title": "Kadikoy, Evinpark Kadikoy",
+            "img": "https://drive.google.com/uc?id=1an9RIwaymVWVsnfijsKGzyRAe0Lb9FRF",
+            "link": "https://drive.google.com/drive/folders/1pMt2e4kcrbq_M5HATgmx97YdYG4dstJc "
+        },
+        {
+            "id": 4,
+            "code": "ANDY 2011",
+            "title": "Kadikoy, Fortis Sinanlt",
+            "img": "https://drive.google.com/uc?id=1OiyLDSPxHCHa6rT-7vz1RBkypG-GEpz6",
+            "link": "https://drive.google.com/drive/folders/1YHF3ZjMOuCmD1RtfeFmdY7oV7pmQrk5v"
+        },
+        {
+            "id": 5,
+            "code": "ANDY 2015",
+            "title": "Kadikéy, Goztepe Project",
+            "img": "https://drive.google.com/uc?id=1uYyCW03B7lLurz4X2LU_va7w6prpy4VA",
+            "link": "https://drive.google.com/drive/folders/1BSTgskj7dUNygx8-iGPRenLN758F3Ica"
+        },
+        {
+            "id": 6,
+            "code": "ANDY 2016",
+            "title": "Kadikoy, Bostanci Modern",
+            "img": "https://drive.google.com/uc?id=1FcqvG1rFV1WKrnSCYClcTlZbZF7epndx",
+            "link": "https://drive.google.com/drive/folders/19E35cT-z6S2MS6Gbj5jSga5mrY5RsDSB"
+        },
+        {
+            "id": 7,
+            "code": "ANDY 2022",
+            "title": "Umraniye, Sinpag Koru Aura",
+            "img": "https://drive.google.com/uc?id=1UUZKFkpKukZ3IgPFEkTwAfaROnBLEIgb",
+            "link": "https://drive.google.com/drive/folders/1kZBPFx9mzXRnkrdhPyIQ2rSNq8kNrGgM"
+        },
+        {
+            "id": 8,
+            "code": "ANDY 2023",
+            "title": "Umraniye, Sinpas Finans Sehir",
+            "img": "https://drive.google.com/uc?id=1f5EUqVjGoxcg06o5pV8xBzjlorx1AiVk",
+            "link": "https://drive.google.com/drive/folders/1ut9Nr0JpLO3MYPd2nwc0a1dHqR_Pj8wp"
+        },
+        {
+            "id": 9,
+            "code": "ANDY 2028",
+            "title": "Atasehir, Atagehir Modern",
+            "img": "https://drive.google.com/uc?id=1584d_5BZ_0T2vB2b90iUexQGTYgs7PIe",
+            "link": "https://drive.google.com/drive/u/0/folders/1A49t_B-a-VLXXm03KRQGltEe9kzJXxyI"
+        },
+        {
+            "id": 10,
+            "code": "ANDY 2029",
+            "title": "Atasehir, Angel City Atasehir",
+            "img": "https://drive.google.com/uc?id=1OwfRr8f1jW8UegYJIkklA5e1aofraY9p",
+            "link": "https://drive.google.com/drive/folders/1Q_4Lg1uCWNwC3X7ewLEGbXNGbtE8fg7e"
+        }
+    ],
+    "europe":[
+        {
+          "id": 29,
+          "code": "AVPY 10001",
+          "title": "Flamingo Zekeriyaköy",
+          "link": "https://drive.google.com/drive/folders/1-kaX7MyxQZNCkFoVrm_pQszEM7A-UDz3",
+          "img": "https://drive.google.com/uc?id=1MO2C444DHoWow2S8u7o6pU-Qm7QdEqz8"
+        },
+        {
+          "id": 30,
+          "code": "AVPY 10002",
+          "title": "Alya Park Teras 1",
+          "link": "https://drive.google.com/drive/folders/1U3BJZohBBbQTISDx2Ns46KqGsGKmm_QA",
+          "img": "https://drive.google.com/uc?id=1e9uGo14Ie-vbN72auB57jHjI2eVXSTs8"
+        },
+        {
+          "id": 32,
+          "code": "AVPY 10005",
+          "title": "ETRO Residence by RAMS Beyond",
+          "link": "https://drive.google.com/drive/folders/1x1X8zAy022W7Pwrb5BDJiP33BoYHBV9e",
+          "img": "https://drive.google.com/uc?id=1JD3TPmlnZeLjhSkmAtaeSwUY27M5j17b"
+        },
+        {
+          "id": 33,
+          "code": "AVPY 10007",
+          "title": "Maslak Koru",
+          "link": "https://drive.google.com/drive/folders/1FNZCI75ZfgTOB1kVZ_fc51wtlRXz6R-q",
+          "img": "https://drive.google.com/uc?id=1Ynz2rqjrPeuzdthzI0an9A-3ZlRUTvg5"
+        },
+        {
+          "id": 34,
+          "code": "AVPY 10008",
+          "title": "Invest Vadi",
+          "link": "https://drive.google.com/drive/folders/1An7CVbu-j-lkrnNgXIJYs9NS5Poafqbk",
+          "img": "https://drive.google.com/uc?id=19AAynQticYnprKWJCB7yd5iIPsSfk2fq"
+        },
+        {
+          "id": 35,
+          "code": "AVPY 10009",
+          "title": "Skyland Istanbul",
+          "link": "https://drive.google.com/drive/folders/1ZOIAwXzy6Ld3obotYXhJ2hYZ9oXUgUy8",
+          "img": "https://drive.google.com/uc?id=1CCa8HqaFTWYWmyqeWLZdZVO4iIfeRPrB"
+        },
+        {
+          "id": 36,
+          "code": "AVPY 10011",
+          "title": "Yeni Levent",
+          "link": "https://drive.google.com/drive/folders/1NQFFIHM4ULLTuer67bhSauisBKwDKxq7",
+          "img": "https://drive.google.com/uc?id=1ja1C-gfLEYkPOEq5S8GEaQhvrbz3RPIK"
+        },
+        {
+          "id": 37,
+          "code": "AVPY 10012",
+          "title": "Saklı Vadi",
+          "link": "https://drive.google.com/drive/folders/13tEaHNL2jzD8t_Nr5fYFPsbdwKC9fnl7",
+          "img": "https://drive.google.com/uc?id=1DGcqNIhXGKfqa-OWnLTP53C9sHvsPrik"
+        },
+        {
+          "id": 38,
+          "code": "AVPY 10023",
+          "title": "Çamlı Vadi",
+          "link": "https://drive.google.com/drive/folders/1CRuYHD5eEGTGGTgLLTOR3D-WIhHtpjkW",
+          "img": "https://drive.google.com/uc?id=1OomV8CfGF6BIrwaS5MmFmyw0wXg1eK9Q"
+        },
+        {
+          "id": 39,
+          "code": "AVPY 10024",
+          "title": "Istova Green",
+          "link": "https://drive.google.com/drive/folders/1YrBJbPcqkxBYnQzLIGV8yoNM20yvkceP",
+          "img": "https://drive.google.com/uc?id=1sI6Qk-CJsKjpfTnW-yGZm0izq7JwZxpi"
+        },
+        {
+          "id": 40,
+          "code": "AVPY 10025",
+          "title": "Orman Istanbul",
+          "link": "https://drive.google.com/drive/u/0/folders/1p_kSx2qIIt8LlFhc71GExM_nGcxxSlPm",
+          "img": "https://drive.google.com/uc?id=1OLa5XlltJykMej2nqXqpd4ava-CQ7tZ8"
+        }
+      ]
+}
