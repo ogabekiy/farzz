@@ -2072,7 +2072,7 @@
     "region": "asia",
     "language_versions": {
       "ru": {
-        "district": "Ускюдар",
+        "district": "Üsküdar, 2001",
         "region": "Анатолийская сторона Стамбула",
         "description": "Жилой комплекс из двух блоков — A и B. Включает современные квартиры различных форматов: лофты, дуплексы и террасные апартаменты. Блок A: 61 квартира (17 — 3+1, 30 — 2+1, 14 — 1+1). Блок B: 88 квартир (30 — 3+1, 56 — 2+1, 2 — 1+1). Общее количество квартир — 149.",
         "status": "Сдача — декабрь 2026",
@@ -2125,7 +2125,7 @@
         ]
       },
       "uz": {
-        "district": "Usqudar",
+        "district": "Üsküdar, 2001",
         "region": "Istanbulning Anatoliya tomoni",
         "description": "Ikki blokdan iborat turar joy majmuasi — A va B. Zamonaviy turdagi turli formatdagi xonadonlarni o‘z ichiga oladi: loftlar, duplekslar va terrasali xonadonlar. A blok: 61 xonadon (17 — 3+1, 30 — 2+1, 14 — 1+1). B blok: 88 xonadon (30 — 3+1, 56 — 2+1, 2 — 1+1). Umumiy xonadonlar soni — 149.",
         "status": "Topshirish — 2026 yil dekabr",
@@ -2184,7 +2184,7 @@
     "region": "asia",
     "language_versions": {
       "ru": {
-        "district": "Кадыкёй",
+        "district": "Kadikoy, 2009",
         "region": "Анатолийская сторона Стамбула",
         "description": "Современный жилой комплекс из трёх блоков — двух жилых и одного коммерческого. Объединяет 570 жилых единиц (1+1, 2+1, 3+1) и 21 коммерческое помещение. Общая площадь застройки — 110 000 м², из которых 30% занимает зелёная зона. Комплекс расположен в центре динамичного района, на улице Prestij, вдохновлённой атмосферой барселонской La Rambla.",
         "status": "Готов к заселению",
@@ -2241,7 +2241,7 @@
         ]
       },
       "uz": {
-        "district": "Kadikyoy",
+        "district": "Kadikoy, 2009",
         "region": "Istanbulning Anatoliya tomoni",
         "description": "Uch blokdan iborat zamonaviy turar joy majmuasi — ikkita turar joy va bitta tijorat bloki. 570 ta turar joy (1+1, 2+1, 3+1) va 21 ta tijorat ob'ektini birlashtiradi. Umumiy qurilish maydoni — 110,000 m², shundan 30% yashil zona. Majmua jonli hudud markazida, Barselonaning La Rambla ko‘chasidan ilhomlangan Prestij ko‘chasida joylashgan.",
         "status": "Yashashga tayyor",
@@ -2304,7 +2304,7 @@
     "region": "asia",
     "language_versions": {
       "ru": {
-        "district": "Кадыкёй",
+        "district": "Kadıköy, 2010",
         "region": "Анатолийская сторона Стамбула",
         "description": "Современный жилой комплекс из 3 блоков (блоки A и B — по 24 этажа, блок C — 7 этажей с офисной концепцией). Всего 467 квартир и 96 коммерческих помещений. Комплекс расположен вдоль трассы E5, в 2 минутах ходьбы от метробуса. Удобства: открытый бассейн, спортзал, сауна, парная, зелёные зоны, семейная зона, внутреннее кафе, 6-уровневая парковка. Проект готов к заселению. Оформление титула собственности завершено — без дополнительных расходов на TAPU.",
         "status": "Готов к заселению",
@@ -2365,7 +2365,7 @@
         ]
       },
       "uz": {
-        "district": "Kadikyoy",
+        "district": "Kadıköy, 2010",
         "region": "Istanbulning Anatoliya tomoni",
         "description": "3 blokdan iborat zamonaviy turar joy majmuasi (A va B bloklari — har biri 24 qavat, C bloki — 7 qavatli ofis kontseptsiyasi). Jami 467 xonadon va 96 ta tijorat ob'ekti. Majmua E5 shossesi bo‘yida joylashgan bo‘lib, metrobusdan 2 daqiqa piyoda masofada. Qulayliklar: ochiq basseyn, sport zali, sauna, bug‘ xonasi, yashil zonalar, oilaviy zona, ichki kafe, 6 qavatli avtoturargoh. Loyiha yashashga tayyor. Mulk huquqini rasmiylashtirish (TAPU) qo‘shimcha xarajatlarsiz yakunlangan.",
         "status": "Yashashga tayyor",
@@ -2432,7 +2432,7 @@
     "region": "asia",
     "language_versions": {
       "ru": {
-        "district": "Эренкёй",
+        "district": "Erenköy 2013",
         "region": "Анатолийская сторона Стамбула",
         "description": "Премиальный жилой комплекс от компании Şua İnşaat, состоящий из 4 блоков по 14 этажей, включает 251 жилую единицу (от 1+1 до 5+1 дуплексов). 60% территории занимает зелёная зона и социальная инфраструктура. Комплекс расположен в 5 минутах от улицы Багдат и пляжа, а также в 10 минутах от станции метро Marmaray.",
         "status": "Сдача — март 2026",
@@ -2495,7 +2495,7 @@
         ]
       },
       "uz": {
-        "district": "Erenkoy",
+        "district": "Erenköy 2013",
         "region": "Istanbulning Anatoliya tomoni",
         "description": "Şua İnşaat kompaniyasining premium turar joy majmuasi, har biri 14 qavatli 4 blokdan iborat bo‘lib, 251 ta turar joy (1+1 dan 5+1 duplekslargacha) mavjud. Hududning 60% yashil zona va ijtimoiy infratuzilma bilan qoplangan. Majmua Bag‘dat ko‘chasi va plyajdan 5 daqiqa, Marmaray metro stansiyasidan 10 daqiqa masofada joylashgan.",
         "status": "Topshirish — 2026 yil mart",
@@ -2564,7 +2564,7 @@
     "region": "asia",
     "language_versions": {
       "ru": {
-        "district": "Гёзтепе",
+        "district": "Kadıköy, 2015",
         "region": "Анатолийская сторона Стамбула",
         "description": "Бутик-проект на 1 блок, 9 этажей и всего 18 квартир. Квартиры 2+1 и 3+1 с балконами и закрытым паркингом. С 6 этажа открывается вид на море. Использованы сейсмостойкие материалы (цемент C40), бытовая техника Bosch. Подходит для получения гражданства.",
         "status": "Готов к заселению",
@@ -2616,7 +2616,7 @@
         ]
       },
       "uz": {
-        "district": "Goztepe",
+        "district": "Kadıköy, 2015",
         "region": "Istanbulning Anatoliya tomoni",
         "description": "1 blok, 9 qavat va jami 18 xonadondan iborat butik loyiha. 2+1 va 3+1 xonadonlar balkonlar va yopiq avtoturargoh bilan jihozlangan. 6-qavatdan dengiz manzarasi ochiladi. Seysmik xavfsiz materiallar (C40 tsement) ishlatilgan, Bosch maishiy texnikasi mavjud. Fuqarolik olish uchun mos.",
         "status": "Yashashga tayyor",
@@ -2674,7 +2674,7 @@
     "region": "europe",
     "language_versions": {
       "ru": {
-        "district": "Зекериякёй",
+        "district": "Zekeriyaköy, 10001",
         "region": "Сарыер, север Стамбула",
         "description": "Премиальный жилой комплекс вилл в зелёной зоне Zekeriyaköy. Twin Villas (5,5+1) и Single Villas (6+1) с частными бассейнами, садами, парковкой и видом на лес.",
         "status": "Готов к заселению",
@@ -2730,7 +2730,7 @@
         ]
       },
       "uz": {
-        "district": "Zekeriyakoy",
+        "district": "Zekeriyaköy, 10001",
         "region": "Sariyer, Istanbulning shimoli",
         "description": "Zekeriyakoyning yashil zonasida joylashgan premium villalar turar joy majmuasi. Twin Villas (5.5+1) va Single Villas (6+1) shaxsiy basseynlar, bog‘lar, avtoturargoh va o‘rmon manzarasi bilan.",
         "status": "Yashashga tayyor",
@@ -2792,7 +2792,7 @@
     "region": "europe",
     "language_versions": {
       "ru": {
-        "district": "Маслак",
+        "district": "Maslak, 10005",
         "region": "Центральный деловой район Стамбула",
         "description": "Премиум-проект RAMS Beyond с дизайном от ETRO. Самое высокое здание в Турции с видом на Босфор, 3 моста и город.",
         "status": "Сдача — август 2025",
@@ -2846,7 +2846,7 @@
         ]
       },
       "uz": {
-        "district": "Maslak",
+        "district": "Maslak, 10005",
         "region": "Istanbulning markaziy biznes hududi",
         "description": "ETRO dizayni bilan RAMS Beyond premium loyihasi. Turkiyaning eng baland binosi bo‘lib, Bosfor, 3 ta ko‘prik va shahar manzarasi bilan.",
         "status": "Topshirish — 2025 yil avgust",
@@ -2906,7 +2906,7 @@
     "region": "europe",
     "language_versions": {
       "ru": {
-        "district": "Маслак",
+        "district": "Maslak, 10007",
         "region": "Рядом с Вадистанбул, Стамбул",
         "description": "Масштабный жилой и коммерческий проект у леса Белград. Включает квартиры, офисы, магазины и социальные зоны.",
         "status": "",
@@ -2969,7 +2969,7 @@
         ]
       },
       "uz": {
-        "district": "Maslak",
+        "district": "Maslak, 10007",
         "region": "Vadistanbul yaqinida, Istanbul",
         "description": "Belgrad o‘rmoni yaqinidagi keng ko‘lamli turar joy va tijorat loyihasi. Xonadonlar, ofislar, do‘konlar va ijtimoiy zonalar mavjud.",
         "status": "",
@@ -3037,7 +3037,7 @@
     "region": "europe",
     "language_versions": {
       "ru": {
-        "district": "Сарыер",
+        "district": "Sarıyer, 10009",
         "region": "Рядом с Левентом, Стамбул",
         "description": "Skyland Istanbul — престижный проект от Broadway Malyan, включает жилые, офисные и коммерческие блоки с видом на лес Белград.",
         "status": "Готов к заселению",
@@ -3075,7 +3075,7 @@
         ]
       },
       "uz": {
-        "district": "Sariyer",
+        "district": "Sarıyer, 10009",
         "region": "Levent yaqinida, Istanbul",
         "description": "Skyland Istanbul — Broadway Malyan tomonidan ishlab chiqilgan nufuzli loyiha. U turar joy, ofis va tijorat binolarini o'z ichiga oladi, Belgrad o'rmoni manzarasiga ega.",
         "status": "Tayyor",
@@ -3119,7 +3119,7 @@
     "region": "europe",
     "language_versions": {
       "ru": {
-        "district": "Левент",
+        "district": "Levent, 10011",
         "region": "Стамбул",
         "description": "Yeni Levent — проект «городской деревни» от DAP Yapı и Emlak Konut. Более 1000 единиц с садами, террасами и зелёной инфраструктурой.",
         "status": "Сдача — 2025",
@@ -3161,7 +3161,7 @@
         ]
       },
       "uz": {
-        "district": "Levent",
+        "district": "Levent, 10011",
         "region": "Istanbul",
         "description": "Yeni Levent — DAP Yapı va Emlak Konut tomonidan amalga oshirilgan 'shahar qishlog‘i' loyihasi. 1000 dan ortiq uy, bog‘lar, teraslar va yashil infratuzilma mavjud.",
         "status": "Topsiriladi — 2025",

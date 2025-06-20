@@ -91,7 +91,7 @@ export default function OneApartment({ params: paramsPromise }) {
           <div className="lg:col-span-2 space-y-6">
             <h1 className="text-4xl font-extrabold text-gray-800 flex items-center gap-3 animate-fade-in">
               <Home className="w-8 h-8 text-blue-500" strokeWidth={2.5} /> 
-              {data.district}, {data.region}
+              {data.district}
             </h1>
 
             {/* Main Media Swiper */}
