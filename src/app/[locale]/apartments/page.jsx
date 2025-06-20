@@ -77,6 +77,16 @@ export default function AllApartments() {
           >
             {t('europe')}
           </Link>
+          <Link
+            href={`/${locale}/apartments?region=asia`}
+            className={`text-sm px-4 py-2 rounded-full border ${
+              selectedRegion === 'asia'
+                ? 'bg-[#174d99] text-white'
+                : 'hover:bg-gray-100'
+            } transition`}
+          >
+            Asia
+          </Link>
         </div>
 
         {/* Apartments List */}
