@@ -2067,11 +2067,63 @@
     }
   }
 },
-
-  {
+{
     "id": 18,
     "region": "asia",
     "language_versions": {
+      "ru": {
+        "district": "Ускюдар",
+        "region": "Анатолийская сторона Стамбула",
+        "description": "Жилой комплекс из двух блоков — A и B. Включает современные квартиры различных форматов: лофты, дуплексы и террасные апартаменты. Блок A: 61 квартира (17 — 3+1, 30 — 2+1, 14 — 1+1). Блок B: 88 квартир (30 — 3+1, 56 — 2+1, 2 — 1+1). Общее количество квартир — 149.",
+        "status": "Сдача — декабрь 2026",
+        "plans": [
+          "1+1",
+          "2+1",
+          "3+1",
+          "лофт",
+          "дуплекс",
+          "террасные квартиры"
+        ],
+        "price": "1+1: от $331,326 до $428,567; 1+1 дуплекс: до $825,457; 2+1: от $400,000 до $1,046,000; 2+1 дуплекс: от $973,170 до $1,060,000; 3+1: от $687,516 до $1,210,175; 3+1 дуплекс: от $1,303,353 до $1,598,780",
+        "payment": {
+          "initial_payment": "",
+          "installment": ""
+        },
+        "advantages": [],
+        "distances": {
+          "Marmaray": "",
+          "море": "",
+          "шоссе E5": "",
+          "аэропорт Сабиха Гекчен": ""
+        },
+        "amenities": [],
+        "payment_currency": "USD",
+        "suitable_for": [],
+        "contact": "",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1dEGursmDNlyDJZqT6J5D-LIWgfWGhcFJ",
+          "https://drive.google.com/uc?export=view&id=1s1rfD-yhmgWRVC3vpobTOnGAa6PAxG0L",
+          "https://drive.google.com/uc?export=view&id=1J7rm-iMZPp9u3sqxNblTqhJ8kRD_Ahz9",
+          "https://drive.google.com/uc?export=view&id=19Ql_-EIgQIhMvQroBHGoKrRmJwPKjhSD",
+          "https://drive.google.com/uc?export=view&id=1k-eVEmQSspJaZKp-6LZps1S4HtXYW2TT",
+          "https://drive.google.com/uc?export=view&id=11VfQbYh0FMKHmnGtFJ9N8nm_gl6vdi_6",
+          "https://drive.google.com/uc?export=view&id=1uT8fc7rvyzKqHIY_nAQlz6VybCBcBYmG",
+          "https://drive.google.com/uc?export=view&id=16XVtecfgSaeXdTCtEbInNRruPTskX-Io",
+          "https://drive.google.com/uc?export=view&id=1IuQQ2lNlsGyAdigX_Y8MuWYDo7_z8VGz",
+          "https://drive.google.com/uc?export=view&id=1VD2VO4ubjbLbcvIqx3hvgxpmhMEm-kPP",
+          "https://drive.google.com/uc?export=view&id=1fApM_zfzIMbmEI2qMZrqB0b1WOtKTmTE",
+          "https://drive.google.com/uc?export=view&id=15gzOZTJg8ru8SHO5mlOoV9kCimYJRYQ4",
+          "https://drive.google.com/uc?export=view&id=1ncn6U3fG2z3Px_x-3yl8QMBi2gyEdj2H",
+          "https://drive.google.com/uc?export=view&id=14ycu8sCExnFrhUBDovwy6WyGRbmWk8_f",
+          "https://drive.google.com/uc?export=view&id=1h3H8EKX4k4Jkd8jfUdGE0GJipLqNi32k"
+        ],
+        "videos": [
+          "https://drive.google.com/file/d/1mdZvP_N8Y_J1mwByvcibDUv7Lkb2pRa8/preview",
+          "https://drive.google.com/file/d/14fWA9tDlesug6psdoo_L8w5-Xt7DuuZv/preview",
+          "https://drive.google.com/file/d/1XTOcdH57l4UYRH4008B9_aojoNf0fq7L/preview",
+          "https://drive.google.com/file/d/1cjIwpeK6-dhwHYZzuCiOoTrc6MwGkxv_/preview"
+        ]
+      },
       "uz": {
         "district": "Usqudar",
         "region": "Istanbulning Anatoliya tomoni",
@@ -2131,6 +2183,63 @@
     "id": 19,
     "region": "asia",
     "language_versions": {
+      "ru": {
+        "district": "Кадыкёй",
+        "region": "Анатолийская сторона Стамбула",
+        "description": "Современный жилой комплекс из трёх блоков — двух жилых и одного коммерческого. Объединяет 570 жилых единиц (1+1, 2+1, 3+1) и 21 коммерческое помещение. Общая площадь застройки — 110 000 м², из которых 30% занимает зелёная зона. Комплекс расположен в центре динамичного района, на улице Prestij, вдохновлённой атмосферой барселонской La Rambla.",
+        "status": "Готов к заселению",
+        "plans": [
+          "1+1",
+          "2+1",
+          "3+1"
+        ],
+        "price": "",
+        "payment": {
+          "initial_payment": "50%",
+          "installment": "18 месяцев"
+        },
+        "advantages": [
+          "НДС 1%",
+          "Тапу 0%",
+          "Первоначальный взнос 50%",
+          "Рассрочка на 18 месяцев"
+        ],
+        "distances": {
+          "Marmaray": "",
+          "море": "",
+          "шоссе E5": "",
+          "аэропорт Сабиха Гекчен": ""
+        },
+        "amenities": [],
+        "payment_currency": "",
+        "suitable_for": [],
+        "contact": "",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1-Yk1k7G28M0L8dwNny-FqvUkWlINqjyU",
+          "https://drive.google.com/uc?export=view&id=1NhMvANQNmvKsbQ-X5XAQGOZn1N-WqFQP",
+          "https://drive.google.com/uc?export=view&id=1t-3sVS0zgHK1QHxBlz9sWYdGl2_D_lZu",
+          "https://drive.google.com/uc?export=view&id=1eayYhNd8mHEgflcfjOxW_USr_pOv4d3g",
+          "https://drive.google.com/uc?export=view&id=1HIqoa4RVKYmMgsEONBjEuMekKadKlmgl",
+          "https://drive.google.com/uc?export=view&id=14sOtRPEajSVO-DlDlmfaBBO0zl-mMt9z",
+          "https://drive.google.com/uc?export=view&id=18Jlbqngg6Anac0-n5-ezf3jHJ7FmkFM5",
+          "https://drive.google.com/uc?export=view&id=1p0rYqQc0LiRstZAsWSgk3kIzLWasSlJ-",
+          "https://drive.google.com/uc?export=view&id=1Hpi_E8CvzwOoI7mB8Q5u0XQs-Lcaly_N",
+          "https://drive.google.com/uc?export=view&id=1q3VooeZqGZbXb9HvpS5NgXwa1Bki_785",
+          "https://drive.google.com/uc?export=view&id=1sP6iZCtBrZF7Z0QNWxc7417GVVBlUVyH",
+          "https://drive.google.com/uc?export=view&id=1A60__GMlK07Vru45998sMLpUxCT8FkGM",
+          "https://drive.google.com/uc?export=view&id=1kz_1c5vp6TV6wloIeYAvk9zzt5m0hV9F",
+          "https://drive.google.com/uc?export=view&id=1gay5JJ_RXj3NKzk_vhYd86cmWt4zHHDx",
+          "https://drive.google.com/uc?export=view&id=1fAjMgIRGMZURfNR8mXDiM7d8t-Oplt_G",
+          "https://drive.google.com/uc?export=view&id=1F_wZn69BUgg0U0NsEPRQhjiVYXc0V152",
+          "https://drive.google.com/uc?export=view&id=1pVAmNDAONmHu44Mnkln9KsBorBQ5abp4",
+          "https://drive.google.com/uc?export=view&id=1Jni8bRc7DiJGPK4p0l3mXyZFABe2iF02"
+        ],
+        "videos": [
+          "https://drive.google.com/file/d/1ByOJB99N9Ch6qZUjIR0bOzDF9VhvadDH/preview",
+          "https://drive.google.com/file/d/1bOPG5RCjwHjsAr201Pk3dAXcQkIkTmaJ/preview",
+          "https://drive.google.com/file/d/1U3GO45Vt08pfZSh3BgG2SqYcHPo3vIHi/preview"
+        ]
+      },
       "uz": {
         "district": "Kadikyoy",
         "region": "Istanbulning Anatoliya tomoni",
@@ -2194,6 +2303,67 @@
     "id": 20,
     "region": "asia",
     "language_versions": {
+      "ru": {
+        "district": "Кадыкёй",
+        "region": "Анатолийская сторона Стамбула",
+        "description": "Современный жилой комплекс из 3 блоков (блоки A и B — по 24 этажа, блок C — 7 этажей с офисной концепцией). Всего 467 квартир и 96 коммерческих помещений. Комплекс расположен вдоль трассы E5, в 2 минутах ходьбы от метробуса. Удобства: открытый бассейн, спортзал, сауна, парная, зелёные зоны, семейная зона, внутреннее кафе, 6-уровневая парковка. Проект готов к заселению. Оформление титула собственности завершено — без дополнительных расходов на TAPU.",
+        "status": "Готов к заселению",
+        "plans": [
+          "1+1",
+          "2+1",
+          "3+1",
+          "4+1"
+        ],
+        "price": "1+1 (51.81 – 81.47 м²): $241,860 – $337,230; 2+1 (88.24 – 137.62 м²): $484,700 – $697,310; 3+1 (156.23 – 216.63 м²): $713,420 – $945,760; 4+1 (215.61 – 241.30 м²): $855,990 – $993,290",
+        "payment": {
+          "initial_payment": "",
+          "installment": ""
+        },
+        "advantages": [
+          "Без дополнительных расходов на TAPU",
+          "Расположен вдоль трассы E5",
+          "2 минуты до метробуса",
+          "Полный спектр удобств"
+        ],
+        "distances": {
+          "Marmaray": "",
+          "море": "",
+          "шоссе E5": "вдоль трассы",
+          "аэропорт Сабиха Гекчен": ""
+        },
+        "amenities": [
+          "открытый бассейн",
+          "спортзал",
+          "сауна",
+          "парная",
+          "зелёные зоны",
+          "семейная зона",
+          "внутреннее кафе",
+          "6-уровневая парковка"
+        ],
+        "payment_currency": "USD",
+        "suitable_for": [],
+        "contact": "",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1qgCD_MHMz9xO8ZrhY5tLVRa1StrawtAR",
+          "https://drive.google.com/uc?export=view&id=1tP7WTOtrKHsKXZ5izW6OIAGzrby280Bd",
+          "https://drive.google.com/uc?export=view&id=1an9RIwaymVWVsnfijsKGzyRAe0Lb9FRF",
+          "https://drive.google.com/uc?export=view&id=1iglobQkA7a1xYgpYViZg7hZ3lssJvz0S",
+          "https://drive.google.com/uc?export=view&id=1JBnoUmECXDrvK419M-2_UqxSkE_91psE",
+          "https://drive.google.com/uc?export=view&id=18OX6qlSsklyBQgrIaXZmB7z7AejrcPSl",
+          "https://drive.google.com/uc?export=view&id=1HgLEPSYvDd4Ypm8QL1EdL1iQ7Ly_FLUT",
+          "https://drive.google.com/uc?export=view&id=1LEWXyKR77NCTR8a74naF3rQzFKMncu96",
+          "https://drive.google.com/uc?export=view&id=1m_w_OsbyFNmq1zwegIkQJIbpUcfmtMOu",
+          "https://drive.google.com/uc?export=view&id=18pQL2wXi_Sdc-tExr4m86dLwg9xvtpMz",
+          "https://drive.google.com/uc?export=view&id=1d2IHanwqs-fiNjSq2Qg051yp9B11LFum",
+          "https://drive.google.com/uc?export=view&id=13Hw0ltRIwiaqk1Ycq4v9legk0-_nEvhZ",
+          "https://drive.google.com/uc?export=view&id=1509iinqfOaC1x7M81afqZHoZcfCkw5-3"
+        ],
+        "videos": [
+          "https://drive.google.com/file/d/1otHmGohyOggaE3PKUsnf_oSI3BlCy8jG/preview",
+          "https://drive.google.com/file/d/1uLmoHFWpycgmUKflV7aiCpuD2_md9kcq/preview"
+        ]
+      },
       "uz": {
         "district": "Kadikyoy",
         "region": "Istanbulning Anatoliya tomoni",
@@ -2261,6 +2431,69 @@
     "id": 21,
     "region": "asia",
     "language_versions": {
+      "ru": {
+        "district": "Эренкёй",
+        "region": "Анатолийская сторона Стамбула",
+        "description": "Премиальный жилой комплекс от компании Şua İnşaat, состоящий из 4 блоков по 14 этажей, включает 251 жилую единицу (от 1+1 до 5+1 дуплексов). 60% территории занимает зелёная зона и социальная инфраструктура. Комплекс расположен в 5 минутах от улицы Багдат и пляжа, а также в 10 минутах от станции метро Marmaray.",
+        "status": "Сдача — март 2026",
+        "plans": [
+          "1+1",
+          "2+1",
+          "3+1",
+          "4+1",
+          "5+1 дуплекс"
+        ],
+        "price": "1+1 (51,66 – 62,73 м²): $331,296 – $419,638; 2+1 (87,24 – 117,16 м²): $581,455 – $822,229; 3+1 (154,53 – 157,19 м²): $1,047,095 – $1,103,159",
+        "payment": {
+          "initial_payment": "35%",
+          "installment": "20 месяцев"
+        },
+        "advantages": [
+          "60% территории — зелёная зона",
+          "Умный дом",
+          "Солнечные панели",
+          "20 зарядных станций для электромобилей",
+          "Широкая социальная инфраструктура"
+        ],
+        "distances": {
+          "Marmaray": "10 минут",
+          "море": "5 минут",
+          "шоссе E5": "",
+          "аэропорт Сабиха Гекчен": ""
+        },
+        "amenities": [
+          "крытый бассейн",
+          "сауна",
+          "джакузи",
+          "соляная комната",
+          "детская площадка",
+          "теннисный корт",
+          "баскетбольный корт",
+          "прогулочные дорожки"
+        ],
+        "payment_currency": "USD",
+        "suitable_for": [],
+        "contact": "",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1_zFYa4HbuuwkefTU1jqOuw4p9EU4MUll",
+          "https://drive.google.com/uc?export=view&id=1qGvdXx2Q8dtLpLMPSJFAOVdvta19Kxcz",
+          "https://drive.google.com/uc?export=view&id=1u37RzkVJtcindLCv5f6E_ph9XtVUf0DB",
+          "https://drive.google.com/uc?export=view&id=1oFJeJmVwT1IeFBkEZLsSIuSD3Lbofzq6",
+          "https://drive.google.com/uc?export=view&id=1bKQZY767Nk_EkqTY7mc7gMjpGhmvHbKz",
+          "https://drive.google.com/uc?export=view&id=1uTpBSg6BKXb5RH4VDV3RWgA_NZJRZG5a",
+          "https://drive.google.com/uc?export=view&id=1Lq-2ZuXPDZDb5U6u_7GDblOk8dliHMZq",
+          "https://drive.google.com/uc?export=view&id=1ByWy2ffVYsQVpcl5RMt2cXk49yHoi90m",
+          "https://drive.google.com/uc?export=view&id=1xRuY2hmKt3YPkoq_qJxUk_EtI7B94XI1",
+          "https://drive.google.com/uc?export=view&id=1lQt1ppFX0mAsswjfJ4201En59By9caSA",
+          "https://drive.google.com/uc?export=view&id=19j72iJpKr51JGf2nMYvQjikDjGCPpP0V",
+          "https://drive.google.com/uc?export=view&id=1oGay5Tr1T-K3vp6qFKaMU7R3r7aXb98d",
+          "https://drive.google.com/uc?export=view&id=1CSRX8swYnzQtE5f074AY1-OJXOycdYBq",
+          "https://drive.google.com/uc?export=view&id=1coLX-loIyvm7N2ZHwEuhTrsJVFdXNtuh"
+        ],
+        "videos": [
+          "https://drive.google.com/file/d/1e-o2s9bfi8nTPiAcpTt0HL5Pr5o94BQm/preview"
+        ]
+      },
       "uz": {
         "district": "Erenkoy",
         "region": "Istanbulning Anatoliya tomoni",
@@ -2330,6 +2563,58 @@
     "id": 22,
     "region": "asia",
     "language_versions": {
+      "ru": {
+        "district": "Гёзтепе",
+        "region": "Анатолийская сторона Стамбула",
+        "description": "Бутик-проект на 1 блок, 9 этажей и всего 18 квартир. Квартиры 2+1 и 3+1 с балконами и закрытым паркингом. С 6 этажа открывается вид на море. Использованы сейсмостойкие материалы (цемент C40), бытовая техника Bosch. Подходит для получения гражданства.",
+        "status": "Готов к заселению",
+        "plans": [
+          "2+1",
+          "3+1"
+        ],
+        "price": "2+1 (126 м² брутто / 88 м² нетто): $470,000 – $550,000; 3+1 (146 м² брутто / 102 м² нетто): $590,000 – $680,000",
+        "payment": {
+          "initial_payment": "50%",
+          "installment": "до 12 месяцев"
+        },
+        "advantages": [
+          "Вид на море с 6 этажа",
+          "Сейсмостойкие материалы (C40)",
+          "Техника Bosch",
+          "Подходит для гражданства"
+        ],
+        "distances": {
+          "Marmaray": "500 м",
+          "море": "вид с 6 этажа",
+          "шоссе E5": "",
+          "аэропорт Сабиха Гекчен": ""
+        },
+        "amenities": [
+          "закрытый паркинг",
+          "балконы"
+        ],
+        "payment_currency": "USD",
+        "suitable_for": [
+          "гражданство"
+        ],
+        "contact": "",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1R-YDEUHtStT_W4Q2DPWSBFBdN6GTbL0S",
+          "https://drive.google.com/uc?export=view&id=1a_7MyVpWxwYFU4jPYb4d2lIGNOjvxO_D",
+          "https://drive.google.com/uc?export=view&id=10Wwk3HtKjnPdQo2vCHdk4ibatTTSBHR9",
+          "https://drive.google.com/uc?export=view&id=1DtqQFR3L23s33IXoNDe9h_lRTeiPddaK",
+          "https://drive.google.com/uc?export=view&id=1-JSVgdqF3iXx2VyMDyJinmSwzkHKsCse",
+          "https://drive.google.com/uc?export=view&id=1mtWWL2Vj_6Spr4AyAcSDEPayiOPQqzR2",
+          "https://drive.google.com/uc?export=view&id=1xBv-Pe5q0hZ8zoiSpve2SkiCAeomFY62",
+          "https://drive.google.com/uc?export=view&id=12wvYm34Hp3uoMPAz0fNb0koL6jeJCa8q",
+          "https://drive.google.com/uc?export=view&id=1po78tLEDbqetIEDhvneyIQEqroNREln-",
+          "https://drive.google.com/uc?export=view&id=1dotc39sV5SddM94xutJ6WeMB32L8l2Gu"
+        ],
+        "videos": [
+          "https://drive.google.com/file/d/1fpUfn12ALlalFLc_TuEtWR5MuM5hJTlB/preview",
+          "https://drive.google.com/file/d/1ahRVdp7B5RSZUWCpFRZRk_-QIGCCgC5B/preview"
+        ]
+      },
       "uz": {
         "district": "Goztepe",
         "region": "Istanbulning Anatoliya tomoni",
@@ -2388,6 +2673,62 @@
     "id": 23,
     "region": "europe",
     "language_versions": {
+      "ru": {
+        "district": "Зекериякёй",
+        "region": "Сарыер, север Стамбула",
+        "description": "Премиальный жилой комплекс вилл в зелёной зоне Zekeriyaköy. Twin Villas (5,5+1) и Single Villas (6+1) с частными бассейнами, садами, парковкой и видом на лес.",
+        "status": "Готов к заселению",
+        "plans": [
+          "5.5+1",
+          "6+1"
+        ],
+        "price": "Twin Villas (5.5+1): $2,235,000 – $2,310,000; Single Villas (6+1): $2,680,000 – $3,140,000",
+        "payment": {
+          "initial_payment": "",
+          "installment": ""
+        },
+        "advantages": [
+          "Частные бассейны",
+          "Панорамное остекление",
+          "Рядом престижные школы, пляжи и ТЦ"
+        ],
+        "distances": {},
+        "amenities": [
+          "фитнес-зал",
+          "зоны для прогулок",
+          "социальные пространства",
+          "ландшафтный сад",
+          "парковка на 3 авто"
+        ],
+        "payment_currency": "USD",
+        "suitable_for": [],
+        "contact": "",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1b3OScWzCanAWD2XSezsGe1TzbmroA5Rw",
+          "https://drive.google.com/uc?export=view&id=1-FNpn7lQNh5uFqdNTvhk1st0S-YitNo3",
+          "https://drive.google.com/uc?export=view&id=1BhIG5kJ13upXMnZYwS2fux5vYBkWrC5v",
+          "https://drive.google.com/uc?export=view&id=1tqh-dswVHhB37K-_xuuXQndcLVZSkcr2",
+          "https://drive.google.com/uc?export=view&id=118veBB0dSff6C05RQld33DKCqzsiz2nj",
+          "https://drive.google.com/uc?export=view&id=1mMHfh-q0rGdZ-2bqWA-PVhUMU3ONF8ZX",
+          "https://drive.google.com/uc?export=view&id=1yGOpr2DVlAFsaWiUL8sKMbNzj6KokQHT",
+          "https://drive.google.com/uc?export=view&id=1MEJPpFlFPcXg2qNAXhRTQUTFpvjS6_M2",
+          "https://drive.google.com/uc?export=view&id=18FTU6pnHtzeVNTR5Ee9M7yxexRljzrGU",
+          "https://drive.google.com/uc?export=view&id=1I8jHdPSX9KM3RoiJa8cbg0hnCUsnU9Hq",
+          "https://drive.google.com/uc?export=view&id=11DD9ll6jN39o-OWbGUMLoX_eMhUQyjsI",
+          "https://drive.google.com/uc?export=view&id=1ioRuMSNH8Z4a_r5NHtCmM-LofxGGQBg-",
+          "https://drive.google.com/uc?export=view&id=1CH_fjRi5gV-W9lofeZ1q-6L_ijjQd3tQ",
+          "https://drive.google.com/uc?export=view&id=1Bjvq4q3_xAKJUCeZ6ccdaNMdSl49Texd",
+          "https://drive.google.com/uc?export=view&id=10CUCV1cB7Sn7Ce4cCEC6w7-NYa8M4tb1",
+          "https://drive.google.com/uc?export=view&id=1_E0eTAAyqj7DHA1lAOz9MBylz4dQMIop",
+          "https://drive.google.com/uc?export=view&id=1Eee6K-LNdhNykOe8vPXXLf_I3NX6AHm4",
+          "https://drive.google.com/uc?export=view&id=1bTHvPi2EguT2fDPxBAiqm9ZND0jsfolN",
+          "https://drive.google.com/uc?export=view&id=1ZqM5EYhFAiZT8QEpv_49JB5HZajXKTtv",
+          "https://drive.google.com/uc?export=view&id=1ZXxdaw1fS8fHPqHhZj7fM9aaMW0Qenmd"
+        ],
+        "videos": [
+          "https://drive.google.com/file/d/1_quI-NglHiAyu_jsX-Bae6O27m47WeG0/preview"
+        ]
+      },
       "uz": {
         "district": "Zekeriyakoy",
         "region": "Sariyer, Istanbulning shimoli",
@@ -2450,6 +2791,60 @@
     "id": 24,
     "region": "europe",
     "language_versions": {
+      "ru": {
+        "district": "Маслак",
+        "region": "Центральный деловой район Стамбула",
+        "description": "Премиум-проект RAMS Beyond с дизайном от ETRO. Самое высокое здание в Турции с видом на Босфор, 3 моста и город.",
+        "status": "Сдача — август 2025",
+        "plans": [
+          "1+1",
+          "2+1",
+          "3+1"
+        ],
+        "price": "1+1: $990,000 – $1,509,000; 2+1: $1,824,000 – $2,179,000; 3+1: $2,435,000 – $3,540,000",
+        "payment": {
+          "initial_payment": "",
+          "installment": ""
+        },
+        "advantages": [
+          "Панорамный бассейн",
+          "Консьерж, личный повар",
+          "Услуги личного стилиста",
+          "Смарт-дом",
+          "Heliport",
+          "Мебель от ETRO"
+        ],
+        "distances": {},
+        "amenities": [
+          "wellness & spa",
+          "лаунжи",
+          "частный кинотеатр",
+          "закрытый паркинг",
+          "рестораны"
+        ],
+        "payment_currency": "USD",
+        "suitable_for": [
+          "гражданство"
+        ],
+        "contact": "",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1WI7u6_GGkIG4yRr5JKF8-tMCP8aX5Qjz",
+          "https://drive.google.com/uc?export=view&id=15A-Bz3SDYhe4ymWuFQktNOgpaFW9qT5u",
+          "https://drive.google.com/uc?export=view&id=12U4Aiut-SGpVz0ITD2iJ7fKju5Nb1TV5",
+          "https://drive.google.com/uc?export=view&id=1zNZkeFHJLRMvL7zl87Yholqvgb1Xlhw8",
+          "https://drive.google.com/uc?export=view&id=150M2OlBLQnp5R0ZoduFA3iFs7zAHS1WT",
+          "https://drive.google.com/uc?export=view&id=1Dl_KGRGIsUwHQfKxTrog4G4xv9AhAhbE",
+          "https://drive.google.com/uc?export=view&id=1JD3TPmlnZeLjhSkmAtaeSwUY27M5j17b",
+          "https://drive.google.com/uc?export=view&id=1Q4Cj3wWhKQ5fZ9dEbWHt6edS3ny_3R6l",
+          "https://drive.google.com/uc?export=view&id=1qGFI2u40apQ216Q4aAGErzTQZX5q4_yH"
+        ],
+        "videos": [
+          "https://drive.google.com/file/d/1p74B0bH3T7LS6ib8nEDdYlfhzeQXtQUz/preview",
+          "https://drive.google.com/file/d/1ahrwYZeAERd90NE5e47WiZAclbDFdORV/preview",
+          "https://drive.google.com/file/d/1kwST4m2X3qBR0gsmOlQKYhClt_3-b5Zn/preview",
+          "https://drive.google.com/file/d/1FgZzbpSCs2kzyYPXFV0KM2vBUHtDU20r/preview"
+        ]
+      },
       "uz": {
         "district": "Maslak",
         "region": "Istanbulning markaziy biznes hududi",
@@ -2510,6 +2905,69 @@
     "id": 25,
     "region": "europe",
     "language_versions": {
+      "ru": {
+        "district": "Маслак",
+        "region": "Рядом с Вадистанбул, Стамбул",
+        "description": "Масштабный жилой и коммерческий проект у леса Белград. Включает квартиры, офисы, магазины и социальные зоны.",
+        "status": "",
+        "plans": [
+          "1+1",
+          "2+1",
+          "3+1",
+          "4+1",
+          "4.5+1",
+          "5+1"
+        ],
+        "price": "1+1: $470,000 – $660,000; 2+1: $685,000 – $1,144,000; 3+1: $1,100,000 – $1,425,000; 4+1: $1,275,000 – $1,350,000; 4.5+1: $1,480,000 – $1,645,000; 5+1: $1,760,000 – $2,190,000; Офисы: $1,315,000 – $1,730,000; Магазины: $2,130,000 – $4,150,000",
+        "payment": {
+          "initial_payment": "35%",
+          "installment": "24 месяца"
+        },
+        "advantages": [
+          "НДС 1% (жилые), 20% (коммерческие)",
+          "TAPU 2%",
+          "Солнечные панели",
+          "Сбор дождевой воды"
+        ],
+        "distances": {},
+        "amenities": [
+          "бассейны",
+          "сауна",
+          "фитнес",
+          "пилатес",
+          "1.5 км дорожек",
+          "детская площадка",
+          "охрана 24/7"
+        ],
+        "payment_currency": "USD",
+        "suitable_for": [],
+        "contact": "",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1QbUZ1DT2WiWM0PPBpWSKGrbX48xS-2ul",
+          "https://drive.google.com/uc?export=view&id=1U0cqhhhH3mbcpCuBMhLYKvZsgI2Rp-RW",
+          "https://drive.google.com/uc?export=view&id=118TBd450tTEmOjvhTgiQ7eIiBtLDvRdV",
+          "https://drive.google.com/uc?export=view&id=1OhoK07fLOaZWCeMmxSvMQNZPjXVy9F4U",
+          "https://drive.google.com/uc?export=view&id=1QfTIHLWhAfRhrRaprJeUg1SOoI4EHH4s",
+          "https://drive.google.com/uc?export=view&id=1o-RHSCH1e-DdBV8MxAfsP4_uUh-6pC6v",
+          "https://drive.google.com/uc?export=view&id=1qvukyQlobdgDjRB9x6XZgLKLGNS_bAXu",
+          "https://drive.google.com/uc?export=view&id=17lF4RrVLajvN4J2y8YYc2BFOoN3YD5tv",
+          "https://drive.google.com/uc?export=view&id=1fLC5e-smsWotkSxyGDVpy4baH1gDI9Tv",
+          "https://drive.google.com/uc?export=view&id=1cABFOiMExxDEy6EuradjLsTjeMtntCoJ",
+          "https://drive.google.com/uc?export=view&id=1fGR6Nks_Ry8gQr_epol1MiyIbVumd4dQ",
+          "https://drive.google.com/uc?export=view&id=1xLDP2Pmyse4Y5wlo7XymIU7bnl-623M_",
+          "https://drive.google.com/uc?export=view&id=1qJEOOHMJ9_eakSDBF58rOh8ZujXXwAWK",
+          "https://drive.google.com/uc?export=view&id=1dddjSQutmAwJtHegfyquVIfWX9s9PTC2"
+        ],
+        "videos": [
+          "https://drive.google.com/file/d/1tCigaddeNQNHJZQaDTno9RtVEIzVEQ3Z/preview",
+          "https://drive.google.com/file/d/1m-B_cck_jluSDv1OxKtXSM8LqLS1S5Hl/preview",
+          "https://drive.google.com/file/d/1RNQp4XnddnYLqeQIBAJPz_Y4yzQfTL4d/preview",
+          "https://drive.google.com/file/d/17oq1Ybl9uHbd5zeEv1HZiWtwd-ZofXl2/preview",
+          "https://drive.google.com/file/d/1UcPybmksbnVYZh_2Ewi6Zcm5swrfhF4c/preview",
+          "https://drive.google.com/file/d/1w8zLhNduhduyaQa3f1HLfMubdYtOGQPh/preview",
+          "https://drive.google.com/file/d/1Mvc03IXeC4hTsVYyUd0s30zaPQj78cRo/preview"
+        ]
+      },
       "uz": {
         "district": "Maslak",
         "region": "Vadistanbul yaqinida, Istanbul",
@@ -2572,38 +3030,75 @@
           "https://drive.google.com/file/d/1w8zLhNduhduyaQa3f1HLfMubdYtOGQPh/preview",
           "https://drive.google.com/file/d/1Mvc03IXeC4hTsVYyUd0s30zaPQj78cRo/preview"
         ]
-      }
-    }
-  },
-  {
+      }}},
+
+        {
     "id": 26,
     "region": "europe",
     "language_versions": {
-      "uz": {
-        "district": "Sariyer",
-        "region": "Levent yaqinida, Istanbul",
-        "description": "Skyland Istanbul — Broadway Malyan tomonidan ishlab chiqilgan nufuzli loyiha, turar joy, ofis va tijorat bloklarini o‘z ichiga oladi, Belgrad o‘rmoni manzarasi bilan.",
-        "status": "Yashashga tayyor",
+      "ru": {
+        "district": "Сарыер",
+        "region": "Рядом с Левентом, Стамбул",
+        "description": "Skyland Istanbul — престижный проект от Broadway Malyan, включает жилые, офисные и коммерческие блоки с видом на лес Белград.",
+        "status": "Готов к заселению",
         "plans": [
           "1+1",
           "2+1",
           "3+1",
           "4+1"
         ],
-        "price": "1+1: $610,000 – $1,020,000; 2+1: $1,000,000 – $1,550,000; 3+1: $1,410,000 – $2,115,000; 4+1: $2,570,000; Ofislar: $845,000 – $3,090,000",
+        "price": "1+1: $610,000 – $1,020,000; 2+1: $1,000,000 – $1,550,000; 3+1: $1,410,000 – $2,115,000; 4+1: $2,570,000; Офисы: $845,000 – $3,090,000",
         "payment": {
           "initial_payment": "50%",
-          "installment": "24 oy"
+          "installment": "24 месяца"
+        },
+        "advantages": [
+          "НДС 1%",
+          "TAPU 2%",
+          "Рядом TEM",
+          "Круглосуточная охрана"
+        ],
+        "distances": {},
+        "amenities": [
+          "подземная парковка",
+          "торговый центр"
+        ],
+        "payment_currency": "USD",
+        "suitable_for": [],
+        "contact": "",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1Tkc2MVSpR4J3NzPh67x8SQznXRBvbBcV",
+          "https://drive.google.com/uc?export=view&id=1z5fYMe4aKqMUvmIPB1fRRXsy-68AGeHF"
+        ],
+        "videos": [
+          "https://drive.google.com/file/d/1NG-PVxiGQJKLMMjysOyEk8IAhLltNzN1/preview"
+        ]
+      },
+      "uz": {
+        "district": "Sariyer",
+        "region": "Levent yaqinida, Istanbul",
+        "description": "Skyland Istanbul — Broadway Malyan tomonidan ishlab chiqilgan nufuzli loyiha. U turar joy, ofis va tijorat binolarini o'z ichiga oladi, Belgrad o'rmoni manzarasiga ega.",
+        "status": "Tayyor",
+        "plans": [
+          "1+1",
+          "2+1",
+          "3+1",
+          "4+1"
+        ],
+        "price": "1+1: $610,000 – $1,020,000; 2+1: $1,000,000 – $1,550,000; 3+1: $1,410,000 – $2,115,000; 4+1: $2,570,000; Офисы: $845,000 – $3,090,000",
+        "payment": {
+          "initial_payment": "50%",
+          "installment": "24 месяца"
         },
         "advantages": [
           "QQS 1%",
           "TAPU 2%",
-          "TEM yaqinida",
-          "24/7 xavfsizlik"
+          "TEM yo'liga yaqin",
+          "24/7 qo'riqlash"
         ],
         "distances": {},
         "amenities": [
-          "yopiq avtoturargoh",
+          "yer osti avtoturargohi",
           "savdo markazi"
         ],
         "payment_currency": "USD",
@@ -2611,24 +3106,10 @@
         "contact": "",
         "images": [
           "https://drive.google.com/uc?export=view&id=1Tkc2MVSpR4J3NzPh67x8SQznXRBvbBcV",
-          "https://drive.google.com/uc?export=view&id=1z5fYMe4aKqMUvmIPB1fRRXsy-68AGeHF",
-          "https://drive.google.com/uc?export=view&id=1CCa8HqaFTWYWmyqeWLZdZVO4iIfeRPrB",
-          "https://drive.google.com/uc?export=view&id=1ZFX5z946NLgzqsle-EbUfWwRbcLG8keN",
-          "https://drive.google.com/uc?export=view&id=1p6GxgPG67Yoa-Go92yBKP_21ujQ04i6W",
-          "https://drive.google.com/uc?export=view&id=10dY5EvQGCLNYw5sASj2woeaac5jgIGQ2",
-          "https://drive.google.com/uc?export=view&id=1OEO0BeIWm0KRJXkvUJ6WriSfP4ZY4t-p",
-          "https://drive.google.com/uc?export=view&id=1cKvkmPhC8GsgSajtzXXaqU9pbL-5jpce",
-          "https://drive.google.com/uc?export=view&id=1r5nQ5koWyx7gfLpVPuLZKSvXzHug4HnZ",
-          "https://drive.google.com/uc?export=view&id=1yV7NSMq_T4TdlWpB5IWnoE34zS2CWjF8",
-          "https://drive.google.com/uc?export=view&id=12C8wZ7RrOxCmKeAQHJ86zEcKg8uw-MIW",
-          "https://drive.google.com/uc?export=view&id=1MBlb1WyL86MuaDyIyMT8QF-KlhV2KWP-",
-          "https://drive.google.com/uc?export=view&id=1Zae35MuZnAEn3OVxVnUrjeBMhYGqa2UG",
-          "https://drive.google.com/uc?export=view&id=13_hFWonAl1YhveGSbjw6QS5EHo5SyZ6B"
+          "https://drive.google.com/uc?export=view&id=1z5fYMe4aKqMUvmIPB1fRRXsy-68AGeHF"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1NG-PVxiGQJKLMMjysOyEk8IAhLltNzN1/preview",
-          "https://drive.google.com/file/d/1UeTgmYyUPAqwaZ7iekB807Cs_EZpRHGT/preview",
-          "https://drive.google.com/file/d/1Ch409zuWjiH--ytLBJJw0ll6lJCaeUi3/preview"
+          "https://drive.google.com/file/d/1NG-PVxiGQJKLMMjysOyEk8IAhLltNzN1/preview"
         ]
       }
     }
@@ -2637,68 +3118,90 @@
     "id": 27,
     "region": "europe",
     "language_versions": {
-      "uz": {
-        "district": "Levent",
-        "region": "Istanbul",
-        "description": "Yeni Levent — DAP Yapı va Emlak Konut tomonidan ishlab chiqilgan “shahar qishlog‘i” loyihasi. Bog‘lar, terrasalar va yashil infratuzilma bilan 1000 dan ortiq turar joy birliklari.",
-        "status": "Topshirish — 2025",
+      "ru": {
+        "district": "Левент",
+        "region": "Стамбул",
+        "description": "Yeni Levent — проект «городской деревни» от DAP Yapı и Emlak Konut. Более 1000 единиц с садами, террасами и зелёной инфраструктурой.",
+        "status": "Сдача — 2025",
         "plans": [
           "1+1",
           "2+1",
           "3+1",
           "4+1",
-          "2+1 dupleks",
-          "3+1 dupleks",
-          "4+1 dupleks"
+          "2+1 дуплекс",
+          "3+1 дуплекс",
+          "4+1 дуплекс"
         ],
-        "price": "1+1: $665,000 – $1,069,000; 2+1: $1,062,000 – $2,212,000; 3+1: $1,542,000 – $3,479,000; 4+1: $1,895,000 – $3,228,000; 2+1 dupleks: $1,322,000 – $1,958,000; 3+1 dupleks: $2,140,000 – $3,209,000; 4+1 dupleks: $3,491,000",
+        "price": "1+1: $665,000 – $1,069,000; 2+1: $1,062,000 – $2,212,000; 3+1: $1,542,000 – $3,479,000; 4+1: $1,895,000 – $3,228,000; 2+1 дуплекс: $1,322,000 – $1,958,000; 3+1 дуплекс: $2,140,000 – $3,209,000; 4+1 дуплекс: $3,491,000",
         "payment": {
           "initial_payment": "50%",
-          "installment": "24 oy"
+          "installment": "24 месяца"
         },
         "advantages": [
-          "QQS 1%",
+          "НДС 1%",
           "TAPU 2%",
-          "Ekologik toza",
-          "Past qavatlilik",
-          "Maktablar va do‘konlarga piyoda masofada"
+          "Экологичность",
+          "Низкая этажность",
+          "В шаговой доступности школы и магазины"
         ],
         "distances": {},
         "amenities": [
-          "yashil zonalar",
-          "bog‘lar",
-          "terrasalar"
+          "зелёные зоны",
+          "сады",
+          "террасы"
         ],
         "payment_currency": "USD",
         "suitable_for": [],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=151WW6FPjvx63qfAS42tmXYuKYNvurZ__",
-          "https://drive.google.com/uc?export=view&id=1UEVyvBSYRrlMBO7kDUCXesuiCiqkobJy",
-          "https://drive.google.com/uc?export=view&id=1iuS-1BOdtN5yAloxUrWDW27Rfs4swzbq",
-          "https://drive.google.com/uc?export=view&id=1Fun2R50m4MEmJCaavPImQavFeKjmmILF",
-          "https://drive.google.com/uc?export=view&id=1gDJzigTJZgKPBnL-YRuHiWjr6wQKb20W",
-          "https://drive.google.com/uc?export=view&id=17sBmqWtVZtbt2y0ppBGsqxrSLRMxwSaC",
-          "https://drive.google.com/uc?export=view&id=1AnY8-jAKYNCNh6GEyjPcR7I4r5ztPxBK",
-          "https://drive.google.com/uc?export=view&id=1IfUkPI2bXERVQQ_dVZhy-cWsDCPMvs4O",
-          "https://drive.google.com/uc?export=view&id=1AG173SNYf0_cTghjXdEQVlah6BY9X3aM",
-          "https://drive.google.com/uc?export=view&id=1ja1C-gfLEYkPOEq5S8GEaQhvrbz3RPIK",
-          "https://drive.google.com/uc?export=view&id=1z3kpEP2H_BE6zp4IRlSXp4-jYRqGmYGy",
-          "https://drive.google.com/uc?export=view&id=1q3kizuQJrQUUn6GRWstmcSTIymk91qhp",
-          "https://drive.google.com/uc?export=view&id=1iX_lpfaxytL77QtaLyxOU9romODHGyVr"
+          "https://drive.google.com/uc?export=view&id=151WW6FPjvx63qfAS42tmXYuKYNvurZ__"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1SI61JVX2fUW6jqRxhRwyyxzUZx3yB3ly/preview",
-          "https://drive.google.com/file/d/1qPnAlIYi7TTzxFTRsjXd-sib9Ue6dgNz/preview",
-          "https://drive.google.com/file/d/11hGwgHWjdumT3A-QYUZXHZz778sDyHnj/preview",
-          "https://drive.google.com/file/d/1_yKY5apYdFzPp5s3KXYTe4XSFJY--Una/preview",
-          "https://drive.google.com/file/d/1xkvHsKViZMtySAdTxLaLsDyuVfGs_Wh6/preview",
-          "https://drive.google.com/file/d/1Y3MPoeaRyx_aXbe5mEfkUXKZZBL_6x1U/preview",
-          "https://drive.google.com/file/d/109FZPhYyQupwcWQIDLgoCGjLnfTROdkS/preview",
-          "https://drive.google.com/file/d/1FszbIgrfJtd0se4cUu7Q27VAGz9WdoQ1/preview"
+          "https://drive.google.com/file/d/1SI61JVX2fUW6jqRxhRwyyxzUZx3yB3ly/preview"
+        ]
+      },
+      "uz": {
+        "district": "Levent",
+        "region": "Istanbul",
+        "description": "Yeni Levent — DAP Yapı va Emlak Konut tomonidan amalga oshirilgan 'shahar qishlog‘i' loyihasi. 1000 dan ortiq uy, bog‘lar, teraslar va yashil infratuzilma mavjud.",
+        "status": "Topsiriladi — 2025",
+        "plans": [
+          "1+1",
+          "2+1",
+          "3+1",
+          "4+1",
+          "2+1 дуплекс",
+          "3+1 дуплекс",
+          "4+1 дуплекс"
+        ],
+        "price": "1+1: $665,000 – $1,069,000; 2+1: $1,062,000 – $2,212,000; 3+1: $1,542,000 – $3,479,000; 4+1: $1,895,000 – $3,228,000; 2+1 дуплекс: $1,322,000 – $1,958,000; 3+1 дуплекс: $2,140,000 – $3,209,000; 4+1 дуплекс: $3,491,000",
+        "payment": {
+          "initial_payment": "50%",
+          "installment": "24 месяца"
+        },
+        "advantages": [
+          "QQS 1%",
+          "TAPU 2%",
+          "Ekologik",
+          "Past qavatlilik",
+          "Maktablar va do‘konlar yurish masofasida"
+        ],
+        "distances": {},
+        "amenities": [
+          "yashil hududlar",
+          "bog‘lar",
+          "teraslar"
+        ],
+        "payment_currency": "USD",
+        "suitable_for": [],
+        "contact": "",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=151WW6FPjvx63qfAS42tmXYuKYNvurZ__"
+        ],
+        "videos": [
+          "https://drive.google.com/file/d/1SI61JVX2fUW6jqRxhRwyyxzUZx3yB3ly/preview"
         ]
       }
     }
   }
-
 ]
