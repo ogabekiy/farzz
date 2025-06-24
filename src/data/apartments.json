@@ -3203,5 +3203,953 @@
         ]
       }
     }
+  },
+  {
+  "id": 2016,
+  "region": "asia",
+  "language_versions": {
+    "ru": {
+      "district": "Bostancı, 2016",
+      "region": "Стамбул",
+      "description": "Проект комфорт+ класса с семейной концепцией: 114 квартир в двух блоках с широкой инфраструктурой.",
+      "status": "Готов к заселению",
+      "plans": ["2+1", "3+1", "4+1", "5+1 дуплекс"],
+      "price": "Индивидуально обсуждаются (зависит от этажа и вида)",
+      "payment": {
+        "initial_payment": "Обсуждается",
+        "installment": "Возможна рассрочка"
+      },
+      "advantages": [
+        "Французские балконы",
+        "Техника в комплекте",
+        "Шумо- и теплоизоляция"
+      ],
+      "distances": {},
+      "amenities": [
+        "бассейн",
+        "сауна",
+        "фитнес",
+        "детская площадка",
+        "баскетбольная площадка"
+      ],
+      "payment_currency": "USD",
+      "suitable_for": [],
+      "contact": "",
+      "images": [
+    "https://drive.google.com/uc?id=1FhVtKF9eu1iGrzn3x2zv5I6g4c2U_-Tb",
+    "https://drive.google.com/uc?id=1Fh4bV7aEeYA_nY-wHymQXjwv4sWEjm0O",
+    "https://drive.google.com/uc?id=1Fgmev7mIKFnVkDCDtFqFpdXELzvRKWBl",
+    "https://drive.google.com/uc?id=1FMgQDQKbR4d9KanQJvUsLLMOECajXapP",
+    "https://drive.google.com/uc?id=1FLWf7o_OyalY2p_ZnxumTgjBRIW70fMq"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/19WCH1xDTQtZ-D_CAYyz03z7Up0nb6_GQ/preview"
+  ]
+    },
+    "uz": {
+      "district": "Bostancı",
+      "region": "Istanbul",
+      "description": "Oilaviy yashash uchun mo‘ljallangan Comfort+ sinfidagi loyiha. 2 ta blok, jami 114 ta xonadon va keng infratuzilma.",
+      "status": "Tayyor",
+      "plans": ["2+1", "3+1", "4+1", "5+1 dupleks"],
+      "price": "Narxlar qavat va manzaraga qarab alohida kelishiladi",
+      "payment": {
+        "initial_payment": "Kelishiladi",
+        "installment": "Bo‘lib to‘lash mavjud"
+      },
+      "advantages": [
+        "Fransuz balkonlari",
+        "Texnika bilan to‘liq",
+        "Issiqlik va shovqinga qarshi izolyatsiya"
+      ],
+      "distances": {},
+      "amenities": [
+        "basseyn",
+        "sauna",
+        "fitnes zali",
+        "bolalar maydonchasi",
+        "basketbol maydonchasi"
+      ],
+      "payment_currency": "USD",
+      "suitable_for": [],
+      "contact": "",
+      "images": [
+    "https://drive.google.com/uc?id=1FhVtKF9eu1iGrzn3x2zv5I6g4c2U_-Tb",
+    "https://drive.google.com/uc?id=1Fh4bV7aEeYA_nY-wHymQXjwv4sWEjm0O",
+    "https://drive.google.com/uc?id=1Fgmev7mIKFnVkDCDtFqFpdXELzvRKWBl",
+    "https://drive.google.com/uc?id=1FMgQDQKbR4d9KanQJvUsLLMOECajXapP",
+    "https://drive.google.com/uc?id=1FLWf7o_OyalY2p_ZnxumTgjBRIW70fMq"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/19WCH1xDTQtZ-D_CAYyz03z7Up0nb6_GQ/preview"
+  ]
+    }
   }
+},
+{
+  "id": 2020,
+  "region": "asia",
+  "language_versions": {
+    "ru": {
+      "district": "Ümraniye, 2020",
+      "region": "Стамбул",
+      "description": "Tor Finance City — премиум проект в составе Istanbul Finance Center, с прямым доступом к метро и инфраструктуре.",
+      "status": "Сдача: IV квартал 2026 года",
+      "plans": ["1+1", "2+1"],
+      "price": "1+1: от $313,241; 2+1: от $394,382",
+      "payment": {
+        "initial_payment": "30%",
+        "installment": "18–24 месяца"
+      },
+      "advantages": [
+        "20% скидка при полной оплате",
+        "НДС 1%",
+        "TAPU 2%"
+      ],
+      "distances": {},
+      "amenities": [
+        "бассейн",
+        "хаммам",
+        "спортзал",
+        "видеонаблюдение",
+        "222 машиноместа"
+      ],
+      "payment_currency": "USD",
+      "suitable_for": [],
+      "contact": "",
+      "images": [
+    "https://drive.google.com/uc?id=1hRmQ56CL5WAMDSL_pZpwbXH1-Y4uTu0Y",
+    "https://drive.google.com/uc?id=1WJOT43ap5JjC03qM39ctldvVj8W544sz",
+    "https://drive.google.com/uc?id=1ag__-rYKSd8oKuAlL8FwreocHelvCz6T",
+    "https://drive.google.com/uc?id=1GmSw2l9Rj3YEHOQoHClPraCS6aM6d7GT",
+    "https://drive.google.com/uc?id=1ONTxZ3J4bN4lQA5tBeAGSz-JgD7W_uA8"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/11gNZELp5W59qpKEvFQSM3t_FL9XdErqn/preview",
+    "https://drive.google.com/file/d/11ySjIRzcg-8z6B_TURGPGAOUG5jNVu9U/preview"
+  ]
+    },
+    "uz": {
+      "district": "Ümraniye",
+      "region": "Istanbul",
+      "description": "Tor Finance City — Istanbul Finance Center hududida joylashgan premium darajadagi turar joy majmuasi, metro va boshqa infratuzilmaga to‘g‘ridan-to‘g‘ri chiqish bilan.",
+      "status": "Topshirilish: 2026 yil 4-chorak",
+      "plans": ["1+1", "2+1"],
+      "price": "1+1: $313,241 dan; 2+1: $394,382 dan",
+      "payment": {
+        "initial_payment": "30%",
+        "installment": "18–24 oy"
+      },
+      "advantages": [
+        "To‘liq to‘lovda 20% chegirma",
+        "QQS 1%",
+        "TAPU 2%"
+      ],
+      "distances": {},
+      "amenities": [
+        "basseyn",
+        "xammom",
+        "fitnes zali",
+        "videokuzatuv",
+        "222 ta avtoturargoh joyi"
+      ],
+      "payment_currency": "USD",
+      "suitable_for": [],
+      "contact": "",
+      "images": [
+    "https://drive.google.com/uc?id=1hRmQ56CL5WAMDSL_pZpwbXH1-Y4uTu0Y",
+    "https://drive.google.com/uc?id=1WJOT43ap5JjC03qM39ctldvVj8W544sz",
+    "https://drive.google.com/uc?id=1ag__-rYKSd8oKuAlL8FwreocHelvCz6T",
+    "https://drive.google.com/uc?id=1GmSw2l9Rj3YEHOQoHClPraCS6aM6d7GT",
+    "https://drive.google.com/uc?id=1ONTxZ3J4bN4lQA5tBeAGSz-JgD7W_uA8"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/11gNZELp5W59qpKEvFQSM3t_FL9XdErqn/preview",
+    "https://drive.google.com/file/d/11ySjIRzcg-8z6B_TURGPGAOUG5jNVu9U/preview"
+  ]
+    }
+  }
+},
+{
+  "id": 2021,
+  "region": "asia",
+  "language_versions": {
+    "ru": {
+      "district": "Kartal, 2021",
+      "region": "Стамбул",
+      "description": "WE Istanbul — элитный жилой проект с видом на Принцевы острова и удобным доступом к метро, E-5 и TEM.",
+      "status": "Готов к заселению",
+      "plans": ["1+1", "2+1", "3+1", "3.5+1", "4+1", "4.5+1"],
+      "price": "1+1 от $460,000; 2+1 от $660,000; 3+1 от $695,000; 3.5+1 от $786,000; 4+1 от $1,313,000; 4.5+1 от $1,116,000",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "24 месяца"
+      },
+      "advantages": [
+        "Скидка при полной оплате",
+        "Цены без учета НДС и TAPU"
+      ],
+      "distances": {},
+      "amenities": [
+        "бассейн",
+        "сауна",
+        "хаммам",
+        "фитнес",
+        "детская зона",
+        "кафе",
+        "социальные зоны"
+      ],
+      "payment_currency": "USD",
+      "suitable_for": [],
+      "contact": "",
+       "images": [
+    "https://drive.google.com/uc?id=1fooaZLqQuVjoaVYLAdaTmDujzjYymYZK",
+    "https://drive.google.com/uc?id=1r3cs-A7dkInjvP9z_kDaHxlvaLRbzYeI",
+    "https://drive.google.com/uc?id=13sIgw5BYx-kuVCak-bAaZiroMgsqoRQK",
+    "https://drive.google.com/uc?id=1a10mHgygfuOgK8V03Em1ttAG3Hq6GVZ9",
+    "https://drive.google.com/uc?id=1B3gTp-1WWJz3XJ51TChf8uDAxj4p9KSq"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/12MlPidrxtOT7JJwUG_OO-FmDbOG4cWbm/preview",
+    "https://drive.google.com/file/d/1l9zmTRiZi1bdUuwYCbjmSLhm7GQl9nLu/preview"
+  ]
+    },
+    "uz": {
+      "district": "Kartal",
+      "region": "Istanbul",
+      "description": "WE Istanbul — Prinst orollariga qaragan manzara, metro, E-5 va TEM yaqinidagi hashamatli turar joy loyihasi.",
+      "status": "Tayyor",
+      "plans": ["1+1", "2+1", "3+1", "3.5+1", "4+1", "4.5+1"],
+      "price": "1+1 $460,000 dan; 2+1 $660,000 dan; 3+1 $695,000 dan; 3.5+1 $786,000 dan; 4+1 $1,313,000 dan; 4.5+1 $1,116,000 dan",
+      "payment": {
+        "initial_payment": "50%",
+        "installment": "24 oy"
+      },
+      "advantages": [
+        "To‘liq to‘lovda chegirma mavjud",
+        "Narxga QQS va TAPU kiritilmagan"
+      ],
+      "distances": {},
+      "amenities": [
+        "basseyn",
+        "sauna",
+        "xammom",
+        "fitnes zali",
+        "bolalar maydonchasi",
+        "kafe",
+        "ijtimoiy hududlar"
+      ],
+      "payment_currency": "USD",
+      "suitable_for": [],
+      "contact": "",
+       "images": [
+    "https://drive.google.com/uc?id=1fooaZLqQuVjoaVYLAdaTmDujzjYymYZK",
+    "https://drive.google.com/uc?id=1r3cs-A7dkInjvP9z_kDaHxlvaLRbzYeI",
+    "https://drive.google.com/uc?id=13sIgw5BYx-kuVCak-bAaZiroMgsqoRQK",
+    "https://drive.google.com/uc?id=1a10mHgygfuOgK8V03Em1ttAG3Hq6GVZ9",
+    "https://drive.google.com/uc?id=1B3gTp-1WWJz3XJ51TChf8uDAxj4p9KSq"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/12MlPidrxtOT7JJwUG_OO-FmDbOG4cWbm/preview",
+    "https://drive.google.com/file/d/1l9zmTRiZi1bdUuwYCbjmSLhm7GQl9nLu/preview"
+  ]
+    }
+  }
+},
+{
+  "id": 2022,
+  "region": "asia",
+  "language_versions": {
+    "ru": {
+      "district": "Ümraniye, 2022",
+      "region": "Стамбул",
+      "description": "Koru Aura — жилой проект с 70% зелёной территории, 544 квартиры с балконами и террасами рядом с Финансовым Центром.",
+      "status": "Сдача: Декабрь 2025",
+      "plans": ["2+1", "3+1", "3.5+1", "4+1", "4.5+1"],
+      "price": "2+1: $450,000–$1,100,000; 3+1: $625,000–$1,300,000; 3.5+1: $880,000–$2,300,000; 4+1: $780,000–$1,300,000; 4.5+1: $1,300,000–$2,700,000",
+      "payment": {
+        "initial_payment": "35% в TL или 50% в USD",
+        "installment": "До 24 месяцев"
+      },
+      "advantages": [
+        "НДС 1%",
+        "TAPU 2%",
+        "Без необходимости оценки"
+      ],
+      "distances": {
+        "Метро": "200–500 м",
+        "МФЦ": "10 м",
+        "TEM": "4 км",
+        "E5": "7 км",
+        "Чамлыджа": "4 км",
+        "Аэропорт Сабиха": "31 км"
+      },
+      "amenities": [
+        "бассейн",
+        "фитнес",
+        "йога",
+        "ресторан",
+        "магазин",
+        "теннис",
+        "детская зона"
+      ],
+      "payment_currency": "USD",
+      "suitable_for": [],
+      "contact": "",
+      "images": [
+    "https://drive.google.com/uc?id=1ed0a4xJlQztTf4Kl5V-vrfjouBH7XVlp",
+    "https://drive.google.com/uc?id=1UUZKFkpKukZ3IgPFEkTwAfaROnBLEIgb",
+    "https://drive.google.com/uc?id=1ZHza4PvmvVIHUedGrwbPGKJAUPCjvJ5g",
+    "https://drive.google.com/uc?id=1V90UMp926Abqq0c0OO1E8yPUZjMkPcF6",
+    "https://drive.google.com/uc?id=1hSeygqPjRDPMZStD1tpnDSGZebevs_UT"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1N2Tkg3G6FOt08MeZbDccNTVIW0QoY3UY/preview"
+  ]
+    },
+    "uz": {
+      "district": "Ümraniye",
+      "region": "Istanbul",
+      "description": "Koru Aura — Istanbul Moliya Markazi yaqinida joylashgan, 70% yashil hududli premium turar joy majmuasi. 544 ta balkonli va terrasli kvartira.",
+      "status": "Topshirilish: 2025 yil dekabr",
+      "plans": ["2+1", "3+1", "3.5+1", "4+1", "4.5+1"],
+      "price": "2+1: $450,000–$1,100,000; 3+1: $625,000–$1,300,000; 3.5+1: $880,000–$2,300,000; 4+1: $780,000–$1,300,000; 4.5+1: $1,300,000–$2,700,000",
+      "payment": {
+        "initial_payment": "35% (TLda) yoki 50% (USDda)",
+        "installment": "24 oygacha"
+      },
+      "advantages": [
+        "QQS 1%",
+        "TAPU 2%",
+        "Baholovchi hisobot talab qilinmaydi"
+      ],
+      "distances": {
+        "Metro": "200–500 m",
+        "Moliyaviy markaz": "10 m",
+        "TEM": "4 km",
+        "E5": "7 km",
+        "Chamlıca minorasi": "4 km",
+        "Sabiha aeroporti": "31 km"
+      },
+      "amenities": [
+        "basseyn",
+        "fitnes",
+        "yoga",
+        "restoran",
+        "supermarket",
+        "tennis stoli",
+        "bolalar zonasi"
+      ],
+      "payment_currency": "USD",
+      "suitable_for": [],
+      "contact": "",
+     "images": [
+    "https://drive.google.com/uc?id=1ed0a4xJlQztTf4Kl5V-vrfjouBH7XVlp",
+    "https://drive.google.com/uc?id=1UUZKFkpKukZ3IgPFEkTwAfaROnBLEIgb",
+    "https://drive.google.com/uc?id=1ZHza4PvmvVIHUedGrwbPGKJAUPCjvJ5g",
+    "https://drive.google.com/uc?id=1V90UMp926Abqq0c0OO1E8yPUZjMkPcF6",
+    "https://drive.google.com/uc?id=1hSeygqPjRDPMZStD1tpnDSGZebevs_UT"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1N2Tkg3G6FOt08MeZbDccNTVIW0QoY3UY/preview"
+  ]
+    }
+  }
+},
+{
+  "id": 2023,
+  "region": "asia",
+  "language_versions": {
+    "ru": {
+      "district": "Ümraniye, 2023",
+      "region": "Стамбул",
+      "description": "Sinpaş Finans Şehir — город в городе рядом с Финансовым Центром. 2550+ квартир, коммерция, улицы, парки.",
+      "status": "Сдача поэтапная",
+      "plans": [],
+      "price": "Средняя цена: 13,000 TL/м² по данным Forbes (2019)",
+      "payment": {
+        "initial_payment": "Индивидуально",
+        "installment": "Гибкие условия"
+      },
+      "advantages": [
+        "ТОП-3 проекта Forbes",
+        "Автономная экосистема",
+        "Удобный доступ к транспорту"
+      ],
+      "distances": {},
+      "amenities": [
+        "коммерческая улица",
+        "бутики",
+        "рестораны",
+        "кафе",
+        "фитнес клубы",
+        "зелёные зоны"
+      ],
+      "payment_currency": "TL",
+      "suitable_for": [],
+      "contact": "",
+     "images": [
+    "https://drive.google.com/uc?id=1xy2228Ps6SiTN6Ss2fGMo1B5bP2sDEGx",
+    "https://drive.google.com/uc?id=1Cl5eHyV1NkHrnZMWWAS8E8Zs64QmJQPK",
+    "https://drive.google.com/uc?id=1Mj0lbmT5h_DnhGeES54ULHPG0xso6vdD",
+    "https://drive.google.com/uc?id=19Bk9xNseyvbTuL1w-LabTRmjgD1fbZ6B",
+    "https://drive.google.com/uc?id=1xlmHRTSIeQ7hRrd5TgjToJFVvo4mUa66"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1C1zQ85ofObQ-eqvRM3aE-kol2azZhEbc/preview",
+    "https://drive.google.com/file/d/1yT9EqMi4IYzUygPEclQ2yDhBo_Rb9jGX/preview",
+    "https://drive.google.com/file/d/1f8UlMbwdUK0LkBh80FgforbYFIUj93hk/preview"
+  ]
+    },
+    "uz": {
+      "district": "Ümraniye",
+      "region": "Istanbul",
+      "description": "Sinpaş Finans Şehir — Istanbul moliyaviy markazi yaqinidagi 'shahar ichida shahar' loyihasi. 2550+ xonadon, tijorat, park va infratuzilma.",
+      "status": "Bosqichma-bosqich topshiriladi",
+      "plans": [],
+      "price": "O‘rtacha narx: 13,000 TL/m² (Forbes 2019)",
+      "payment": {
+        "initial_payment": "Alohida kelishiladi",
+        "installment": "Moslashuvchan shartlar"
+      },
+      "advantages": [
+        "Forbes reytingida TOP-3",
+        "Mustaqil infratuzilma",
+        "Transportga qulay chiqish"
+      ],
+      "distances": {},
+      "amenities": [
+        "savdo ko‘chasi",
+        "butiklar",
+        "restoranlar",
+        "kafelar",
+        "fitnes markazlari",
+        "yashil hududlar"
+      ],
+      "payment_currency": "TL",
+      "suitable_for": [],
+      "contact": "",
+    "images": [
+    "https://drive.google.com/uc?id=1xy2228Ps6SiTN6Ss2fGMo1B5bP2sDEGx",
+    "https://drive.google.com/uc?id=1Cl5eHyV1NkHrnZMWWAS8E8Zs64QmJQPK",
+    "https://drive.google.com/uc?id=1Mj0lbmT5h_DnhGeES54ULHPG0xso6vdD",
+    "https://drive.google.com/uc?id=19Bk9xNseyvbTuL1w-LabTRmjgD1fbZ6B",
+    "https://drive.google.com/uc?id=1xlmHRTSIeQ7hRrd5TgjToJFVvo4mUa66"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1C1zQ85ofObQ-eqvRM3aE-kol2azZhEbc/preview",
+    "https://drive.google.com/file/d/1yT9EqMi4IYzUygPEclQ2yDhBo_Rb9jGX/preview",
+    "https://drive.google.com/file/d/1f8UlMbwdUK0LkBh80FgforbYFIUj93hk/preview"
+  ]
+    }
+  }
+},
+{
+  "id": 31,
+  "region": "europe",
+  "language_versions": {
+    "ru": {
+      "district": "Sarıyer, 10012",
+      "region": "Вадистанбул, Стамбул",
+      "description": "Жилой комплекс Avrupa Konutları Saklıvadi от компании Artaş Group, расположенный рядом с торговым центром Vadistanbul, сочетает в себе жилые квартиры, апарт-отель и офисные помещения. Проект занимает площадь 24,000 м² и включает 3 жилых блока по 18 этажей, 227 квартир, 2 блока апарт-отеля и отдельный офисный блок.",
+      "status": "Состояние готовности",
+      "plans": [
+        "2+1 — 133–186 м² — $1,203,000 – $2,130,000",
+        "3+1 — 181–200 м² — $1,507,000 – $2,425,000",
+        "3+1 дуплекс — 267 м² — $2,946,000 – $3,171,000"
+      ],
+      "price": "Индивидуально обсуждается",
+      "payment": {
+        "initial_payment": "",
+        "installment": ""
+      },
+      "advantages": [
+        "Престижная локация рядом с Vadistanbul",
+        "Кафе, рестораны, банк и торговая зона прямо в комплексе",
+        "Апарт-отель и офисные блоки для инвестиций",
+        "Богатая социальная инфраструктура: фитнес, бассейн, зоны отдыха",
+        "Прямая близость к метро и остановкам общественного транспорта",
+        "Подходит как для проживания, так и для инвестиций в аренду"
+      ],
+      "distances": [
+        "2 мин до Vadistanbul Mall",
+        "2 мин до университета Истьенйе",
+        "7 мин до Sapphire Mall",
+        "7 мин до Istanbul Teknik Üniversitesi",
+        "8 мин до İstinye Park",
+        "8 мин до Bilgi Üniversitesi",
+        "22 мин до нового аэропорта Стамбула"
+      ],
+      "amenities": [],
+      "payment_currency": "USD",
+      "suitable_for": ["Инвестиции"],
+      "contact": "",
+      "images": [
+    "https://drive.google.com/uc?id=1SEDC4eWpn4PTLD7Ys48b2gwhGlzNhQ-p",
+    "https://drive.google.com/uc?id=1YusIrhR-Jzm-8ogPzqHopYIt5kI77HpJ",
+    "https://drive.google.com/uc?id=1ZkqumJwW1c_s9MDylwLKnMx_NVfmykqd",
+    "https://drive.google.com/uc?id=1-7dJKUSh54lHVP9eQny_Wz697FC6ksJm",
+    "https://drive.google.com/uc?id=1tBGmVwr9DLw1cLaqvRxj3zXKocO5Vb07"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1a0oWB7xi546IZXqddb6pIhS3cPg_BK46/preview",
+    "https://drive.google.com/file/d/1llMuk6KpmD4DA-4l9P8FGc3c020HFwP6/preview"
+  ]
+    },
+    "uz": {
+      "district": "Sarıyer, 10012",
+      "region": "Vadistanbul, Istanbul",
+      "description": "Artaş Group tomonidan qurilgan Avrupa Konutları Saklıvadi turar joy majmuasi, Vadistanbul savdo markazi yonida joylashgan bo‘lib, yashash uylari, apart-otel va ofis binolarini o‘z ichiga oladi. Loyiha maydoni 24,000 m² bo‘lib, 18 qavatli 3 ta turar joy binosi, 227 ta kvartira, 2 ta apart-otel bloki va alohida ofis binosidan iborat.",
+      "status": "Tayyor holatda",
+      "plans": [
+        "2+1 — 133–186 m² — $1,203,000 – $2,130,000",
+        "3+1 — 181–200 m² — $1,507,000 – $2,425,000",
+        "3+1 duplex — 267 m² — $2,946,000 – $3,171,000"
+      ],
+      "price": "Alohida kelishiladi",
+      "payment": {
+        "initial_payment": "",
+        "installment": ""
+      },
+      "advantages": [
+        "Vadistanbul savdo markazi yonidagi nufuzli joylashuv",
+        "Kompaniya ichida kafe, restoran, bank va savdo zonasi",
+        "Investitsiya uchun apart-otel va ofis bloklari",
+        "Boy ijtimoiy infratuzilma: fitnes, basseyn, dam olish zonalari",
+        "Metro va jamoat transporti bekatlariga yaqinlik",
+        "Yashash va ijaraga berish uchun mos"
+      ],
+      "distances": [
+        "Vadistanbul Mall — 2 daqiqa",
+        "İstinye universiteti — 2 daqiqa",
+        "Sapphire Mall — 7 daqiqa",
+        "Istanbul Texnika Universiteti — 7 daqiqa",
+        "İstinye Park — 8 daqiqa",
+        "Bilgi Universiteti — 8 daqiqa",
+        "Yangi Istanbul aeroporti — 22 daqiqa"
+      ],
+      "amenities": [],
+      "payment_currency": "USD",
+      "suitable_for": ["Investitsiya"],
+      "contact": "",
+      "images": [
+    "https://drive.google.com/uc?id=1SEDC4eWpn4PTLD7Ys48b2gwhGlzNhQ-p",
+    "https://drive.google.com/uc?id=1YusIrhR-Jzm-8ogPzqHopYIt5kI77HpJ",
+    "https://drive.google.com/uc?id=1ZkqumJwW1c_s9MDylwLKnMx_NVfmykqd",
+    "https://drive.google.com/uc?id=1-7dJKUSh54lHVP9eQny_Wz697FC6ksJm",
+    "https://drive.google.com/uc?id=1tBGmVwr9DLw1cLaqvRxj3zXKocO5Vb07"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1a0oWB7xi546IZXqddb6pIhS3cPg_BK46/preview",
+    "https://drive.google.com/file/d/1llMuk6KpmD4DA-4l9P8FGc3c020HFwP6/preview"
+  ]
+    }
+  }
+},
+{
+    "id": 32,
+    "region": "europe",
+    "language_versions": {
+      "ru": {
+        "district": "Kağıthane, 10023",
+        "region": "Стамбул",
+        "description": "Avrupa Konutları Çamlıvadi — жилой комплекс от Artaş Group, расположенный в одном из самых зелёных и престижных районов Стамбула. Это проект, объединивший комфорт, природу и близость к городской инфраструктуре. В составе — 19 жилых блоков и 919 квартир с планировками от 1+1 до 5+1.",
+        "status": "Уточняется по запросу",
+        "plans": [
+          "2+1 — 133 м² — $1,070,000 – $1,400,000",
+          "3+1 — 172–190 м² — $1,100,000 – $2,000,000",
+          "4+1 — 207–214 м² — $1,400,000 – $2,300,000",
+          "5+1 — 238 м² — $1,600,000 – $2,400,000"
+        ],
+        "price": "Уточняется индивидуально",
+        "payment": {
+          "initial_payment": "",
+          "installment": ""
+        },
+        "advantages": [
+          "Рядом лесной массив",
+          "Высокие потолки",
+          "Бассейны, фитнес, прогулочные дорожки",
+          "Рядом Vadistanbul и Havaray"
+        ],
+        "distances": [],
+        "amenities": [],
+        "payment_currency": "USD",
+        "suitable_for": ["Гражданство", "Инвестиции"],
+        "contact": "",
+        "images": [
+    "https://drive.google.com/uc?id=1EUFJft1_V0W_uriEVqA-IBXo9rscp8dR",
+    "https://drive.google.com/uc?id=1xNPb2Xa7cS0r2ybXP9BhGidXXJ7r2FOp",
+    "https://drive.google.com/uc?id=1JPxULD1FC09mzkg4SdGUY80G_Tk_ZMiP",
+    "https://drive.google.com/uc?id=1OomV8CfGF6BIrwaS5MmFmyw0wXg1eK9Q",
+    "https://drive.google.com/uc?id=1RgO8I0BLvGAFC16xCmnjb33ZcvMnaTTO"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/11dy8RNMmuY5WM8MnCRpUxZUkbSPYB52o/preview",
+    "https://drive.google.com/file/d/1gJGj2l-gP6BQdSlsyYc4bUsnuNV-JGJw/preview",
+    "https://drive.google.com/file/d/10lQsZrk9brXCaG1rzp_nm5it6Si3LFEb/preview"
+  ]
+      },
+      "uz": {
+        "district": "Kağıthane, 10023",
+        "region": "Istanbul",
+        "description": "Avrupa Konutları Çamlıvadi — Artaş Group tomonidan qurilgan yashash majmuasi boʻlib, Istanbulning eng yashil va nufuzli hududlaridan birida joylashgan. Loyiha qulaylik, tabiat va shahar infratuzilmasining yaqinligini birlashtiradi. 19 ta turar-joy binosi va 919 ta kvartiradan iborat.",
+        "status": "So‘rov asosida aniqlashtiriladi",
+        "plans": [
+          "2+1 — 133 m² — $1,070,000 – $1,400,000",
+          "3+1 — 172–190 m² — $1,100,000 – $2,000,000",
+          "4+1 — 207–214 m² — $1,400,000 – $2,300,000",
+          "5+1 — 238 m² — $1,600,000 – $2,400,000"
+        ],
+        "price": "Individual kelishiladi",
+        "payment": {
+          "initial_payment": "",
+          "installment": ""
+        },
+        "advantages": [
+          "O‘rmon yaqinida joylashgan",
+          "Baland shiftlar",
+          "Hovuzlar, fitnes, sayr yo‘lakchalari",
+          "Vadistanbul va Havaray yaqin"
+        ],
+        "distances": [],
+        "amenities": [],
+        "payment_currency": "USD",
+        "suitable_for": ["Fuqarolik", "Investitsiya"],
+        "contact": "",
+         "images": [
+    "https://drive.google.com/uc?id=1EUFJft1_V0W_uriEVqA-IBXo9rscp8dR",
+    "https://drive.google.com/uc?id=1xNPb2Xa7cS0r2ybXP9BhGidXXJ7r2FOp",
+    "https://drive.google.com/uc?id=1JPxULD1FC09mzkg4SdGUY80G_Tk_ZMiP",
+    "https://drive.google.com/uc?id=1OomV8CfGF6BIrwaS5MmFmyw0wXg1eK9Q",
+    "https://drive.google.com/uc?id=1RgO8I0BLvGAFC16xCmnjb33ZcvMnaTTO"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/11dy8RNMmuY5WM8MnCRpUxZUkbSPYB52o/preview",
+    "https://drive.google.com/file/d/1gJGj2l-gP6BQdSlsyYc4bUsnuNV-JGJw/preview",
+    "https://drive.google.com/file/d/10lQsZrk9brXCaG1rzp_nm5it6Si3LFEb/preview"
+  ]
+      }
+    }
+  },
+  
+  {
+    "id": 34,
+    "region": "europe",
+    "language_versions": {
+      "ru": {
+        "district": "Kağıthane, 10025",
+        "region": "Хамидие, Кагытхане, Стамбул",
+        "description": "Orman Istanbul — жилой комплекс премиум-класса, объединяющий городскую инфраструктуру с уединением природы. Проект реализуется в 3 этапа на территории 20 000 м², из которых 75 % отведено под зелёные зоны. Первый этап включает 2 блока и 110 квартир.",
+        "status": "Готов к заселению",
+        "plans": [
+          "2+1 — 143 м² — от $590,000",
+          "3+1 — 199 м² — от $825,000",
+          "4+1 Loft — 270–360 м² — от $1,300,000"
+        ],
+        "price": "Цены указаны в долларах США",
+        "payment": {
+          "initial_payment": "",
+          "installment": ""
+        },
+        "advantages": [
+          "Просторные квартиры с лесным видом",
+          "Социальная инфраструктура: баня, бассейн, джакузи, сауна, фитнес",
+          "Прогулочные дорожки и декоративные бассейны",
+          "Личная кладовая, парковка на каждую комнату",
+          "Качественные строительные материалы и фундамент"
+        ],
+        "distances": [
+          "5 мин до Maslak",
+          "10 мин до леса Белград и моста Фатиха Султана Мехмета",
+          "20 мин до аэропорта Стамбула",
+          "Рядом метро (M11, M2), метробус, трамвай",
+          "5 мин до Vadistanbul и İstinyePark",
+          "Рядом: LIV, Acibadem, Memorial, Kızılay, Kolon"
+        ],
+        "amenities": [],
+        "payment_currency": "USD",
+        "suitable_for": ["Гражданство", "Инвестиции"],
+        "contact": "",
+       "images": [
+    "https://drive.google.com/uc?id=1YZW5TGNGLbE3V1kAnVyUDRa2sQ8CvwAR",
+    "https://drive.google.com/uc?id=1l2r05nQ-uG5e1cgmOzd0Cs-L2gGDyvRY",
+    "https://drive.google.com/uc?id=1YROCZiXOfV76oE7Cj1852VpwgI8eW9AC",
+    "https://drive.google.com/uc?id=1OLa5XlltJykMej2nqXqpd4ava-CQ7tZ8",
+    "https://drive.google.com/uc?id=1A39cNLR8bEcun2X8jRoh7u2pFNdAJrKn"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1V67D5vYFilbx046GTG3HW2J_nCD2R4Gm/preview",
+    "https://drive.google.com/file/d/1u6nwpP7JaxTNfmlaKr_-LbM-pPV79d-G/preview"
+  ]
+      },
+      "uz": {
+        "district": "Kağıthane, 10025",
+        "region": "Hamidiye, Kağıthane, Istanbul",
+        "description": "Orman Istanbul — shaharlik infratuzilma bilan tabiat uyg‘unligini birlashtirgan premium majmua. 20 000 m² maydonda 3 bosqichda qurilmoqda, 75 % yashil zonaga ajratilgan. 1‑bosqichda 2 blok va 110 kvartira.",
+        "status": "Yashashga tayyor",
+        "plans": [
+          "2+1 — 143 m² — dan $590,000",
+          "3+1 — 199 m² — dan $825,000",
+          "4+1 Loft — 270–360 m² — dan $1,300,000"
+        ],
+        "price": "Narxlar AQSh dollarida ko‘rsatilgan",
+        "payment": {
+          "initial_payment": "",
+          "installment": ""
+        },
+        "advantages": [
+          "O‘rmon manzarali keng xonadonlar",
+          "Ijtimoiy infratuzilma: hammom, basseyn, jacuzzi, sauna, fitnes",
+          "Sayr yo‘laklari va bezatilgan hovuzlar",
+          "Shaxsiy saqlash joyi, har xona uchun parking",
+          "Sifatli qurilish materiallari va poydevor"
+        ],
+        "distances": [
+          "Maslak — 5 daqiqa",
+          "Belgrad o‘rmoni va Fatih Sultan Mehmet ko‘prigi — 10 daqiqa",
+          "Istanbul aeroporti — 20 daqiqa",
+          "Metro (M11, M2), metrobüs, tramvay yaqin",
+          "Vadistanbul va İstinyePark — 5 daqiqa",
+          "Yaqin atrofda: LIV, Acibadem, Memorial, Kızılay, Kolon"
+        ],
+        "amenities": [],
+        "payment_currency": "USD",
+        "suitable_for": ["Fuqarolik", "Investitsiya"],
+        "contact": "",
+       "images": [
+    "https://drive.google.com/uc?id=1YZW5TGNGLbE3V1kAnVyUDRa2sQ8CvwAR",
+    "https://drive.google.com/uc?id=1l2r05nQ-uG5e1cgmOzd0Cs-L2gGDyvRY",
+    "https://drive.google.com/uc?id=1YROCZiXOfV76oE7Cj1852VpwgI8eW9AC",
+    "https://drive.google.com/uc?id=1OLa5XlltJykMej2nqXqpd4ava-CQ7tZ8",
+    "https://drive.google.com/uc?id=1A39cNLR8bEcun2X8jRoh7u2pFNdAJrKn"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1V67D5vYFilbx046GTG3HW2J_nCD2R4Gm/preview",
+    "https://drive.google.com/file/d/1u6nwpP7JaxTNfmlaKr_-LbM-pPV79d-G/preview"
+  ]
+      }
+    }
+  },
+  {
+    "id": 35,
+    "region": "europe",
+    "language_versions": {
+      "ru": {
+        "district": "Kağıthane, 10026",
+        "region": "Кагытхане, Стамбул",
+        "description": "Genyap Loft — бутик-комплекс на 87 квартир, расположенный в центральной части Стамбула, в районе Кагытхане. Уникальная архитектура, вид на Белградский лес, фитнес-зал, детская площадка, складские помещения и круглосуточная охрана.",
+        "status": "Готов к заселению",
+        "plans": [
+          "1+1 — 60 м² — $322,000 – $377,000",
+          "2+1 — 126 м² — $609,000 – $784,000"
+        ],
+        "price": "Цены указаны в долларах США",
+        "payment": {
+          "initial_payment": "50% первоначальный взнос",
+          "installment": "Рассрочка 12 месяцев"
+        },
+        "advantages": [
+          "Панорамные виды на лес и город",
+          "Личный склад 1.9–4.2 м²",
+          "Закрытая парковка и охрана 24/7",
+          "Готовность TAPU",
+          "Подходит для гражданства"
+        ],
+        "distances": [
+          "Метро M11 — 15 мин пешком",
+          "Метробус — 15 мин на машине",
+          "Автобусная остановка — 1 минута",
+          "Вади Истанбул — 5 мин",
+          "Axis Mall — 7 мин",
+          "Парк Özdilek — 10 мин",
+          "Trump Towers — 13 мин",
+          "Univ. Kent — 4 мин",
+          "Univ. Atlas — 15 мин",
+          "20–30 мин до аэропортов и мостов"
+        ],
+        "amenities": [],
+        "payment_currency": "USD",
+        "suitable_for": ["Инвестиции", "Гражданство"],
+        "contact": "",
+        "images": [
+    "https://drive.google.com/uc?id=1aj_7p-Z5-54Xw1oIK2745zjGF-FNF0V2",
+    "https://drive.google.com/uc?id=1BAEnAMSRCwzGe2kjTfjw8CkKL4ZUDC6O",
+    "https://drive.google.com/uc?id=19ksh0L8D-wV_DUSHZlNAzLYVLj7_Sd7Q",
+    "https://drive.google.com/uc?id=1ywvZAMQvfs2oYgiaLmJbeBJONkyGeHf4",
+    "https://drive.google.com/uc?id=1359PYC9v03gdhgA_0uh7c-J4nitb3dH-"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1ciQY28umvSHvB-nxEoSTwpmHRwQUhTAq/preview",
+    "https://drive.google.com/file/d/10BedmC6AQoGURH4fMsk4Hli2W9JkHo_D/preview"
+  ]
+      },
+      "uz": {
+        "district": "Kağıthane, 10026",
+        "region": "Kağıthane, Istanbul",
+        "description": "Genyap Loft — 87 kvartirali butik-kompleks, Kağıthane markazida joylashgan. Mahjongar arxitekturasi, Belgrad o‘rmoni panoramasi, fitnes, bolalar maydonchasi, saqlash xonasi va 24/7 himoya mavjud.",
+        "status": "Yashashga tayyor",
+        "plans": [
+          "1+1 — 60 m² — $322,000 – $377,000",
+          "2+1 — 126 m² — $609,000 – $784,000"
+        ],
+        "price": "Narxlar AQSh dollarida",
+        "payment": {
+          "initial_payment": "50% dastlabki to‘lov",
+          "installment": "12 oylik to‘lov"
+        },
+        "advantages": [
+          "O‘rmon va shahar panoramali ko‘rinish",
+          "Shaxsiy omborxona 1.9–4.2 m²",
+          "Yopiq parking va 24/7 xavfsizlik",
+          "TAPU tayyor",
+          "Fuqarolik olishga mos"
+        ],
+        "distances": [
+          "Metro M11 — 15 daqiqa piyoda",
+          "Metrobüs — 15 daqiqa mashinada",
+          "Avtobus bekati — 1 daqiqa",
+          "Vadi Istanbul — 5 daqiqa",
+          "Axis Mall — 7 daqiqa",
+          "Özdilek bogʻi — 10 daqiqa",
+          "Trump Towers — 13 daqiqa",
+          "Kent Universiteti — 4 daqiqa",
+          "Atlas Universiteti — 15 daqiqa",
+          "20–30 daqiqa aeroportlar va ko‘priklarga"
+        ],
+        "amenities": [],
+        "payment_currency": "USD",
+        "suitable_for": ["Investitsiya", "Fuqarolik"],
+        "contact": "",
+        "images": [
+    "https://drive.google.com/uc?id=1aj_7p-Z5-54Xw1oIK2745zjGF-FNF0V2",
+    "https://drive.google.com/uc?id=1BAEnAMSRCwzGe2kjTfjw8CkKL4ZUDC6O",
+    "https://drive.google.com/uc?id=19ksh0L8D-wV_DUSHZlNAzLYVLj7_Sd7Q",
+    "https://drive.google.com/uc?id=1ywvZAMQvfs2oYgiaLmJbeBJONkyGeHf4",
+    "https://drive.google.com/uc?id=1359PYC9v03gdhgA_0uh7c-J4nitb3dH-"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1ciQY28umvSHvB-nxEoSTwpmHRwQUhTAq/preview",
+    "https://drive.google.com/file/d/10BedmC6AQoGURH4fMsk4Hli2W9JkHo_D/preview"
+  ]
+      }
+    }
+  },
+  {
+  "id": 36,
+  "region": "europe",
+  "language_versions": {
+    "ru": {
+      "district": "Kağıthane, 10031",
+      "region": "Кагытхане, Стамбул",
+      "description": "Dora Vadi — жилой комплекс комфорт-класса, расположенный в зелёной части Кагытхане, всего в 4 минутах от Вади Истанбул. Проект предлагает 176 квартир и 12 коммерческих помещений, построенных на площади 4 400 м². Квартиры имеют панорамный вид на лес, а проект ориентирован на спокойную и безопасную жизнь в центре мегаполиса.",
+      "status": "Готов к заселению",
+      "plans": [
+        "1+1 — 74.29–77.40 м² — $279,194 – $290,886",
+        "2+1 — 96.77–144.16 m² — $334,844 – $612,444",
+        "3+1 — 144.22–288.94 m² — $589,150 – $1,298,342"
+      ],
+      "price": "Указаны в долларах США",
+      "payment": {
+        "initial_payment": "50% первоначальный взнос",
+        "installment": "24 месяца, скидка 5%",
+        "full_payment_discount": "Скидка 10% при полной оплате"
+      },
+      "advantages": [
+        "2 жилых блока по 10 этажей",
+        "176 квартир с панорамным видом на лес",
+        "Просторная зелёная зона — 3 000 м²",
+        "Закрытый бассейн, фитнес, сауна, хаммам",
+        "Детская площадка, крытая парковка",
+        "Круглосуточная охрана",
+        "Без расходов на ТАПУ"
+      ],
+      "distances": [
+        "8 км до Таксима",
+        "25 км до аэропорта Стамбула",
+        "4 мин до Вади Истанбул",
+        "1 км до шоссе TEM (E-80)",
+        "500 м до автобусной остановки",
+        "2.2 км до станции метро Kağıthane"
+      ],
+      "amenities": [
+        "Фитнес-центр",
+        "Сауна",
+        "Турецкий хаммам",
+        "Закрытый бассейн",
+        "Крытая парковка",
+        "Охрана 24/7"
+      ],
+      "suitable_for": ["Инвестиции", "Проживание"],
+      "payment_currency": "USD",
+      "contact": "",
+ "images": [
+    "https://drive.google.com/uc?id=1ub0SD0PegFQ2xeUdhw1iWTbdnDiLdtbH",
+    "https://drive.google.com/uc?id=1kxdgaIPXmwDWpOZyn8tyDqpEdjJlP_CL",
+    "https://drive.google.com/uc?id=1NkZ8VS9JGi_5WYIBEVM23eOarj04VQ3Q",
+    "https://drive.google.com/uc?id=1qAMwYdPfLrqWiwj5twEp3A-OXCm0Uwum",
+    "https://drive.google.com/uc?id=1hkDyZ-El5fBtbFSfG56VSxCDY_2O8zbI"
+  ],      "videos": []
+    },
+    "uz": {
+      "district": "Kağıthane, 10031",
+      "region": "Kağıthane, Istanbul",
+      "description": "Dora Vadi — Kağıthane yashil hududida joylashgan komfort toifadagi turar joy majmuasi bo‘lib, Vadi Istanbulga atigi 4 daqiqa masofada joylashgan. 4 400 m² maydonda qurilgan bu loyiha 176 ta xonadon va 12 ta tijorat maydonini o‘z ichiga oladi. Kvartiralar o‘rmon manzarasiga ega va xavfsiz, osoyishta hayot uchun mo‘ljallangan.",
+      "status": "Yashashga tayyor",
+      "plans": [
+        "1+1 — 74.29–77.40 m² — $279,194 – $290,886",
+        "2+1 — 96.77–144.16 m² — $334,844 – $612,444",
+        "3+1 — 144.22–288.94 m² — $589,150 – $1,298,342"
+      ],
+      "price": "AQSh dollarida ko‘rsatilgan",
+      "payment": {
+        "initial_payment": "50% dastlabki to‘lov",
+        "installment": "24 oylik to‘lov, 5% chegirma",
+        "full_payment_discount": "To‘liq to‘lovda 10% chegirma"
+      },
+      "advantages": [
+        "2 ta 10 qavatli turar joy binosi",
+        "O‘rmon manzarali 176 ta kvartira",
+        "3 000 m² yashil hudud",
+        "Yopiq basseyn, fitnes, sauna, hammom",
+        "Bolalar maydonchasi, yopiq avtoturargoh",
+        "24/7 xavfsizlik",
+        "TAPU xarajatsiz"
+      ],
+      "distances": [
+        "Taksim — 8 km",
+        "Istanbul aeroporti — 25 km",
+        "Vadi Istanbul — 4 daqiqa",
+        "TEM (E-80) avtomagistrali — 1 km",
+        "Avtobus bekati — 500 m",
+        "Kağıthane metro stansiyasi — 2.2 km"
+      ],
+      "amenities": [
+        "Fitnes zali",
+        "Sauna",
+        "Turk hammomi",
+        "Yopiq basseyn",
+        "Yopiq avtoturargoh",
+        "24/7 xavfsizlik"
+      ],
+      "suitable_for": ["Investitsiya", "Yashash"],
+      "payment_currency": "USD",
+      "contact": "",
+ "images": [
+    "https://drive.google.com/uc?id=1ub0SD0PegFQ2xeUdhw1iWTbdnDiLdtbH",
+    "https://drive.google.com/uc?id=1kxdgaIPXmwDWpOZyn8tyDqpEdjJlP_CL",
+    "https://drive.google.com/uc?id=1NkZ8VS9JGi_5WYIBEVM23eOarj04VQ3Q",
+    "https://drive.google.com/uc?id=1qAMwYdPfLrqWiwj5twEp3A-OXCm0Uwum",
+    "https://drive.google.com/uc?id=1hkDyZ-El5fBtbFSfG56VSxCDY_2O8zbI"
+  ],      "videos": []
+    }
+  }
+}
+
+
+
+
+
+
+
 ]
