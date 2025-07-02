@@ -6,6 +6,7 @@ import { Phone } from "lucide-react";
 import { sendMessageToAdmin } from "@/services/bot";
 import { toast, ToastContainer } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
+import { fbq } from "@/lib/fbpixel"; 
 
 export default function CallbackModal({ isOpen, onClose, limitedCountries = false }) {
   const t = useTranslations("CallBack");
@@ -15,7 +16,6 @@ export default function CallbackModal({ isOpen, onClose, limitedCountries = fals
   const [message, setMessage] = useState("");
   const [countryCode, setCountryCode] = useState("+998");
 
-  // ✅ Faqat ruxsat berilgan davlatlar
   const allowedDialCodes = ["998", "992", "996", "994", "7", "98", "964"];
   const filteredCountries = limitedCountries
     ? countryData.allCountries.filter((c) => allowedDialCodes.includes(c.dialCode))
@@ -23,10 +23,13 @@ export default function CallbackModal({ isOpen, onClose, limitedCountries = fals
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+
     if (!name.trim() || !message.trim() || !phone.trim()) {
       toast.error(t("error"));
       return;
     }
+
+    fbq("track", "Lead");
 
     try {
       await sendMessageToAdmin(name, `${countryCode} ${phone}`, message);

@@ -30,7 +30,6 @@ export default function Navbar() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  // 🔵 Modal ochish uchun query'larni tekshirish
   useEffect(() => {
     const callbackParam = searchParams.get("callback");
     const specialCallbackParam = searchParams.get("callbackSpecial");
@@ -97,12 +96,12 @@ export default function Navbar() {
             >
               {t("callback")}
             </Link>
-            <Link
+            {/* <Link
               href={`/${localeNav}?callbackSpecial=true`}
               className="bg-green-600 text-white px-4 py-1.5 rounded-md hover:bg-green-700 text-sm"
             >
               {t("callback")} Special
-            </Link>
+            </Link> */}
           </div>
         </div>
       )}
