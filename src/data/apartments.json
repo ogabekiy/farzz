@@ -4144,12 +4144,531 @@
   ],      "videos": []
     }
   }
-}
+},
+ {
+    "id": 37,
+    "region": "asia",
+    "language_versions": {
+      "ru": {
+        "district": "Ataşehir, 2027",
+        "region": "Аташехир, Стамбул",
+        "description": "Alize Kapadokya — это современный жилой комплекс с концепцией home-office, расположенный в эпицентре нового финансового и делового района Стамбула. Проект предлагает гибкое использование пространства, высокую доходность для инвесторов и продуманный дизайн, гармонирующий с городской архитектурой.",
+        "status": "Уточняется индивидуально",
+        "plans": [
+          "1+1 — 81–110 м² — $516,000 – $705,000",
+          "2+1 — 126–131 м² — $748,000 – $784,000"
+        ],
+        "price": "от $516,000",
+        "payment": {
+          "initial_payment": "2% — расходы на ТАПУ",
+          "installment": "1% НДС — не включён в цену",
+          "full_payment_discount": "Персонализированное коммерческое использование"
+        },
+        "advantages": [
+          "Прямо напротив Istanbul Finance Center",
+          "Формат Home Office",
+          "Переговорные и конференц-залы",
+          "Тренажёрный зал, террасы и панорамные виды",
+          "Проект от застройщика REMYAPI",
+          "Монолитный фундамент на скальном грунте",
+          "Бетон C35, арматура B420C",
+          "Соответствие стандартам TBDY 2018"
+        ],
+        "distances": [],
+        "amenities": [],
+        "suitable_for": [],
+        "payment_currency": "USD",
+        "contact": "",
+        "images": [
+  "https://drive.google.com/uc?id=1kkx4K0yW-qaDCAkjd3yGNTcnaiiF0GkU",
+  "https://drive.google.com/uc?id=1ddkyfx_ZO1l3EAPX8whK-7mkslMyEt-I",
+  "https://drive.google.com/uc?id=1r3VWjcmqfTeaKtIYS9wEiZK2Ld8lboxZ",
+  "https://drive.google.com/uc?id=1wGSZK76nrmrq1JVzajD__087wph_bJ03",
+  "https://drive.google.com/uc?id=1jDk9EyHmcmtjdaXZHk1a_H7-lcOCJAp9",
+  "https://drive.google.com/uc?id=1d2oXYWn_1g8NttjJJTOuUyk0kZQ4ffkx",
+  "https://drive.google.com/uc?id=1bT4ZSdPvw3BRTGcIQkaCDx3fIPZWeLHy"
+],
+"videos": [
+  "https://drive.google.com/file/d/1TBcQcdD6xv8xCoZjHP2W_n2dhvrVfLEr/preview",
+  "https://drive.google.com/file/d/1qIkp6OFeLDe5tqJbHl7SNtlRjj1gCVHf/preview"
+]
 
+      },
+      "uz": {
+        "district": "Ataşehir, 2027",
+        "region": "Ataşehir, Istanbul",
+        "description": "Alize Kapadokya — bu Istanbulning yangi moliyaviy va biznes markazida joylashgan zamonaviy home-office kontseptsiyasiga ega turar joy majmuasi. Loyiha moslashuvchan foydalanish, investorlar uchun yuqori daromad va shaharning arxitekturasi bilan uyg‘un dizaynni taklif qiladi.",
+        "status": "Alohida aniqlanadi",
+        "plans": [
+          "1+1 — 81–110 m² — $516,000 – $705,000",
+          "2+1 — 126–131 m² — $748,000 – $784,000"
+        ],
+        "price": "$516,000 dan boshlab",
+        "payment": {
+          "initial_payment": "2% — TAPU xarajatlari",
+          "installment": "1% QQS — narxga kiritilmagan",
+          "full_payment_discount": "Moslashtirilgan tijoriy foydalanish imkoniyati"
+        },
+        "advantages": [
+          "Istanbul Finance Center qarshisida",
+          "Home Office formati",
+          "Muzokara va konferensiya zallari",
+          "Trenajyor zali, dam olish terrasalari, panoramali manzaralar",
+          "REMYAPI tomonidan amalga oshirilgan",
+          "Qoya ustidagi monolit poydevor",
+          "C35 betoni, B420C armaturasi",
+          "TBDY 2018 standartlariga mos"
+        ],
+        "distances": [],
+        "amenities": [],
+        "suitable_for": [],
+        "payment_currency": "USD",
+        "contact": "",
+        "images": [
+  "https://drive.google.com/uc?id=1kkx4K0yW-qaDCAkjd3yGNTcnaiiF0GkU",
+  "https://drive.google.com/uc?id=1ddkyfx_ZO1l3EAPX8whK-7mkslMyEt-I",
+  "https://drive.google.com/uc?id=1r3VWjcmqfTeaKtIYS9wEiZK2Ld8lboxZ",
+  "https://drive.google.com/uc?id=1wGSZK76nrmrq1JVzajD__087wph_bJ03",
+  "https://drive.google.com/uc?id=1jDk9EyHmcmtjdaXZHk1a_H7-lcOCJAp9",
+  "https://drive.google.com/uc?id=1d2oXYWn_1g8NttjJJTOuUyk0kZQ4ffkx",
+  "https://drive.google.com/uc?id=1bT4ZSdPvw3BRTGcIQkaCDx3fIPZWeLHy"
+],
+"videos": [
+  "https://drive.google.com/file/d/1TBcQcdD6xv8xCoZjHP2W_n2dhvrVfLEr/preview",
+  "https://drive.google.com/file/d/1qIkp6OFeLDe5tqJbHl7SNtlRjj1gCVHf/preview"
+]
 
+      }
+    }
+  },
+  {
+    "id": 38,
+    "region": "asia",
+    "language_versions": {
+      "ru": {
+        "district": "Ataşehir, 2029",
+        "region": "Аташехир, Стамбул",
+        "description": "Angel City — современный многофункциональный комплекс с жилыми, офисными и коммерческими помещениями. Архитектура здания выделяется кирпичной отделкой, продуманной вертикальной геометрией и зелёными балконами.",
+        "status": "Уточняется индивидуально",
+        "plans": [
+          "1+1 — 78.24–96.97 м² — $339,802 – $421,148",
+          "2+1 — 117.34–161.70 м² — $509,616 – $702,275",
+          "2+1 Duplex — 178.92–217.28 м² — $777,063 – $943,663",
+          "3+1 Duplex — 200.27–240.13 м² — $869,788 – $1,042,903",
+          "3.5+1 Duplex — 299.40 м² — $1,300,317",
+          "Коммерция — 230.66–1,319.67 м² — $1,001,774 – $5,731,426",
+          "Офисы — 44.11–276.27 м² — $191,573 – $1,199,861"
+        ],
+        "price": "от $339,802",
+        "payment": {
+          "initial_payment": "",
+          "installment": "",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "Жилые квартиры, дуплексы, офисы, коммерция",
+          "Современный архитектурный стиль",
+          "Широкий выбор метражей",
+          "Офисы и коммерция с отдельным входом"
+        ],
+        "distances": [],
+        "amenities": [],
+        "suitable_for": ["Инвестиции", "Проживание", "Бизнес"],
+        "payment_currency": "USD",
+        "contact": "",
+"images": [
+  "https://drive.google.com/uc?id=1IqghdTzERUdXQJtZ0IlqO9me81pMDFra",
+  "https://drive.google.com/uc?id=1AjKbPFP08K_gwdiIWFSb2I_qEcgf2SAW",
+  "https://drive.google.com/uc?id=1seV1FcHxhJ3xsYjf33QeSOdtdENnnJnG",
+  "https://drive.google.com/uc?id=1gNooHyI0N0makKkuZikphHUOYukcoxcm",
+  "https://drive.google.com/uc?id=1oqqOPaRa0gXbOzMNi0c0qnAGAHeVHsvO",
+  "https://drive.google.com/uc?id=1SVJZZBgky78EWHpD6_JSKv-fg_ZFI7kw",
+  "https://drive.google.com/uc?id=1TIauTxyJ0laA3S8ZCNFmH4a_cwBi7icf"
+],        "videos": []
+      },
+      "uz": {
+        "district": "Ataşehir, 2029",
+        "region": "Ataşehir, Istanbul",
+        "description": "Angel City — bu zamonaviy ko‘p funksiyali majmua bo‘lib, yashash, ofis va tijorat binolarini o‘z ichiga oladi. Loyihaning g‘ishtli fasadi, vertikal shakllar va yashil balkonlari bilan ajralib turadi.",
+        "status": "Alohida aniqlanadi",
+        "plans": [
+          "1+1 — 78.24–96.97 m² — $339,802 – $421,148",
+          "2+1 — 117.34–161.70 m² — $509,616 – $702,275",
+          "2+1 Duplex — 178.92–217.28 m² — $777,063 – $943,663",
+          "3+1 Duplex — 200.27–240.13 m² — $869,788 – $1,042,903",
+          "3.5+1 Duplex — 299.40 m² — $1,300,317",
+          "Tijorat joylari — 230.66–1,319.67 m² — $1,001,774 – $5,731,426",
+          "Ofislar — 44.11–276.27 m² — $191,573 – $1,199,861"
+        ],
+        "price": "$339,802 dan boshlab",
+        "payment": {
+          "initial_payment": "",
+          "installment": "",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "Yashash, dubliks, ofis va tijorat binolari",
+          "Zamonaviy arxitektura",
+          "Keng maydon tanlovi",
+          "Ofislar va tijorat joylari alohida kirish bilan"
+        ],
+        "distances": [],
+        "amenities": [],
+        "suitable_for": ["Investitsiya", "Yashash", "Biznes"],
+        "payment_currency": "USD",
+        "contact": "",
+"images": [
+  "https://drive.google.com/uc?id=1IqghdTzERUdXQJtZ0IlqO9me81pMDFra",
+  "https://drive.google.com/uc?id=1AjKbPFP08K_gwdiIWFSb2I_qEcgf2SAW",
+  "https://drive.google.com/uc?id=1seV1FcHxhJ3xsYjf33QeSOdtdENnnJnG",
+  "https://drive.google.com/uc?id=1gNooHyI0N0makKkuZikphHUOYukcoxcm",
+  "https://drive.google.com/uc?id=1oqqOPaRa0gXbOzMNi0c0qnAGAHeVHsvO",
+  "https://drive.google.com/uc?id=1SVJZZBgky78EWHpD6_JSKv-fg_ZFI7kw",
+  "https://drive.google.com/uc?id=1TIauTxyJ0laA3S8ZCNFmH4a_cwBi7icf"
+],        "videos": []
+      }
+    }
+  },{
+    "id": 39,
+    "region": "asia",
+    "language_versions": {
+      "ru": {
+        "district": "Ataşehir, 2030",
+        "region": "Аташехир, Стамбул",
+        "description": "Tuna Park Ataşehir — жилой комплекс бизнес-класса от застройщика Tuna İnşaat, расположенный в одном из самых перспективных и центральных районов города. Проект сочетает современную архитектуру, продуманную планировку и панорамные виды на Принцевы острова, Мраморное море и холм Чамлыджа.",
+        "status": "Сдача через 8 месяцев (август 2025 года)",
+        "plans": [
+          "2+1 — 116–135 м² — $410,000",
+          "3+1 — 186 м² — $710,000",
+          "4+1 — 216 м² — $750,000"
+        ],
+        "price": "от $410,000",
+        "payment": {
+          "initial_payment": "",
+          "installment": "",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "Общая площадь застройки: 9,000 м²",
+          "2 жилых блока: A — 25 этажей, B — 32 этажа",
+          "Всего 141 квартира и 5 коммерческих помещений",
+          "Панорамные виды на море, город и природу",
+          "Подходит для получения гражданства",
+          "TAPU готово"
+        ],
+        "distances": [
+          "Станция метро — 1 минута",
+          "Автобус/минибус — 100 м",
+          "Marmaray — 10 мин",
+          "Bağdat Caddesi — 5 мин",
+          "Побережье — 5 мин",
+          "Istanbul Financial Center — 10 мин",
+          "Босфорский мост — 15 мин",
+          "Аэропорт Сабиха Гёкчен — 30–35 мин"
+        ],
+        "amenities": [
+          "Парк с декоративными бассейнами",
+          "24/7 охрана",
+          "Подземный паркинг",
+          "Индивидуальные кладовые",
+          "Кинотеатр, конференц-зал",
+          "Фитнес-центр",
+          "Коммерческие магазины"
+        ],
+        "suitable_for": ["Гражданство", "Проживание", "Инвестиции"],
+        "payment_currency": "USD",
+        "contact": "",
+"images": [
+  "https://drive.google.com/uc?id=1mr6HSfphEs9eOAOHF3tvSDftltucfVP4",
+  "https://drive.google.com/uc?id=1bdRvvnJWpbLWjxU2glAYhRNw6-RF-IuY",
+  "https://drive.google.com/uc?id=1HqYnCrKSvlv3bxGuCoTp8mLE9fi6ZS4i",
+  "https://drive.google.com/uc?id=1bLB68IcDfYqpIGaDQ8IqQR4BgcYEllRT",
+  "https://drive.google.com/uc?id=1llV1__7u8SgQLtyUKsH6O2lo0SytpCwc",
+  "https://drive.google.com/uc?id=1MwFLlJrUS3KiNS_GO8z7EuYm42HAWIgA",
+  "https://drive.google.com/uc?id=1Uo3ZgDFQDKezj6vCGD17gZhIM0aCNEup",
+  "https://drive.google.com/uc?id=1-HUqvaGNfHzVZHeWG5-MF6HNrzARLwN1",
+  "https://drive.google.com/uc?id=10I_YVpM4J0y0OgDldXLoykGyweUXegDJ"
+],        "videos": [
+  "https://drive.google.com/file/d/16k03mZ6oAUB8ezcN55UQ4nlIH_XqEFzX/preview",
+  "https://drive.google.com/file/d/16jdDUjwhMRgZu0jnKN7kqD4ty5WldWo2/preview"
+]
 
+      },
+      "uz": {
+        "district": "Ataşehir, 2030",
+        "region": "Ataşehir, Istanbul",
+        "description": "Tuna Park Ataşehir — Tuna İnşaat tomonidan qurilgan biznes-toifali turar joy majmuasi bo‘lib, Istanbulning eng markaziy va istiqbolli hududlaridan birida joylashgan. Loyiha zamonaviy arxitektura, puxta rejalashtirish va Prens orollari, Marmara dengizi hamda Chamlıja tepaligiga qaragan panoramali manzaralarni taklif etadi.",
+        "status": "8 oydan so‘ng topshiriladi (2025 yil avgust)",
+        "plans": [
+          "2+1 — 116–135 m² — $410,000",
+          "3+1 — 186 m² — $710,000",
+          "4+1 — 216 m² — $750,000"
+        ],
+        "price": "$410,000 dan boshlab",
+        "payment": {
+          "initial_payment": "",
+          "installment": "",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "Umumiy qurilish maydoni: 9,000 m²",
+          "2 ta blok: A — 25 qavat, B — 32 qavat",
+          "Jami 141 ta kvartira va 5 ta tijorat maydoni",
+          "Dengiz, shahar va tabiat manzaralari",
+          "Fuqarolik olishga yaroqli",
+          "TAPU tayyor"
+        ],
+        "distances": [
+          "Metro stansiyasi — 1 daqiqa",
+          "Avtobus/mikroavtobus — 100 m",
+          "Marmaray — 10 daqiqa",
+          "Bağdat ko‘chasi — 5 daqiqa",
+          "Sohil — 5 daqiqa",
+          "Istanbul moliya markazi — 10 daqiqa",
+          "Bosfor ko‘prigi — 15 daqiqa",
+          "Sabixo Gökçen aeroporti — 30–35 daqiqa"
+        ],
+        "amenities": [
+          "Bezatilgan sun’iy hovuzli katta park",
+          "24/7 xavfsizlik",
+          "Yer osti avtoturargohi",
+          "Shaxsiy omborxona xonalari",
+          "Kinoteatr, konferensiya zali",
+          "Fitnes markazi",
+          "Tijorat do‘konlari"
+        ],
+        "suitable_for": ["Fuqarolik", "Yashash", "Investitsiya"],
+        "payment_currency": "USD",
+        "contact": "",
+       "images": [
+  "https://drive.google.com/uc?id=1mr6HSfphEs9eOAOHF3tvSDftltucfVP4",
+  "https://drive.google.com/uc?id=1bdRvvnJWpbLWjxU2glAYhRNw6-RF-IuY",
+  "https://drive.google.com/uc?id=1HqYnCrKSvlv3bxGuCoTp8mLE9fi6ZS4i",
+  "https://drive.google.com/uc?id=1bLB68IcDfYqpIGaDQ8IqQR4BgcYEllRT",
+  "https://drive.google.com/uc?id=1llV1__7u8SgQLtyUKsH6O2lo0SytpCwc",
+  "https://drive.google.com/uc?id=1MwFLlJrUS3KiNS_GO8z7EuYm42HAWIgA",
+  "https://drive.google.com/uc?id=1Uo3ZgDFQDKezj6vCGD17gZhIM0aCNEup",
+  "https://drive.google.com/uc?id=1-HUqvaGNfHzVZHeWG5-MF6HNrzARLwN1",
+  "https://drive.google.com/uc?id=10I_YVpM4J0y0OgDldXLoykGyweUXegDJ"
+],        "videos": [
+  "https://drive.google.com/file/d/16k03mZ6oAUB8ezcN55UQ4nlIH_XqEFzX/preview",
+  "https://drive.google.com/file/d/16jdDUjwhMRgZu0jnKN7kqD4ty5WldWo2/preview"
+]
+      }
+    }
+  },
+  {
+    "id": 40,
+    "region": "asia",
+    "language_versions": {
+      "ru": {
+        "district": "Maltepe, 2034",
+        "region": "Малтепе, Стамбул",
+        "description": "Tablo Adalar — премиальный жилой проект от Vakıf GYO с прямыми видами на море и Принцевы острова. Каждая квартира предлагает панорамный вид на воду, просторные планировки и высококачественную отделку.",
+        "status": "Готов к заселению",
+        "plans": [
+          "1+1 — 131.86–178.40 м² — от ₺13,384,000",
+          "2+1 — 182.85–205.44 м² — от ₺16,531,000",
+          "3+1 — 179.40–309.03 м² — от ₺20,596,000 до ₺30,859,000"
+        ],
+        "price": "от ₺13,384,000",
+        "payment": {
+          "initial_payment": "",
+          "installment": "Возможна рассрочка в TL",
+          "full_payment_discount": "Скидка 20% при полной оплате"
+        },
+        "advantages": [
+          "Все квартиры с видом на море (полным или частичным)",
+          "TAPU готово",
+          "Оплата в турецких лирах",
+          "Проект от Vakıf GYO — дочерняя структура VakıfBank"
+        ],
+        "distances": [],
+        "amenities": [],
+        "suitable_for": ["Проживание", "Инвестиции"],
+        "payment_currency": "TRY",
+        "contact": "",
+"images": [
+  "https://drive.google.com/uc?id=1vZuLO1ZXnMqF3D83eLHmIYvc9PTIKmMv",
+  "https://drive.google.com/uc?id=13znSv6XzOByrAGC97tceaB-QuVGR3JYo",
+  "https://drive.google.com/uc?id=15pq910z4piUXs1IbNDzy4hvOA_Bo_BaM",
+  "https://drive.google.com/uc?id=1IAIeU3QGa0r37iVfa_v7AZHdWtyjsFSw",
+  "https://drive.google.com/uc?id=1pNu5pD_qHZP3tCn-s2FMxBvs0OKP50Ah",
+  "https://drive.google.com/uc?id=11MVgEol_SCT-edjOIiFYPKdh7VhWnyPk",
+  "https://drive.google.com/uc?id=1-vw8aE_XqzyVgDgoIYy2F-Vjr52uNYIY",
+  "https://drive.google.com/uc?id=1KexddSNpuV8aNfPqIX_EyLtXVbqjDlF4"
+],       "videos": [
+  "https://drive.google.com/file/d/1_Ak74TG57F5pPjDhqW9YhxLnJf04ZshA/preview",
+  "https://drive.google.com/file/d/1BOXWOhyNpAugYzF4l6pKlFG66cUpgfu1/preview",
+  "https://drive.google.com/file/d/1ioW350XySyWNTdtQOI3YGMUvr5Ap4dBh/preview",
+  "https://drive.google.com/file/d/1mo5-wZxIYMjfb0I0wC4q3ESz__4j_QPc/preview"
+]
 
-
-
+      },
+      "uz": {
+        "district": "Maltepe, 2034",
+        "region": "Maltepe, Istanbul",
+        "description": "Tablo Adalar — Vakıf GYO tomonidan taqdim etilgan premium turar joy loyihasi bo‘lib, kvartiralari to‘g‘ridan-to‘g‘ri dengiz va Prens orollariga qaragan. Har bir xonadon keng reja va yuqori sifatli bezaklarga ega.",
+        "status": "Yashashga tayyor",
+        "plans": [
+          "1+1 — 131.86–178.40 m² — ₺13,384,000 dan boshlab",
+          "2+1 — 182.85–205.44 m² — ₺16,531,000 dan boshlab",
+          "3+1 — 179.40–309.03 m² — ₺20,596,000 – ₺30,859,000"
+        ],
+        "price": "₺13,384,000 dan boshlab",
+        "payment": {
+          "initial_payment": "",
+          "installment": "Turk liralarida bo‘lib to‘lash mumkin",
+          "full_payment_discount": "To‘liq to‘lovda 20% chegirma"
+        },
+        "advantages": [
+          "Barcha xonadonlar to‘liq yoki qisman dengiz manzarasiga ega",
+          "TAPU tayyor",
+          "TLda to‘lov imkoniyati",
+          "Vakıf GYO — VakıfBank sho‘ba korxonasi"
+        ],
+        "distances": [],
+        "amenities": [],
+        "suitable_for": ["Yashash", "Investitsiya"],
+        "payment_currency": "TRY",
+        "contact": "",
+        "images": [
+  "https://drive.google.com/uc?id=1vZuLO1ZXnMqF3D83eLHmIYvc9PTIKmMv",
+  "https://drive.google.com/uc?id=13znSv6XzOByrAGC97tceaB-QuVGR3JYo",
+  "https://drive.google.com/uc?id=15pq910z4piUXs1IbNDzy4hvOA_Bo_BaM",
+  "https://drive.google.com/uc?id=1IAIeU3QGa0r37iVfa_v7AZHdWtyjsFSw",
+  "https://drive.google.com/uc?id=1pNu5pD_qHZP3tCn-s2FMxBvs0OKP50Ah",
+  "https://drive.google.com/uc?id=11MVgEol_SCT-edjOIiFYPKdh7VhWnyPk",
+  "https://drive.google.com/uc?id=1-vw8aE_XqzyVgDgoIYy2F-Vjr52uNYIY",
+  "https://drive.google.com/uc?id=1KexddSNpuV8aNfPqIX_EyLtXVbqjDlF4"
+],       "videos": [
+  "https://drive.google.com/file/d/1_Ak74TG57F5pPjDhqW9YhxLnJf04ZshA/preview",
+  "https://drive.google.com/file/d/1BOXWOhyNpAugYzF4l6pKlFG66cUpgfu1/preview",
+  "https://drive.google.com/file/d/1ioW350XySyWNTdtQOI3YGMUvr5Ap4dBh/preview",
+  "https://drive.google.com/file/d/1mo5-wZxIYMjfb0I0wC4q3ESz__4j_QPc/preview"
+]
+      }
+    }
+  },
+  {
+    "id": 41,
+    "region": "asia",
+    "language_versions": {
+      "ru": {
+        "district": "Maltepe, 2035",
+        "region": "Малтепе, Стамбул",
+        "description": "Viva Perla — масштабный жилой проект от застройщика Tarhan İnşaat, расположенный в престижной и развивающейся локации Малтепе. В проекте 185 квартир, 11 офисов и 13 коммерческих помещений с богатой социальной инфраструктурой.",
+        "status": "Готов к заселению",
+        "plans": [
+          "1+1 — 64–90 м² брутто — $155,000 – $185,000",
+          "2+1 — 84–179 м² брутто — $300,000 – $400,000",
+          "3+1 — до 161 м² брутто — $330,000 – $484,000",
+          "4+1 / 5+2 Duplex — до 302 м² брутто — до $815,000"
+        ],
+        "price": "от $155,000",
+        "payment": {
+          "initial_payment": "50% первоначальный взнос",
+          "installment": "Рассрочка на 15 месяцев",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "185 квартир, 11 офисов, 13 коммерческих помещений",
+          "2 блока / 5 подъездов",
+          "Крытый и открытый бассейны",
+          "Фитнес, SPA, сауна, хамам",
+          "Подходит для получения гражданства",
+          "TAPU готово"
+        ],
+        "distances": [
+          "Метро Küçükyalı — 5 мин",
+          "Hilltown AVM — 3 мин",
+          "Marmara Университети — рядом",
+          "Госпиталь Marmara — 3 мин"
+        ],
+        "amenities": [
+          "Бассейны",
+          "SPA",
+          "Фитнес",
+          "Сауна",
+          "Хамам",
+          "Охрана 24/7"
+        ],
+        "suitable_for": ["Гражданство", "Инвестиции", "Проживание"],
+        "payment_currency": "USD",
+        "contact": "",
+        "images": [
+    "https://drive.google.com/uc?id=1ML4fekWOl8IdLc_ZUcDOIsafhCyrsF5c",
+    "https://drive.google.com/uc?id=1UCWJTIe8YSsTbG8RCQzWnntt6HT8pnTD",
+    "https://drive.google.com/uc?id=1w8Y-SY5QGTQvgdFHpBwmpkmP7CYaKfHt",
+    "https://drive.google.com/uc?id=1-OcZ54veCcHI9sQZdOJdiSkhltTSFv-W",
+    "https://drive.google.com/uc?id=1IMM7weSq-mafM3F7Fk3dyqoGJ_HuDtTX",
+    "https://drive.google.com/uc?id=1dzZTB1Xg3jrgC3Dpwu-w421S14KtzZUR"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1JIUsVMOKBAQQQ3bY5BU4_rytt1-5nLJ6/preview",
+    "https://drive.google.com/file/d/10ESBVqh-ujpvoucL1R8fCk9J6CyOZB4R/preview",
+    "https://drive.google.com/file/d/1GBqv-vntbuQFHc_4a3bjdWk0WmjWQbBI/preview",
+    "https://drive.google.com/file/d/1dcmBLENIHMZ892eO_Ih0a0OH_3mP6KXI/preview"
+  ]
+      },
+      "uz": {
+        "district": "Maltepe, 2035",
+        "region": "Maltepe, Istanbul",
+        "description": "Viva Perla — Tarhan İnşaat tomonidan taqdim etilgan keng ko‘lamli turar joy loyihasi bo‘lib, Maltepedagi nufuzli va rivojlanayotgan hududda joylashgan. Loyihada 185 ta kvartira, 11 ta ofis va 13 ta tijorat obyekti mavjud.",
+        "status": "Yashashga tayyor",
+        "plans": [
+          "1+1 — 64–90 m² — $155,000 – $185,000",
+          "2+1 — 84–179 m² — $300,000 – $400,000",
+          "3+1 — 161 m² gacha — $330,000 – $484,000",
+          "4+1 / 5+2 Duplex — 302 m² gacha — $815,000 gacha"
+        ],
+        "price": "$155,000 dan boshlab",
+        "payment": {
+          "initial_payment": "50% dastlabki to‘lov",
+          "installment": "15 oylik bo‘lib to‘lash",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "185 ta kvartira, 11 ta ofis, 13 ta tijorat joyi",
+          "2 ta blok / 5 ta kirish yo‘lagi",
+          "Yopiq va ochiq basseynlar",
+          "SPA, fitnes, sauna, hammom",
+          "Fuqarolik olishga yaroqli",
+          "TAPU tayyor"
+        ],
+        "distances": [
+          "Küçükyalı metrosi — 5 daqiqa",
+          "Hilltown AVM — 3 daqiqa",
+          "Marmara universiteti — yonida",
+          "Marmara shifoxonasi — 3 daqiqa"
+        ],
+        "amenities": [
+          "Basseynlar",
+          "SPA",
+          "Fitnes",
+          "Sauna",
+          "Hammom",
+          "24/7 xavfsizlik"
+        ],
+        "suitable_for": ["Fuqarolik", "Investitsiya", "Yashash"],
+        "payment_currency": "USD",
+        "contact": "",
+       "images": [
+    "https://drive.google.com/uc?id=1ML4fekWOl8IdLc_ZUcDOIsafhCyrsF5c",
+    "https://drive.google.com/uc?id=1UCWJTIe8YSsTbG8RCQzWnntt6HT8pnTD",
+    "https://drive.google.com/uc?id=1w8Y-SY5QGTQvgdFHpBwmpkmP7CYaKfHt",
+    "https://drive.google.com/uc?id=1-OcZ54veCcHI9sQZdOJdiSkhltTSFv-W",
+    "https://drive.google.com/uc?id=1IMM7weSq-mafM3F7Fk3dyqoGJ_HuDtTX",
+    "https://drive.google.com/uc?id=1dzZTB1Xg3jrgC3Dpwu-w421S14KtzZUR"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1JIUsVMOKBAQQQ3bY5BU4_rytt1-5nLJ6/preview",
+    "https://drive.google.com/file/d/10ESBVqh-ujpvoucL1R8fCk9J6CyOZB4R/preview",
+    "https://drive.google.com/file/d/1GBqv-vntbuQFHc_4a3bjdWk0WmjWQbBI/preview",
+    "https://drive.google.com/file/d/1dcmBLENIHMZ892eO_Ih0a0OH_3mP6KXI/preview"
+  ]
+      }
+    }
+  }
 
 ]
