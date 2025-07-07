@@ -4467,11 +4467,11 @@
         "description": "Tablo Adalar — премиальный жилой проект от Vakıf GYO с прямыми видами на море и Принцевы острова. Каждая квартира предлагает панорамный вид на воду, просторные планировки и высококачественную отделку.",
         "status": "Готов к заселению",
         "plans": [
-          "1+1 — 131.86–178.40 м² — от ₺13,384,000",
-          "2+1 — 182.85–205.44 м² — от ₺16,531,000",
-          "3+1 — 179.40–309.03 м² — от ₺20,596,000 до ₺30,859,000"
+          "1+1 — 131.86–178.40 м² — от $13,384,000",
+          "2+1 — 182.85–205.44 м² — от $16,531,000",
+          "3+1 — 179.40–309.03 м² — от $20,596,000 до $30,859,000"
         ],
-        "price": "от ₺13,384,000",
+        "price": "от $13,384,000",
         "payment": {
           "initial_payment": "",
           "installment": "Возможна рассрочка в TL",
@@ -4511,11 +4511,11 @@
         "description": "Tablo Adalar — Vakıf GYO tomonidan taqdim etilgan premium turar joy loyihasi bo‘lib, kvartiralari to‘g‘ridan-to‘g‘ri dengiz va Prens orollariga qaragan. Har bir xonadon keng reja va yuqori sifatli bezaklarga ega.",
         "status": "Yashashga tayyor",
         "plans": [
-          "1+1 — 131.86–178.40 m² — ₺13,384,000 dan boshlab",
-          "2+1 — 182.85–205.44 m² — ₺16,531,000 dan boshlab",
-          "3+1 — 179.40–309.03 m² — ₺20,596,000 – ₺30,859,000"
+          "1+1 — 131.86–178.40 m² — $13,384,000 dan boshlab",
+          "2+1 — 182.85–205.44 m² — $16,531,000 dan boshlab",
+          "3+1 — 179.40–309.03 m² — $20,596,000 – $30,859,000"
         ],
-        "price": "₺13,384,000 dan boshlab",
+        "price": "$13,384,000 dan boshlab",
         "payment": {
           "initial_payment": "",
           "installment": "Turk liralarida bo‘lib to‘lash mumkin",
@@ -4669,6 +4669,452 @@
   ]
       }
     }
+  },{
+    "id": 42,
+    "region": "europe",
+    "language_versions": {
+      "ru": {
+        "district": "Kağıthane, 10033",
+        "region": "Кагытхане, Стамбул",
+        "description": "Ferko Line — это премиальный многофункциональный жилой комплекс от девелопера Ferko İnşaat. Проект расположен в одном из самых динамично развивающихся районов Стамбула — Kağıthane — и представляет собой стильный и высокотехнологичный жилой кластер с офисами, отелем Four Points by Sheraton, магазинами, ресторанами и частной внутренней улицей.",
+        "status": "Готов к заселению",
+        "plans": [
+          "1+1 — 83–92 м² — $443,000 – $680,000",
+          "1.5+1 — 92 м² — цена уточняется",
+          "2+1 — 146–153 м² — $632,000 – $695,000",
+          "3+1 — 265–271 м² — $1,095,000 – $1,553,000"
+        ],
+        "price": "от $443,000",
+        "payment": {
+          "initial_payment": "",
+          "installment": "",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "Общая площадь застройки: 105,000 м²",
+          "4 блока: резиденции, офисы, отель, коммерция",
+          "108 жилых квартир + 11 Executive Apartments",
+          "Лобби от Walter Knoll, умный дом, стеклянный фасад",
+          "Потолки 2.8 м, стеклопакеты Guardian, системы SCHÜCO",
+          "Roof-комплекс: лаунж, open-air кино, барбекю, йога-зона",
+          "Парковка, автомойка, фитнес, охрана, рецепция",
+          "Метро рядом, прямая линия M11 (аэропорт)"
+        ],
+        "distances": [
+          "TEM — 2 км",
+          "Мост 15 июля — 6 км",
+          "FSM мост — 7 км",
+          "Аэропорт Стамбула — 31 км",
+          "Axis AVM, Vadistanbul, Zorlu Center — 5–15 мин",
+          "Bilgi University, ITÜ — рядом"
+        ],
+        "amenities": [
+          "Парковка",
+          "Фитнес",
+          "Roof зона: терраса, барбекю, лаунж",
+          "Система умного дома",
+          "Кинотеатр под открытым небом",
+          "Круглосуточная охрана"
+        ],
+        "suitable_for": ["Гражданство", "Инвестиции", "Проживание"],
+        "payment_currency": "USD",
+        "contact": "",
+        "images": [
+    "https://drive.google.com/uc?id=1CLdTOSUsldA28KvBeR-GeRnFQUNQk0dO",
+    "https://drive.google.com/uc?id=1fJT7JI8sJRC3asjR2tBO_czixCR1qZ4M",
+    "https://drive.google.com/uc?id=1d_AigtVcZ1Vt_FBvuagWbLKH8Rnlo9Kd",
+    "https://drive.google.com/uc?id=1d_AigtVcZ1Vt_FBvuagWbLKH8Rnlo9Kd",
+    "https://drive.google.com/uc?id=1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT",
+    "https://drive.google.com/uc?id=1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT/preview",
+    "https://drive.google.com/file/d/1Ite3EYNLE3DExDG85YP_rTfqRMvPkxJb/preview"
+  ]
+      },
+      "uz": {
+        "district": "Kağıthane, 10033",
+        "region": "Kağıthane, Istanbul",
+        "description": "Ferko Line — Ferko İnşaat tomonidan taqdim etilgan yuqori darajadagi ko‘p funksiyali turar joy majmuasi. Loyiha Istanbulning eng tez rivojlanayotgan hududi — Kağıthane’da joylashgan bo‘lib, ofislar, Four Points by Sheraton mehmonxonasi, do‘konlar, restoranlar va xususiy ichki ko‘chani o‘z ichiga oladi.",
+        "status": "Yashashga tayyor",
+        "plans": [
+          "1+1 — 83–92 m² — $443,000 – $680,000",
+          "1.5+1 — 92 m² — narx aniqlanmoqda",
+          "2+1 — 146–153 m² — $632,000 – $695,000",
+          "3+1 — 265–271 m² — $1,095,000 – $1,553,000"
+        ],
+        "price": "$443,000 dan boshlab",
+        "payment": {
+          "initial_payment": "",
+          "installment": "",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "Umumiy qurilish maydoni: 105,000 m²",
+          "4 blok: rezidensiyalar, ofislar, mehmonxona, savdo",
+          "108 ta kvartira + 11 ta Executive Apartments",
+          "Walter Knoll lobbisi, aqlli uy tizimi, oynali fasad",
+          "2.8 m shift, Guardian oynalari, SCHÜCO tizimlari",
+          "Roof-kompleks: dam olish, kinoteatr, barbekyu, yoga zonasi",
+          "Avtoturargoh, avtoyuvish, fitnes, resepsion va qo‘riqlash",
+          "Yaqin metro, M11 liniyasi bilan bog‘langan (aeroport)"
+        ],
+        "distances": [
+          "TEM — 2 km",
+          "15 Iyul ko‘prigi — 6 km",
+          "FSM ko‘prigi — 7 km",
+          "Istanbul aeroporti — 31 km",
+          "Axis AVM, Vadistanbul, Zorlu Center — 5–15 daqiqa",
+          "Bilgi University, ITÜ — yaqin"
+        ],
+        "amenities": [
+          "Avtoturargoh",
+          "Fitnes",
+          "Roof zona: terassa, barbekyu, dam olish",
+          "Aqlli uy tizimi",
+          "Ochiq osmon ostida kinoteatr",
+          "24/7 xavfsizlik"
+        ],
+        "suitable_for": ["Fuqarolik", "Investitsiya", "Yashash"],
+        "payment_currency": "USD",
+        "contact": "",
+       "images": [
+    "https://drive.google.com/uc?id=1CLdTOSUsldA28KvBeR-GeRnFQUNQk0dO",
+    "https://drive.google.com/uc?id=1fJT7JI8sJRC3asjR2tBO_czixCR1qZ4M",
+    "https://drive.google.com/uc?id=1d_AigtVcZ1Vt_FBvuagWbLKH8Rnlo9Kd",
+    "https://drive.google.com/uc?id=1d_AigtVcZ1Vt_FBvuagWbLKH8Rnlo9Kd",
+    "https://drive.google.com/uc?id=1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT",
+    "https://drive.google.com/uc?id=1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT/preview",
+    "https://drive.google.com/file/d/1Ite3EYNLE3DExDG85YP_rTfqRMvPkxJb/preview"
+  ]
+      }
+    }
+  },
+  {
+    "id": 43,
+    "region": "europe",
+    "language_versions": {
+      "ru": {
+        "district": "Kağıthane, 10035",
+        "region": "Кагытхане, Стамбул",
+        "description": "Konak Residence — компактный жилой комплекс от девелопера Akar Yapı, ориентированный на удобную городскую жизнь в Kağıthane. Все квартиры выполнены в формате 2+1, что делает проект идеальным выбором для молодых семей, специалистов и инвесторов.",
+        "status": "Готов к заселению",
+        "plans": [
+          "2+1 — 72–82 м² — $4,591,000 – $5,481,000"
+        ],
+        "price": "от $4,591,000",
+        "payment": {
+          "initial_payment": "",
+          "installment": "Условия уточняются, возможна ипотека",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "Всего 112 квартир",
+          "Только 2+1 планировки",
+          "2 коммерческих помещения",
+          "Закрытая парковка и зона для гостей",
+          "Детская площадка и спортзал 24/7",
+          "Конференц-зал, видеонаблюдение, деревянный декор",
+          "C40 бетон, радиальный фундамент"
+        ],
+        "distances": [
+          "Метро Seyrantepe — 4 мин",
+          "Университеты — 5–13 мин",
+          "Торговые центры — 7–20 мин",
+          "Госпитали — 4–24 мин",
+          "Taksim — 24 мин",
+          "FSM мост — 11 мин"
+        ],
+        "amenities": [
+          "Крытая парковка",
+          "Спортзал 24/7",
+          "Конференц-зал",
+          "Детская площадка",
+          "Видеонаблюдение"
+        ],
+        "suitable_for": ["Инвестиции", "Проживание"],
+        "payment_currency": "TRY",
+        "contact": "",
+         "images": [
+    "https://drive.google.com/uc?id=1qRj2UDg-IQkNQYOj4EYvKe8E8tmCluOH",
+    "https://drive.google.com/uc?id=1MdmmnitsrpnPUUJAN1Ws4nTyEoUHmief",
+    "https://drive.google.com/uc?id=1OwdEvF97XUxLJWEGRf6IStI8IYzash36",
+    "https://drive.google.com/uc?id=1K2FfLscjhUAkJpcTx4p4DgIzRqsSQCpt",
+    "https://drive.google.com/uc?id=1FeKpSBMAyX0C_-53GbMyPxsIJAUXa_iy",
+    "https://drive.google.com/uc?id=1U-xrSrC1sQvB4yqMdjQzUdSj5fMa00cB"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1QAk8GKQxW6A30wbHza4_ZxYuyTcBQU3e/preview"
+  ]
+      },
+      "uz": {
+        "district": "Kağıthane, 10035",
+        "region": "Kağıthane, Istanbul",
+        "description": "Konak Residence — Akar Yapı tomonidan qurilgan ixcham turar joy majmuasi bo‘lib, Kağıthane’da qulay shahar hayotiga yo‘naltirilgan. Barcha xonadonlar 2+1 formatda bo‘lib, yosh oilalar, mutaxassislar va investorlar uchun ideal tanlov hisoblanadi.",
+        "status": "Yashashga tayyor",
+        "plans": [
+          "2+1 — 72–82 m² — $4,591,000 – $5,481,000"
+        ],
+        "price": "$4,591,000 dan boshlab",
+        "payment": {
+          "initial_payment": "",
+          "installment": "Shartlar aniqlashtiriladi, ipoteka mavjud",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "Jami 112 ta xonadon",
+          "Faqat 2+1 rejalashtirish",
+          "2 ta tijorat maydoni",
+          "Yopiq avtoturargoh va mehmonlar zonasi",
+          "Bolalar maydonchasi va 24/7 sport zali",
+          "Konferensiyalar zali, videokuzatuv, yog‘och dekor",
+          "C40 beton, radial poydevor"
+        ],
+        "distances": [
+          "Seyrantepe metro — 4 daqiqa",
+          "Universitetlar — 5–13 daqiqa",
+          "Savdo markazlari — 7–20 daqiqa",
+          "Kasalxonalar — 4–24 daqiqa",
+          "Taksim — 24 daqiqa",
+          "FSM ko‘prigi — 11 daqiqa"
+        ],
+        "amenities": [
+          "Yopiq avtoturargoh",
+          "24/7 sport zali",
+          "Konferensiya zali",
+          "Bolalar maydonchasi",
+          "Videokuzatuv"
+        ],
+        "suitable_for": ["Investitsiya", "Yashash"],
+        "payment_currency": "TRY",
+        "contact": "",
+         "images": [
+    "https://drive.google.com/uc?id=1qRj2UDg-IQkNQYOj4EYvKe8E8tmCluOH",
+    "https://drive.google.com/uc?id=1MdmmnitsrpnPUUJAN1Ws4nTyEoUHmief",
+    "https://drive.google.com/uc?id=1OwdEvF97XUxLJWEGRf6IStI8IYzash36",
+    "https://drive.google.com/uc?id=1K2FfLscjhUAkJpcTx4p4DgIzRqsSQCpt",
+    "https://drive.google.com/uc?id=1FeKpSBMAyX0C_-53GbMyPxsIJAUXa_iy",
+    "https://drive.google.com/uc?id=1U-xrSrC1sQvB4yqMdjQzUdSj5fMa00cB"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1QAk8GKQxW6A30wbHza4_ZxYuyTcBQU3e/preview"
+  ]
+      }
+    }
+  },
+  {
+    "id": 44,
+    "region": "europe",
+    "language_versions": {
+      "ru": {
+        "district": "Kağıthane, 10038",
+        "region": "Кагытхане, Стамбул",
+        "description": "Colony 21 — жилой комплекс из одного блока на 6 этажей, расположен в районе Каытхане. Проект включает 101 апартамент форматов 0+1 и 1+1 и подходит для инвестиций, аренды или проживания.",
+        "status": "Сдача: 30 июня 2026",
+        "plans": [
+          "1+0 — 39.91–61.04 м² — $150,000 – $233,000",
+          "1+1 — 49.09–85.6 м² — $204,000 – $328,000"
+        ],
+        "price": "от $150,000",
+        "payment": {
+          "initial_payment": "30% — рассрочка на 12 мес; 40% — на 24 мес; 50% — на 36 мес",
+          "installment": "до 36 месяцев",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "1 блок, 6 этажей",
+          "101 квартира: 0+1 и 1+1",
+          "Фитнес-зал, парковка",
+          "НДС — 1%, налог TAPU — 0%",
+          "Гражданство подходит"
+        ],
+        "distances": [
+          "Метро — 3 мин",
+          "Axis Mall — 3 мин",
+          "Аэропорт — 25 мин",
+          "Taksim — 8 км",
+          "Vadi İstanbul — 4 мин",
+          "E-80/E-5 — 5 мин",
+          "Автобусная остановка — 500 м"
+        ],
+        "amenities": [
+          "Фитнес-зал",
+          "Парковка"
+        ],
+        "suitable_for": ["Гражданство", "Инвестиции", "Проживание"],
+        "payment_currency": "USD",
+        "contact": "",
+        "images": [
+    "https://drive.google.com/uc?id=1YT1drWM7O9Z9CnlzAhCmcoZI4owxJQ-O",
+    "https://drive.google.com/uc?id=1eCmDyKp47r3rSCp1DHIJrJayOn9ie7FN",
+    "https://drive.google.com/uc?id=1bUbxbLcsITC_lc2fXo4ZbqzrgOrPwC42",
+    "https://drive.google.com/uc?id=16Z2VdzkkkKD26-WEWB4FXBx5pGNJ8GlK",
+    "https://drive.google.com/uc?id=1_BiaT3HFntOYc-_MaplKoI68fDLObyqf",
+    "https://drive.google.com/uc?id=1TosXroOBn6l-Fj1wTe4qk8O-yF4gYSVU"
+  ],
+  "videos": []
+      },
+      "uz": {
+        "district": "Kağıthane, 10038",
+        "region": "Kağıthane, Istanbul",
+        "description": "Colony 21 — 6 qavatli bitta blokdan iborat turar joy majmuasi bo‘lib, Kağıthane hududida joylashgan. Loyiha 101 ta 0+1 va 1+1 xonadonlardan iborat bo‘lib, investitsiya, ijaraga berish yoki yashash uchun mos keladi.",
+        "status": "Topsiriladi: 2026 yil 30-iyun",
+        "plans": [
+          "1+0 — 39.91–61.04 m² — $150,000 – $233,000",
+          "1+1 — 49.09–85.6 m² — $204,000 – $328,000"
+        ],
+        "price": "$150,000 dan boshlab",
+        "payment": {
+          "initial_payment": "30% — 12 oylik; 40% — 24 oylik; 50% — 36 oylik",
+          "installment": "36 oygacha to‘lov",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "1 blok, 6 qavat",
+          "101 ta kvartira: 0+1 va 1+1",
+          "Fitnes zali, avtoturargoh",
+          "QQS — 1%, TAPU bo‘yicha soliq — 0%",
+          "Fuqarolik olishga yaroqli"
+        ],
+        "distances": [
+          "Metro — 3 daqiqa",
+          "Axis Mall — 3 daqiqa",
+          "Aeroport — 25 daqiqa",
+          "Taksim — 8 km",
+          "Vadi İstanbul — 4 daqiqa",
+          "E-80/E-5 — 5 daqiqa",
+          "Avtobus bekati — 500 m"
+        ],
+        "amenities": [
+          "Fitnes zali",
+          "Avtoturargoh"
+        ],
+        "suitable_for": ["Fuqarolik", "Investitsiya", "Yashash"],
+        "payment_currency": "USD",
+        "contact": "",
+        "images": [
+    "https://drive.google.com/uc?id=1YT1drWM7O9Z9CnlzAhCmcoZI4owxJQ-O",
+    "https://drive.google.com/uc?id=1eCmDyKp47r3rSCp1DHIJrJayOn9ie7FN",
+    "https://drive.google.com/uc?id=1bUbxbLcsITC_lc2fXo4ZbqzrgOrPwC42",
+    "https://drive.google.com/uc?id=16Z2VdzkkkKD26-WEWB4FXBx5pGNJ8GlK",
+    "https://drive.google.com/uc?id=1_BiaT3HFntOYc-_MaplKoI68fDLObyqf",
+    "https://drive.google.com/uc?id=1TosXroOBn6l-Fj1wTe4qk8O-yF4gYSVU"
+  ],
+  "videos": []
+      }
+    }
+  },
+  {
+    "id": 45,
+    "region": "europe",
+    "language_versions": {
+      "ru": {
+        "district": "Kağıthane, 10039",
+        "region": "Кагытхане, Стамбул",
+        "description": "Galleria Residence — первый жилой проект в Турции с художественной галереей. Предлагает престижное жильё, панорамные окна и сервис премиум-класса. Проект завершён и готов к заселению.",
+        "status": "Готов к заселению",
+        "plans": [
+          "2+1 — 53.2–91 м² — $255,000 – $310,000"
+        ],
+        "price": "от $255,000",
+        "payment": {
+          "initial_payment": "",
+          "installment": "",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "1 блок, 16 этажей — 44 квартиры",
+          "Жилая площадь — 4800 м²",
+          "Панорамные окна, ресепшен, галерея",
+          "1 парковочное место на квартиру",
+          "Современный спортзал, барбекю, терраса",
+          "Службы уборки, доставки и техподдержка",
+          "Подходит для гражданства"
+        ],
+        "distances": [],
+        "amenities": [
+          "Галерея",
+          "Фитнес-зал",
+          "Парковка",
+          "Барбекю-зона",
+          "Терраса",
+          "Круглосуточная охрана"
+        ],
+        "suitable_for": ["Гражданство", "Проживание"],
+        "payment_currency": "USD",
+        "contact": "",
+        "images": [
+    "https://drive.google.com/uc?id=1sLy_P181HR-SjrGdrab1PzxLGJsxpdqd",
+    "https://drive.google.com/uc?id=1kuHq7NJ6G4oWto7Do39Q9JjU-LYHum7_",
+    "https://drive.google.com/uc?id=13twHc8u_e0kLHI5DIJF-FjSPZ8MaxFlL",
+    "https://drive.google.com/uc?id=12vb0SEiCRZehpA-ZQVnSTFFaasl0clIH",
+    "https://drive.google.com/uc?id=1QAliTYUZQfotvomoTkgxgzLUlZYS9706",
+    "https://drive.google.com/uc?id=15ig7HbuHBc05uT-Gy9NYjLsP-c5SdGa5",
+    "https://drive.google.com/uc?id=1PPEkMWZr-MBo33IM376ektXKeD2qUL5c",
+    "https://drive.google.com/uc?id=1niTXRBL6Tc0jXVarqdJUx3iJ2zrVU-Ck"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1o8tWikqtSmfrwLOREHohYqesLfP4AZqQ/preview",
+    "https://drive.google.com/file/d/1_w0zo2w6FN805MRwKkYU1ppmZVI-CEkB/preview",
+    "https://drive.google.com/file/d/186nb1DXe3VBI-veZvrlK2e_ASAU8AYPo/preview"
+  ]
+      },
+      "uz": {
+        "district": "Kağıthane, 10039",
+        "region": "Kağıthane, Istanbul",
+        "description": "Galleria Residence — Turkiyadagi birinchi san'at galereyasi bilan uyg‘unlashgan turar joy loyihasi. Yashash uchun qulaylik, estetik dizayn va premium xizmatlar taqdim etiladi. Loyiha yakunlangan va yashashga tayyor.",
+        "status": "Yashashga tayyor",
+        "plans": [
+          "2+1 — 53.2–91 m² — $255,000 – $310,000"
+        ],
+        "price": "$255,000 dan boshlab",
+        "payment": {
+          "initial_payment": "",
+          "installment": "",
+          "full_payment_discount": ""
+        },
+        "advantages": [
+          "1 blok, 16 qavat — 44 ta kvartira",
+          "Umumiy maydon — 4800 m²",
+          "Panoramali derazalar, galereya, resepsion",
+          "Har bir kvartira uchun avtoturargoh",
+          "Zamonaviy sport zali, barbekyu va terassa",
+          "Tozalash, yetkazib berish va texnik xizmatlar",
+          "Fuqarolik olish uchun mos"
+        ],
+        "distances": [],
+        "amenities": [
+          "San’at galereyasi",
+          "Fitnes zali",
+          "Avtoturargoh",
+          "Barbekyu zonasi",
+          "Terassa",
+          "24/7 xavfsizlik"
+        ],
+        "suitable_for": ["Fuqarolik", "Yashash"],
+        "payment_currency": "USD",
+        "contact": "",
+        "images": [
+    "https://drive.google.com/uc?id=1sLy_P181HR-SjrGdrab1PzxLGJsxpdqd",
+    "https://drive.google.com/uc?id=1kuHq7NJ6G4oWto7Do39Q9JjU-LYHum7_",
+    "https://drive.google.com/uc?id=13twHc8u_e0kLHI5DIJF-FjSPZ8MaxFlL",
+    "https://drive.google.com/uc?id=12vb0SEiCRZehpA-ZQVnSTFFaasl0clIH",
+    "https://drive.google.com/uc?id=1QAliTYUZQfotvomoTkgxgzLUlZYS9706",
+    "https://drive.google.com/uc?id=15ig7HbuHBc05uT-Gy9NYjLsP-c5SdGa5",
+    "https://drive.google.com/uc?id=1PPEkMWZr-MBo33IM376ektXKeD2qUL5c",
+    "https://drive.google.com/uc?id=1niTXRBL6Tc0jXVarqdJUx3iJ2zrVU-Ck"
+  ],
+  "videos": [
+    "https://drive.google.com/file/d/1o8tWikqtSmfrwLOREHohYqesLfP4AZqQ/preview",
+    "https://drive.google.com/file/d/1_w0zo2w6FN805MRwKkYU1ppmZVI-CEkB/preview",
+    "https://drive.google.com/file/d/186nb1DXe3VBI-veZvrlK2e_ASAU8AYPo/preview"
+  ]
+      }
+    }
   }
+
 
 ]
