@@ -4692,7 +4692,7 @@
   "region": "asia",
   "language_versions": {
     "ru": {
-      "district": "Мальтепе / Картал",
+      "district": "Мальтепе / Картал 2038",
       "region": "Стамбул",
       "description": "Deluxia Park Business — современный бизнес-комплекс в новом финансовом районе Стамбула, расположенный на стыке районов Картал и Мальтепе. Проект предлагает комфортные офисные пространства с высоким уровнем сервиса и удобной транспортной доступностью: рядом метро, трасса E5, аэропорт и крупные торговые центры.",
       "status": "Строится (сдача: июль 2025)",
@@ -4746,7 +4746,7 @@
       "videos": []
     },
     "uz": {
-      "district": "Maltepe / Kartal",
+      "district": "Maltepe / Kartal 2038",
       "region": "Istanbul",
       "description": "Deluxia Park Business — Istanbulning yangi moliyaviy hududida, Kartal va Maltepe tumanlari chorrahasida joylashgan zamonaviy biznes majmuasi. Loyihada yuqori servis darajasi va qulay transport infratuzilmasiga ega ofis maydonlari taklif etiladi: yonida metro, E5 trassasi, aeroport va yirik savdo markazlari joylashgan.",
       "status": "Qurilmoqda (topsirilishi: iyul 2025)",
@@ -4805,7 +4805,7 @@
   "region": "asia",
   "language_versions": {
     "ru": {
-      "district": "Малтепе",
+      "district": "Малтепе, 2039",
       "region": "Стамбул",
       "description": "Современный жилой комплекс с экологичной концепцией и акцентом на комфорт, зелёную зону и удобную городскую инфраструктуру. Расположен в 1 минуте ходьбы от метро и двух торговых центров. Отлично подойдёт для семей, инвестиций и получения гражданства.",
       "status": "Готов к заселению",
@@ -4850,7 +4850,7 @@
       "videos": []
     },
     "uz": {
-      "district": "Maltepe",
+      "district": "Maltepe, 2039",
       "region": "Istanbul",
       "description": "Zamonaviy yashash majmuasi ekologik konsepsiyaga ega bo‘lib, qulaylik, yashil hudud va shahar infratuzilmasiga e’tibor qaratilgan. Metro va ikki savdo markaziga atigi 1 daqiqalik piyoda masofada joylashgan. Oilalar, investitsiya va fuqarolik olish uchun juda mos.",
       "status": "Yashashga tayyor",
@@ -4901,7 +4901,7 @@
   "region": "asia",
   "language_versions": {
     "ru": {
-      "district": "Картал",
+      "district": "Картал, 2045",
       "region": "Стамбул",
       "description": "Yücel Park — жилой комплекс в зелёной зоне на побережье между Карталом и Мальтепе. Проект сочетает в себе удобное расположение, панорамный вид на Принцевы острова и богатую инфраструктуру для комфортной жизни. Подходит для получения гражданства.",
       "status": "Сдача: 2024–2025",
@@ -4968,7 +4968,7 @@
       "videos": []
     },
     "uz": {
-      "district": "Kartal",
+      "district": "Kartal, 2045",
       "region": "Istanbul",
       "description": "Yücel Park — Kartal va Maltepe oralig‘idagi dengiz bo‘yida joylashgan yashil hududdagi turar joy majmuasi. Loyihada qulay joylashuv, Prinst orollariga qaragan panorama manzara va farovon hayot uchun keng infratuzilma mavjud. Fuqarolik olish uchun mos.",
       "status": "Topsirilishi: 2024–2025",
