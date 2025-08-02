@@ -2447,7 +2447,14 @@
         ],
         "contact": "",
         "images": [
-          
+        "/storage/2015/1.jpg",
+        "/storage/2015/2.jpg",
+        "/storage/2015/3.jpg",
+        "/storage/2015/4.jpg",
+        "/storage/2015/5.jpg",
+        "/storage/2015/6.jpg",
+        "/storage/2015/7.jpg",
+        "/storage/2015/8.jpg" 
         ],
         "videos": [
         ]
@@ -2489,29 +2496,14 @@
         "suitable_for": [],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=1b3OScWzCanAWD2XSezsGe1TzbmroA5Rw",
-          "https://drive.google.com/uc?export=view&id=1-FNpn7lQNh5uFqdNTvhk1st0S-YitNo3",
-          "https://drive.google.com/uc?export=view&id=1BhIG5kJ13upXMnZYwS2fux5vYBkWrC5v",
-          "https://drive.google.com/uc?export=view&id=1tqh-dswVHhB37K-_xuuXQndcLVZSkcr2",
-          "https://drive.google.com/uc?export=view&id=118veBB0dSff6C05RQld33DKCqzsiz2nj",
-          "https://drive.google.com/uc?export=view&id=1mMHfh-q0rGdZ-2bqWA-PVhUMU3ONF8ZX",
-          "https://drive.google.com/uc?export=view&id=1yGOpr2DVlAFsaWiUL8sKMbNzj6KokQHT",
-          "https://drive.google.com/uc?export=view&id=1MEJPpFlFPcXg2qNAXhRTQUTFpvjS6_M2",
-          "https://drive.google.com/uc?export=view&id=18FTU6pnHtzeVNTR5Ee9M7yxexRljzrGU",
-          "https://drive.google.com/uc?export=view&id=1I8jHdPSX9KM3RoiJa8cbg0hnCUsnU9Hq",
-          "https://drive.google.com/uc?export=view&id=11DD9ll6jN39o-OWbGUMLoX_eMhUQyjsI",
-          "https://drive.google.com/uc?export=view&id=1ioRuMSNH8Z4a_r5NHtCmM-LofxGGQBg-",
-          "https://drive.google.com/uc?export=view&id=1CH_fjRi5gV-W9lofeZ1q-6L_ijjQd3tQ",
-          "https://drive.google.com/uc?export=view&id=1Bjvq4q3_xAKJUCeZ6ccdaNMdSl49Texd",
-          "https://drive.google.com/uc?export=view&id=10CUCV1cB7Sn7Ce4cCEC6w7-NYa8M4tb1",
-          "https://drive.google.com/uc?export=view&id=1_E0eTAAyqj7DHA1lAOz9MBylz4dQMIop",
-          "https://drive.google.com/uc?export=view&id=1Eee6K-LNdhNykOe8vPXXLf_I3NX6AHm4",
-          "https://drive.google.com/uc?export=view&id=1bTHvPi2EguT2fDPxBAiqm9ZND0jsfolN",
-          "https://drive.google.com/uc?export=view&id=1ZqM5EYhFAiZT8QEpv_49JB5HZajXKTtv",
-          "https://drive.google.com/uc?export=view&id=1ZXxdaw1fS8fHPqHhZj7fM9aaMW0Qenmd"
+        "/storage/10001/1.jpg",
+        "/storage/10001/2.png",
+        "/storage/10001/3.jpg",
+        "/storage/10001/4.jpg",
+        "/storage/10001/5.jpg",
+        "/storage/10001/6.jpg"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1_quI-NglHiAyu_jsX-Bae6O27m47WeG0/preview"
         ]
       },
       "uz": {
@@ -2545,29 +2537,14 @@
         "suitable_for": [],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=1b3OScWzCanAWD2XSezsGe1TzbmroA5Rw",
-          "https://drive.google.com/uc?export=view&id=1-FNpn7lQNh5uFqdNTvhk1st0S-YitNo3",
-          "https://drive.google.com/uc?export=view&id=1BhIG5kJ13upXMnZYwS2fux5vYBkWrC5v",
-          "https://drive.google.com/uc?export=view&id=1tqh-dswVHhB37K-_xuuXQndcLVZSkcr2",
-          "https://drive.google.com/uc?export=view&id=118veBB0dSff6C05RQld33DKCqzsiz2nj",
-          "https://drive.google.com/uc?export=view&id=1mMHfh-q0rGdZ-2bqWA-PVhUMU3ONF8ZX",
-          "https://drive.google.com/uc?export=view&id=1yGOpr2DVlAFsaWiUL8sKMbNzj6KokQHT",
-          "https://drive.google.com/uc?export=view&id=1MEJPpFlFPcXg2qNAXhRTQUTFpvjS6_M2",
-          "https://drive.google.com/uc?export=view&id=18FTU6pnHtzeVNTR5Ee9M7yxexRljzrGU",
-          "https://drive.google.com/uc?export=view&id=1I8jHdPSX9KM3RoiJa8cbg0hnCUsnU9Hq",
-          "https://drive.google.com/uc?export=view&id=11DD9ll6jN39o-OWbGUMLoX_eMhUQyjsI",
-          "https://drive.google.com/uc?export=view&id=1ioRuMSNH8Z4a_r5NHtCmM-LofxGGQBg-",
-          "https://drive.google.com/uc?export=view&id=1CH_fjRi5gV-W9lofeZ1q-6L_ijjQd3tQ",
-          "https://drive.google.com/uc?export=view&id=1Bjvq4q3_xAKJUCeZ6ccdaNMdSl49Texd",
-          "https://drive.google.com/uc?export=view&id=10CUCV1cB7Sn7Ce4cCEC6w7-NYa8M4tb1",
-          "https://drive.google.com/uc?export=view&id=1_E0eTAAyqj7DHA1lAOz9MBylz4dQMIop",
-          "https://drive.google.com/uc?export=view&id=1Eee6K-LNdhNykOe8vPXXLf_I3NX6AHm4",
-          "https://drive.google.com/uc?export=view&id=1bTHvPi2EguT2fDPxBAiqm9ZND0jsfolN",
-          "https://drive.google.com/uc?export=view&id=1ZqM5EYhFAiZT8QEpv_49JB5HZajXKTtv",
-          "https://drive.google.com/uc?export=view&id=1ZXxdaw1fS8fHPqHhZj7fM9aaMW0Qenmd"
+           "/storage/10001/1.jpg",
+        "/storage/10001/2.png",
+        "/storage/10001/3.jpg",
+        "/storage/10001/4.jpg",
+        "/storage/10001/5.jpg",
+        "/storage/10001/6.jpg"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1_quI-NglHiAyu_jsX-Bae6O27m47WeG0/preview"
         ]
       }
     }
@@ -2613,21 +2590,14 @@
         ],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=1WI7u6_GGkIG4yRr5JKF8-tMCP8aX5Qjz",
-          "https://drive.google.com/uc?export=view&id=15A-Bz3SDYhe4ymWuFQktNOgpaFW9qT5u",
-          "https://drive.google.com/uc?export=view&id=12U4Aiut-SGpVz0ITD2iJ7fKju5Nb1TV5",
-          "https://drive.google.com/uc?export=view&id=1zNZkeFHJLRMvL7zl87Yholqvgb1Xlhw8",
-          "https://drive.google.com/uc?export=view&id=150M2OlBLQnp5R0ZoduFA3iFs7zAHS1WT",
-          "https://drive.google.com/uc?export=view&id=1Dl_KGRGIsUwHQfKxTrog4G4xv9AhAhbE",
-          "https://drive.google.com/uc?export=view&id=1JD3TPmlnZeLjhSkmAtaeSwUY27M5j17b",
-          "https://drive.google.com/uc?export=view&id=1Q4Cj3wWhKQ5fZ9dEbWHt6edS3ny_3R6l",
-          "https://drive.google.com/uc?export=view&id=1qGFI2u40apQ216Q4aAGErzTQZX5q4_yH"
+        "/storage/10005/1.jpg",
+        "/storage/10005/2.jpg",
+        "/storage/10005/3.jpg",
+        "/storage/10005/4.jpg",
+        "/storage/10005/5.jpg",
+        "/storage/10005/6.jpg"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1p74B0bH3T7LS6ib8nEDdYlfhzeQXtQUz/preview",
-          "https://drive.google.com/file/d/1ahrwYZeAERd90NE5e47WiZAclbDFdORV/preview",
-          "https://drive.google.com/file/d/1kwST4m2X3qBR0gsmOlQKYhClt_3-b5Zn/preview",
-          "https://drive.google.com/file/d/1FgZzbpSCs2kzyYPXFV0KM2vBUHtDU20r/preview"
         ]
       },
       "uz": {
@@ -2667,21 +2637,15 @@
         ],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=1WI7u6_GGkIG4yRr5JKF8-tMCP8aX5Qjz",
-          "https://drive.google.com/uc?export=view&id=15A-Bz3SDYhe4ymWuFQktNOgpaFW9qT5u",
-          "https://drive.google.com/uc?export=view&id=12U4Aiut-SGpVz0ITD2iJ7fKju5Nb1TV5",
-          "https://drive.google.com/uc?export=view&id=1zNZkeFHJLRMvL7zl87Yholqvgb1Xlhw8",
-          "https://drive.google.com/uc?export=view&id=150M2OlBLQnp5R0ZoduFA3iFs7zAHS1WT",
-          "https://drive.google.com/uc?export=view&id=1Dl_KGRGIsUwHQfKxTrog4G4xv9AhAhbE",
-          "https://drive.google.com/uc?export=view&id=1JD3TPmlnZeLjhSkmAtaeSwUY27M5j17b",
-          "https://drive.google.com/uc?export=view&id=1Q4Cj3wWhKQ5fZ9dEbWHt6edS3ny_3R6l",
-          "https://drive.google.com/uc?export=view&id=1qGFI2u40apQ216Q4aAGErzTQZX5q4_yH"
+           "/storage/10005/1.jpg",
+        "/storage/10005/2.jpg",
+        "/storage/10005/3.jpg",
+        "/storage/10005/4.jpg",
+        "/storage/10005/5.jpg",
+        "/storage/10005/6.jpg"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1p74B0bH3T7LS6ib8nEDdYlfhzeQXtQUz/preview",
-          "https://drive.google.com/file/d/1ahrwYZeAERd90NE5e47WiZAclbDFdORV/preview",
-          "https://drive.google.com/file/d/1kwST4m2X3qBR0gsmOlQKYhClt_3-b5Zn/preview",
-          "https://drive.google.com/file/d/1FgZzbpSCs2kzyYPXFV0KM2vBUHtDU20r/preview"
+          
         ]
       }
     }
@@ -2728,29 +2692,16 @@
         "suitable_for": [],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=1QbUZ1DT2WiWM0PPBpWSKGrbX48xS-2ul",
-          "https://drive.google.com/uc?export=view&id=1U0cqhhhH3mbcpCuBMhLYKvZsgI2Rp-RW",
-          "https://drive.google.com/uc?export=view&id=118TBd450tTEmOjvhTgiQ7eIiBtLDvRdV",
-          "https://drive.google.com/uc?export=view&id=1OhoK07fLOaZWCeMmxSvMQNZPjXVy9F4U",
-          "https://drive.google.com/uc?export=view&id=1QfTIHLWhAfRhrRaprJeUg1SOoI4EHH4s",
-          "https://drive.google.com/uc?export=view&id=1o-RHSCH1e-DdBV8MxAfsP4_uUh-6pC6v",
-          "https://drive.google.com/uc?export=view&id=1qvukyQlobdgDjRB9x6XZgLKLGNS_bAXu",
-          "https://drive.google.com/uc?export=view&id=17lF4RrVLajvN4J2y8YYc2BFOoN3YD5tv",
-          "https://drive.google.com/uc?export=view&id=1fLC5e-smsWotkSxyGDVpy4baH1gDI9Tv",
-          "https://drive.google.com/uc?export=view&id=1cABFOiMExxDEy6EuradjLsTjeMtntCoJ",
-          "https://drive.google.com/uc?export=view&id=1fGR6Nks_Ry8gQr_epol1MiyIbVumd4dQ",
-          "https://drive.google.com/uc?export=view&id=1xLDP2Pmyse4Y5wlo7XymIU7bnl-623M_",
-          "https://drive.google.com/uc?export=view&id=1qJEOOHMJ9_eakSDBF58rOh8ZujXXwAWK",
-          "https://drive.google.com/uc?export=view&id=1dddjSQutmAwJtHegfyquVIfWX9s9PTC2"
+        "/storage/10007/1.jpg",
+        "/storage/10007/2.jpg",
+        "/storage/10007/3.jpg",
+        "/storage/10007/4.jpg",
+        "/storage/10007/5.jpg",
+        "/storage/10007/6.jpg",
+        "/storage/10007/7.jpg"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1tCigaddeNQNHJZQaDTno9RtVEIzVEQ3Z/preview",
-          "https://drive.google.com/file/d/1m-B_cck_jluSDv1OxKtXSM8LqLS1S5Hl/preview",
-          "https://drive.google.com/file/d/1RNQp4XnddnYLqeQIBAJPz_Y4yzQfTL4d/preview",
-          "https://drive.google.com/file/d/17oq1Ybl9uHbd5zeEv1HZiWtwd-ZofXl2/preview",
-          "https://drive.google.com/file/d/1UcPybmksbnVYZh_2Ewi6Zcm5swrfhF4c/preview",
-          "https://drive.google.com/file/d/1w8zLhNduhduyaQa3f1HLfMubdYtOGQPh/preview",
-          "https://drive.google.com/file/d/1Mvc03IXeC4hTsVYyUd0s30zaPQj78cRo/preview"
+         
         ]
       },
       "uz": {
@@ -2791,29 +2742,16 @@
         "suitable_for": [],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=1QbUZ1DT2WiWM0PPBpWSKGrbX48xS-2ul",
-          "https://drive.google.com/uc?export=view&id=1U0cqhhhH3mbcpCuBMhLYKvZsgI2Rp-RW",
-          "https://drive.google.com/uc?export=view&id=118TBd450tTEmOjvhTgiQ7eIiBtLDvRdV",
-          "https://drive.google.com/uc?export=view&id=1OhoK07fLOaZWCeMmxSvMQNZPjXVy9F4U",
-          "https://drive.google.com/uc?export=view&id=1QfTIHLWhAfRhrRaprJeUg1SOoI4EHH4s",
-          "https://drive.google.com/uc?export=view&id=1o-RHSCH1e-DdBV8MxAfsP4_uUh-6pC6v",
-          "https://drive.google.com/uc?export=view&id=1qvukyQlobdgDjRB9x6XZgLKLGNS_bAXu",
-          "https://drive.google.com/uc?export=view&id=17lF4RrVLajvN4J2y8YYc2BFOoN3YD5tv",
-          "https://drive.google.com/uc?export=view&id=1fLC5e-smsWotkSxyGDVpy4baH1gDI9Tv",
-          "https://drive.google.com/uc?export=view&id=1cABFOiMExxDEy6EuradjLsTjeMtntCoJ",
-          "https://drive.google.com/uc?export=view&id=1fGR6Nks_Ry8gQr_epol1MiyIbVumd4dQ",
-          "https://drive.google.com/uc?export=view&id=1xLDP2Pmyse4Y5wlo7XymIU7bnl-623M_",
-          "https://drive.google.com/uc?export=view&id=1qJEOOHMJ9_eakSDBF58rOh8ZujXXwAWK",
-          "https://drive.google.com/uc?export=view&id=1dddjSQutmAwJtHegfyquVIfWX9s9PTC2"
+          "/storage/10007/1.jpg",
+        "/storage/10007/2.jpg",
+        "/storage/10007/3.jpg",
+        "/storage/10007/4.jpg",
+        "/storage/10007/5.jpg",
+        "/storage/10007/6.jpg",
+        "/storage/10007/7.jpg"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1tCigaddeNQNHJZQaDTno9RtVEIzVEQ3Z/preview",
-          "https://drive.google.com/file/d/1m-B_cck_jluSDv1OxKtXSM8LqLS1S5Hl/preview",
-          "https://drive.google.com/file/d/1RNQp4XnddnYLqeQIBAJPz_Y4yzQfTL4d/preview",
-          "https://drive.google.com/file/d/17oq1Ybl9uHbd5zeEv1HZiWtwd-ZofXl2/preview",
-          "https://drive.google.com/file/d/1UcPybmksbnVYZh_2Ewi6Zcm5swrfhF4c/preview",
-          "https://drive.google.com/file/d/1w8zLhNduhduyaQa3f1HLfMubdYtOGQPh/preview",
-          "https://drive.google.com/file/d/1Mvc03IXeC4hTsVYyUd0s30zaPQj78cRo/preview"
+         
         ]
       }}},
 
@@ -2852,11 +2790,17 @@
         "suitable_for": [],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=1Tkc2MVSpR4J3NzPh67x8SQznXRBvbBcV",
-          "https://drive.google.com/uc?export=view&id=1z5fYMe4aKqMUvmIPB1fRRXsy-68AGeHF"
+        "/storage/10009/1.jpg",
+        "/storage/10009/2.jpg",
+        "/storage/10009/3.jpg",
+        "/storage/10009/4.jpg",
+        "/storage/10009/5.jpg",
+        "/storage/10009/6.jpg",
+        "/storage/10009/7.jpg",
+        "/storage/10009/8.jpg",
+        "/storage/10009/9.jpg"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1NG-PVxiGQJKLMMjysOyEk8IAhLltNzN1/preview"
         ]
       },
       "uz": {
@@ -2890,11 +2834,17 @@
         "suitable_for": [],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=1Tkc2MVSpR4J3NzPh67x8SQznXRBvbBcV",
-          "https://drive.google.com/uc?export=view&id=1z5fYMe4aKqMUvmIPB1fRRXsy-68AGeHF"
+        "/storage/10009/1.jpg",
+        "/storage/10009/2.jpg",
+        "/storage/10009/3.jpg",
+        "/storage/10009/4.jpg",
+        "/storage/10009/5.jpg",
+        "/storage/10009/6.jpg",
+        "/storage/10009/7.jpg",
+        "/storage/10009/8.jpg",
+        "/storage/10009/9.jpg"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1NG-PVxiGQJKLMMjysOyEk8IAhLltNzN1/preview"
         ]
       }
     }
@@ -2939,10 +2889,15 @@
         "suitable_for": [],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=151WW6FPjvx63qfAS42tmXYuKYNvurZ__"
+        "/storage/10011/1.jpg",
+        "/storage/10011/2.jpg",
+        "/storage/10011/3.jpg",
+        "/storage/10011/4.jpg",
+        "/storage/10011/5.jpg",
+        "/storage/10011/6.jpg",
+        "/storage/10011/8.jpg"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1SI61JVX2fUW6jqRxhRwyyxzUZx3yB3ly/preview"
         ]
       },
       "uz": {
@@ -2981,10 +2936,15 @@
         "suitable_for": [],
         "contact": "",
         "images": [
-          "https://drive.google.com/uc?export=view&id=151WW6FPjvx63qfAS42tmXYuKYNvurZ__"
+        "/storage/10011/1.jpg",
+        "/storage/10011/2.jpg",
+        "/storage/10011/3.jpg",
+        "/storage/10011/4.jpg",
+        "/storage/10011/5.jpg",
+        "/storage/10011/6.jpg",
+        "/storage/10011/8.jpg"
         ],
         "videos": [
-          "https://drive.google.com/file/d/1SI61JVX2fUW6jqRxhRwyyxzUZx3yB3ly/preview"
         ]
       }
     }
@@ -3021,14 +2981,16 @@
       "suitable_for": [],
       "contact": "",
       "images": [
-    "https://drive.google.com/uc?id=1FhVtKF9eu1iGrzn3x2zv5I6g4c2U_-Tb",
-    "https://drive.google.com/uc?id=1Fh4bV7aEeYA_nY-wHymQXjwv4sWEjm0O",
-    "https://drive.google.com/uc?id=1Fgmev7mIKFnVkDCDtFqFpdXELzvRKWBl",
-    "https://drive.google.com/uc?id=1FMgQDQKbR4d9KanQJvUsLLMOECajXapP",
-    "https://drive.google.com/uc?id=1FLWf7o_OyalY2p_ZnxumTgjBRIW70fMq"
+        "/storage/2016/1.jpg",
+        "/storage/2016/2.jpg",
+        "/storage/2016/3.jpg",
+        "/storage/2016/4.jpg",
+        "/storage/2016/5.jpg",
+        "/storage/2016/6.jpg",
+        "/storage/2016/7.jpg",
+        "/storage/2016/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/19WCH1xDTQtZ-D_CAYyz03z7Up0nb6_GQ/preview"
   ]
     },
     "uz": {
@@ -3059,14 +3021,16 @@
       "suitable_for": [],
       "contact": "",
       "images": [
-    "https://drive.google.com/uc?id=1FhVtKF9eu1iGrzn3x2zv5I6g4c2U_-Tb",
-    "https://drive.google.com/uc?id=1Fh4bV7aEeYA_nY-wHymQXjwv4sWEjm0O",
-    "https://drive.google.com/uc?id=1Fgmev7mIKFnVkDCDtFqFpdXELzvRKWBl",
-    "https://drive.google.com/uc?id=1FMgQDQKbR4d9KanQJvUsLLMOECajXapP",
-    "https://drive.google.com/uc?id=1FLWf7o_OyalY2p_ZnxumTgjBRIW70fMq"
+        "/storage/2016/1.jpg",
+        "/storage/2016/2.jpg",
+        "/storage/2016/3.jpg",
+        "/storage/2016/4.jpg",
+        "/storage/2016/5.jpg",
+        "/storage/2016/6.jpg",
+        "/storage/2016/7.jpg",
+        "/storage/2016/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/19WCH1xDTQtZ-D_CAYyz03z7Up0nb6_GQ/preview"
   ]
     }
   }
@@ -3103,15 +3067,16 @@
       "suitable_for": [],
       "contact": "",
       "images": [
-    "https://drive.google.com/uc?id=1hRmQ56CL5WAMDSL_pZpwbXH1-Y4uTu0Y",
-    "https://drive.google.com/uc?id=1WJOT43ap5JjC03qM39ctldvVj8W544sz",
-    "https://drive.google.com/uc?id=1ag__-rYKSd8oKuAlL8FwreocHelvCz6T",
-    "https://drive.google.com/uc?id=1GmSw2l9Rj3YEHOQoHClPraCS6aM6d7GT",
-    "https://drive.google.com/uc?id=1ONTxZ3J4bN4lQA5tBeAGSz-JgD7W_uA8"
+        "/storage/2020/1.jpg",
+        "/storage/2020/2.jpg",
+        "/storage/2020/3.jpg",
+        "/storage/2020/4.jpg",
+        "/storage/2020/5.jpg",
+        "/storage/2020/6.jpg",
+        "/storage/2020/7.jpg",
+        "/storage/2020/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/11gNZELp5W59qpKEvFQSM3t_FL9XdErqn/preview",
-    "https://drive.google.com/file/d/11ySjIRzcg-8z6B_TURGPGAOUG5jNVu9U/preview"
   ]
     },
     "uz": {
@@ -3141,16 +3106,17 @@
       "payment_currency": "USD",
       "suitable_for": [],
       "contact": "",
-      "images": [
-    "https://drive.google.com/uc?id=1hRmQ56CL5WAMDSL_pZpwbXH1-Y4uTu0Y",
-    "https://drive.google.com/uc?id=1WJOT43ap5JjC03qM39ctldvVj8W544sz",
-    "https://drive.google.com/uc?id=1ag__-rYKSd8oKuAlL8FwreocHelvCz6T",
-    "https://drive.google.com/uc?id=1GmSw2l9Rj3YEHOQoHClPraCS6aM6d7GT",
-    "https://drive.google.com/uc?id=1ONTxZ3J4bN4lQA5tBeAGSz-JgD7W_uA8"
+       "images": [
+        "/storage/2020/1.jpg",
+        "/storage/2020/2.jpg",
+        "/storage/2020/3.jpg",
+        "/storage/2020/4.jpg",
+        "/storage/2020/5.jpg",
+        "/storage/2020/6.jpg",
+        "/storage/2020/7.jpg",
+        "/storage/2020/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/11gNZELp5W59qpKEvFQSM3t_FL9XdErqn/preview",
-    "https://drive.google.com/file/d/11ySjIRzcg-8z6B_TURGPGAOUG5jNVu9U/preview"
   ]
     }
   }
@@ -3187,16 +3153,17 @@
       "payment_currency": "USD",
       "suitable_for": [],
       "contact": "",
-       "images": [
-    "https://drive.google.com/uc?id=1fooaZLqQuVjoaVYLAdaTmDujzjYymYZK",
-    "https://drive.google.com/uc?id=1r3cs-A7dkInjvP9z_kDaHxlvaLRbzYeI",
-    "https://drive.google.com/uc?id=13sIgw5BYx-kuVCak-bAaZiroMgsqoRQK",
-    "https://drive.google.com/uc?id=1a10mHgygfuOgK8V03Em1ttAG3Hq6GVZ9",
-    "https://drive.google.com/uc?id=1B3gTp-1WWJz3XJ51TChf8uDAxj4p9KSq"
+        "images": [
+        "/storage/2021/1.jpg",
+        "/storage/2021/2.jpg",
+        "/storage/2021/3.jpg",
+        "/storage/2021/4.jpg",
+        "/storage/2021/5.jpg",
+        "/storage/2021/6.jpg",
+        "/storage/2021/7.jpg",
+        "/storage/2021/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/12MlPidrxtOT7JJwUG_OO-FmDbOG4cWbm/preview",
-    "https://drive.google.com/file/d/1l9zmTRiZi1bdUuwYCbjmSLhm7GQl9nLu/preview"
   ]
     },
     "uz": {
@@ -3228,15 +3195,16 @@
       "suitable_for": [],
       "contact": "",
        "images": [
-    "https://drive.google.com/uc?id=1fooaZLqQuVjoaVYLAdaTmDujzjYymYZK",
-    "https://drive.google.com/uc?id=1r3cs-A7dkInjvP9z_kDaHxlvaLRbzYeI",
-    "https://drive.google.com/uc?id=13sIgw5BYx-kuVCak-bAaZiroMgsqoRQK",
-    "https://drive.google.com/uc?id=1a10mHgygfuOgK8V03Em1ttAG3Hq6GVZ9",
-    "https://drive.google.com/uc?id=1B3gTp-1WWJz3XJ51TChf8uDAxj4p9KSq"
+        "/storage/2021/1.jpg",
+        "/storage/2021/2.jpg",
+        "/storage/2021/3.jpg",
+        "/storage/2021/4.jpg",
+        "/storage/2021/5.jpg",
+        "/storage/2021/6.jpg",
+        "/storage/2021/7.jpg",
+        "/storage/2021/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/12MlPidrxtOT7JJwUG_OO-FmDbOG4cWbm/preview",
-    "https://drive.google.com/file/d/1l9zmTRiZi1bdUuwYCbjmSLhm7GQl9nLu/preview"
   ]
     }
   }
@@ -3282,14 +3250,16 @@
       "suitable_for": [],
       "contact": "",
       "images": [
-    "https://drive.google.com/uc?id=1ed0a4xJlQztTf4Kl5V-vrfjouBH7XVlp",
-    "https://drive.google.com/uc?id=1UUZKFkpKukZ3IgPFEkTwAfaROnBLEIgb",
-    "https://drive.google.com/uc?id=1ZHza4PvmvVIHUedGrwbPGKJAUPCjvJ5g",
-    "https://drive.google.com/uc?id=1V90UMp926Abqq0c0OO1E8yPUZjMkPcF6",
-    "https://drive.google.com/uc?id=1hSeygqPjRDPMZStD1tpnDSGZebevs_UT"
+        "/storage/2022/1.jpg",
+        "/storage/2022/2.jpg",
+        "/storage/2022/3.jpg",
+        "/storage/2022/4.jpg",
+        "/storage/2022/5.jpg",
+        "/storage/2022/6.jpg",
+        "/storage/2022/7.jpg",
+        "/storage/2022/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1N2Tkg3G6FOt08MeZbDccNTVIW0QoY3UY/preview"
   ]
     },
     "uz": {
@@ -3329,14 +3299,16 @@
       "suitable_for": [],
       "contact": "",
      "images": [
-    "https://drive.google.com/uc?id=1ed0a4xJlQztTf4Kl5V-vrfjouBH7XVlp",
-    "https://drive.google.com/uc?id=1UUZKFkpKukZ3IgPFEkTwAfaROnBLEIgb",
-    "https://drive.google.com/uc?id=1ZHza4PvmvVIHUedGrwbPGKJAUPCjvJ5g",
-    "https://drive.google.com/uc?id=1V90UMp926Abqq0c0OO1E8yPUZjMkPcF6",
-    "https://drive.google.com/uc?id=1hSeygqPjRDPMZStD1tpnDSGZebevs_UT"
+        "/storage/2022/1.jpg",
+        "/storage/2022/2.jpg",
+        "/storage/2022/3.jpg",
+        "/storage/2022/4.jpg",
+        "/storage/2022/5.jpg",
+        "/storage/2022/6.jpg",
+        "/storage/2022/7.jpg",
+        "/storage/2022/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1N2Tkg3G6FOt08MeZbDccNTVIW0QoY3UY/preview"
   ]
     }
   }
@@ -3374,16 +3346,16 @@
       "suitable_for": [],
       "contact": "",
      "images": [
-    "https://drive.google.com/uc?id=1xy2228Ps6SiTN6Ss2fGMo1B5bP2sDEGx",
-    "https://drive.google.com/uc?id=1Cl5eHyV1NkHrnZMWWAS8E8Zs64QmJQPK",
-    "https://drive.google.com/uc?id=1Mj0lbmT5h_DnhGeES54ULHPG0xso6vdD",
-    "https://drive.google.com/uc?id=19Bk9xNseyvbTuL1w-LabTRmjgD1fbZ6B",
-    "https://drive.google.com/uc?id=1xlmHRTSIeQ7hRrd5TgjToJFVvo4mUa66"
+        "/storage/2023/1.jpg",
+        "/storage/2023/2.jpg",
+        "/storage/2023/3.jpg",
+        "/storage/2023/4.jpg",
+        "/storage/2023/5.jpg",
+        "/storage/2023/6.jpg",
+        "/storage/2023/7.jpg",
+        "/storage/2023/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1C1zQ85ofObQ-eqvRM3aE-kol2azZhEbc/preview",
-    "https://drive.google.com/file/d/1yT9EqMi4IYzUygPEclQ2yDhBo_Rb9jGX/preview",
-    "https://drive.google.com/file/d/1f8UlMbwdUK0LkBh80FgforbYFIUj93hk/preview"
   ]
     },
     "uz": {
@@ -3415,16 +3387,16 @@
       "suitable_for": [],
       "contact": "",
     "images": [
-    "https://drive.google.com/uc?id=1xy2228Ps6SiTN6Ss2fGMo1B5bP2sDEGx",
-    "https://drive.google.com/uc?id=1Cl5eHyV1NkHrnZMWWAS8E8Zs64QmJQPK",
-    "https://drive.google.com/uc?id=1Mj0lbmT5h_DnhGeES54ULHPG0xso6vdD",
-    "https://drive.google.com/uc?id=19Bk9xNseyvbTuL1w-LabTRmjgD1fbZ6B",
-    "https://drive.google.com/uc?id=1xlmHRTSIeQ7hRrd5TgjToJFVvo4mUa66"
+        "/storage/2023/1.jpg",
+        "/storage/2023/2.jpg",
+        "/storage/2023/3.jpg",
+        "/storage/2023/4.jpg",
+        "/storage/2023/5.jpg",
+        "/storage/2023/6.jpg",
+        "/storage/2023/7.jpg",
+        "/storage/2023/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1C1zQ85ofObQ-eqvRM3aE-kol2azZhEbc/preview",
-    "https://drive.google.com/file/d/1yT9EqMi4IYzUygPEclQ2yDhBo_Rb9jGX/preview",
-    "https://drive.google.com/file/d/1f8UlMbwdUK0LkBh80FgforbYFIUj93hk/preview"
   ]
     }
   }
@@ -3470,15 +3442,16 @@
       "suitable_for": ["Инвестиции"],
       "contact": "",
       "images": [
-    "https://drive.google.com/uc?id=1SEDC4eWpn4PTLD7Ys48b2gwhGlzNhQ-p",
-    "https://drive.google.com/uc?id=1YusIrhR-Jzm-8ogPzqHopYIt5kI77HpJ",
-    "https://drive.google.com/uc?id=1ZkqumJwW1c_s9MDylwLKnMx_NVfmykqd",
-    "https://drive.google.com/uc?id=1-7dJKUSh54lHVP9eQny_Wz697FC6ksJm",
-    "https://drive.google.com/uc?id=1tBGmVwr9DLw1cLaqvRxj3zXKocO5Vb07"
+        "/storage/10012/1.jpg",
+        "/storage/10012/2.jpg",
+        "/storage/10012/3.jpg",
+        "/storage/10012/4.jpg",
+        "/storage/10012/5.jpg",
+        "/storage/10012/6.jpg",
+        "/storage/10012/7.jpg",
+        "/storage/10012/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1a0oWB7xi546IZXqddb6pIhS3cPg_BK46/preview",
-    "https://drive.google.com/file/d/1llMuk6KpmD4DA-4l9P8FGc3c020HFwP6/preview"
   ]
     },
     "uz": {
@@ -3518,15 +3491,16 @@
       "suitable_for": ["Investitsiya"],
       "contact": "",
       "images": [
-    "https://drive.google.com/uc?id=1SEDC4eWpn4PTLD7Ys48b2gwhGlzNhQ-p",
-    "https://drive.google.com/uc?id=1YusIrhR-Jzm-8ogPzqHopYIt5kI77HpJ",
-    "https://drive.google.com/uc?id=1ZkqumJwW1c_s9MDylwLKnMx_NVfmykqd",
-    "https://drive.google.com/uc?id=1-7dJKUSh54lHVP9eQny_Wz697FC6ksJm",
-    "https://drive.google.com/uc?id=1tBGmVwr9DLw1cLaqvRxj3zXKocO5Vb07"
+        "/storage/10012/1.jpg",
+        "/storage/10012/2.jpg",
+        "/storage/10012/3.jpg",
+        "/storage/10012/4.jpg",
+        "/storage/10012/5.jpg",
+        "/storage/10012/6.jpg",
+        "/storage/10012/7.jpg",
+        "/storage/10012/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1a0oWB7xi546IZXqddb6pIhS3cPg_BK46/preview",
-    "https://drive.google.com/file/d/1llMuk6KpmD4DA-4l9P8FGc3c020HFwP6/preview"
   ]
     }
   }
@@ -3563,16 +3537,15 @@
         "suitable_for": ["Гражданство", "Инвестиции"],
         "contact": "",
         "images": [
-    "https://drive.google.com/uc?id=1EUFJft1_V0W_uriEVqA-IBXo9rscp8dR",
-    "https://drive.google.com/uc?id=1xNPb2Xa7cS0r2ybXP9BhGidXXJ7r2FOp",
-    "https://drive.google.com/uc?id=1JPxULD1FC09mzkg4SdGUY80G_Tk_ZMiP",
-    "https://drive.google.com/uc?id=1OomV8CfGF6BIrwaS5MmFmyw0wXg1eK9Q",
-    "https://drive.google.com/uc?id=1RgO8I0BLvGAFC16xCmnjb33ZcvMnaTTO"
+        "/storage/10023/1.jpg",
+        "/storage/10023/2.jpg",
+        "/storage/10023/3.jpg",
+        "/storage/10023/4.jpg",
+        "/storage/10023/5.jpg",
+        "/storage/10023/6.jpg",
+        "/storage/10023/7.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/11dy8RNMmuY5WM8MnCRpUxZUkbSPYB52o/preview",
-    "https://drive.google.com/file/d/1gJGj2l-gP6BQdSlsyYc4bUsnuNV-JGJw/preview",
-    "https://drive.google.com/file/d/10lQsZrk9brXCaG1rzp_nm5it6Si3LFEb/preview"
   ]
       },
       "uz": {
@@ -3603,16 +3576,15 @@
         "suitable_for": ["Fuqarolik", "Investitsiya"],
         "contact": "",
          "images": [
-    "https://drive.google.com/uc?id=1EUFJft1_V0W_uriEVqA-IBXo9rscp8dR",
-    "https://drive.google.com/uc?id=1xNPb2Xa7cS0r2ybXP9BhGidXXJ7r2FOp",
-    "https://drive.google.com/uc?id=1JPxULD1FC09mzkg4SdGUY80G_Tk_ZMiP",
-    "https://drive.google.com/uc?id=1OomV8CfGF6BIrwaS5MmFmyw0wXg1eK9Q",
-    "https://drive.google.com/uc?id=1RgO8I0BLvGAFC16xCmnjb33ZcvMnaTTO"
+        "/storage/10023/1.jpg",
+        "/storage/10023/2.jpg",
+        "/storage/10023/3.jpg",
+        "/storage/10023/4.jpg",
+        "/storage/10023/5.jpg",
+        "/storage/10023/6.jpg",
+        "/storage/10023/7.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/11dy8RNMmuY5WM8MnCRpUxZUkbSPYB52o/preview",
-    "https://drive.google.com/file/d/1gJGj2l-gP6BQdSlsyYc4bUsnuNV-JGJw/preview",
-    "https://drive.google.com/file/d/10lQsZrk9brXCaG1rzp_nm5it6Si3LFEb/preview"
   ]
       }
     }
@@ -3657,15 +3629,14 @@
         "suitable_for": ["Гражданство", "Инвестиции"],
         "contact": "",
        "images": [
-    "https://drive.google.com/uc?id=1YZW5TGNGLbE3V1kAnVyUDRa2sQ8CvwAR",
-    "https://drive.google.com/uc?id=1l2r05nQ-uG5e1cgmOzd0Cs-L2gGDyvRY",
-    "https://drive.google.com/uc?id=1YROCZiXOfV76oE7Cj1852VpwgI8eW9AC",
-    "https://drive.google.com/uc?id=1OLa5XlltJykMej2nqXqpd4ava-CQ7tZ8",
-    "https://drive.google.com/uc?id=1A39cNLR8bEcun2X8jRoh7u2pFNdAJrKn"
+        "/storage/10025/1.jpg",
+        "/storage/10025/3.jpg",
+        "/storage/10025/4.jpg",
+        "/storage/10025/6.jpg",
+        "/storage/10025/7.jpg",
+        "/storage/10025/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1V67D5vYFilbx046GTG3HW2J_nCD2R4Gm/preview",
-    "https://drive.google.com/file/d/1u6nwpP7JaxTNfmlaKr_-LbM-pPV79d-G/preview"
   ]
       },
       "uz": {
@@ -3703,123 +3674,19 @@
         "suitable_for": ["Fuqarolik", "Investitsiya"],
         "contact": "",
        "images": [
-    "https://drive.google.com/uc?id=1YZW5TGNGLbE3V1kAnVyUDRa2sQ8CvwAR",
-    "https://drive.google.com/uc?id=1l2r05nQ-uG5e1cgmOzd0Cs-L2gGDyvRY",
-    "https://drive.google.com/uc?id=1YROCZiXOfV76oE7Cj1852VpwgI8eW9AC",
-    "https://drive.google.com/uc?id=1OLa5XlltJykMej2nqXqpd4ava-CQ7tZ8",
-    "https://drive.google.com/uc?id=1A39cNLR8bEcun2X8jRoh7u2pFNdAJrKn"
+        "/storage/10025/1.jpg",
+        "/storage/10025/3.jpg",
+        "/storage/10025/4.jpg",
+        "/storage/10025/6.jpg",
+        "/storage/10025/7.jpg",
+        "/storage/10025/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1V67D5vYFilbx046GTG3HW2J_nCD2R4Gm/preview",
-    "https://drive.google.com/file/d/1u6nwpP7JaxTNfmlaKr_-LbM-pPV79d-G/preview"
   ]
       }
     }
   },
-  {
-    "id": 35,
-    "region": "europe",
-    "language_versions": {
-      "ru": {
-        "district": "Kağıthane, 10026",
-        "region": "Кагытхане, Стамбул",
-        "description": "Genyap Loft — бутик-комплекс на 87 квартир, расположенный в центральной части Стамбула, в районе Кагытхане. Уникальная архитектура, вид на Белградский лес, фитнес-зал, детская площадка, складские помещения и круглосуточная охрана.",
-        "status": "Готов к заселению",
-        "plans": [
-          "1+1 — 60 м² — $322,000 – $377,000",
-          "2+1 — 126 м² — $609,000 – $784,000"
-        ],
-        "price": "от $322,000",
-        "payment": {
-          "initial_payment": "50% первоначальный взнос",
-          "installment": "Рассрочка 12 месяцев"
-        },
-        "advantages": [
-          "Панорамные виды на лес и город",
-          "Личный склад 1.9–4.2 м²",
-          "Закрытая парковка и охрана 24/7",
-          "Готовность TAPU",
-          "Подходит для гражданства"
-        ],
-        "distances": [
-          "Метро M11 — 15 мин пешком",
-          "Метробус — 15 мин на машине",
-          "Автобусная остановка — 1 минута",
-          "Вади Истанбул — 5 мин",
-          "Axis Mall — 7 мин",
-          "Парк Özdilek — 10 мин",
-          "Trump Towers — 13 мин",
-          "Univ. Kent — 4 мин",
-          "Univ. Atlas — 15 мин",
-          "20–30 мин до аэропортов и мостов"
-        ],
-        "amenities": [],
-        "payment_currency": "USD",
-        "suitable_for": ["Инвестиции", "Гражданство"],
-        "contact": "",
-        "images": [
-    "https://drive.google.com/uc?id=1aj_7p-Z5-54Xw1oIK2745zjGF-FNF0V2",
-    "https://drive.google.com/uc?id=1BAEnAMSRCwzGe2kjTfjw8CkKL4ZUDC6O",
-    "https://drive.google.com/uc?id=19ksh0L8D-wV_DUSHZlNAzLYVLj7_Sd7Q",
-    "https://drive.google.com/uc?id=1ywvZAMQvfs2oYgiaLmJbeBJONkyGeHf4",
-    "https://drive.google.com/uc?id=1359PYC9v03gdhgA_0uh7c-J4nitb3dH-"
-  ],
-  "videos": [
-    "https://drive.google.com/file/d/1ciQY28umvSHvB-nxEoSTwpmHRwQUhTAq/preview",
-    "https://drive.google.com/file/d/10BedmC6AQoGURH4fMsk4Hli2W9JkHo_D/preview"
-  ]
-      },
-      "uz": {
-        "district": "Kağıthane, 10026",
-        "region": "Kağıthane, Istanbul",
-        "description": "Genyap Loft — 87 kvartirali butik-kompleks, Kağıthane markazida joylashgan. Mahjongar arxitekturasi, Belgrad o‘rmoni panoramasi, fitnes, bolalar maydonchasi, saqlash xonasi va 24/7 himoya mavjud.",
-        "status": "Yashashga tayyor",
-        "plans": [
-          "1+1 — 60 m² — $322,000 – $377,000",
-          "2+1 — 126 m² — $609,000 – $784,000"
-        ],
-        "price": "$322,000 dan boshlab",
-        "payment": {
-          "initial_payment": "50% dastlabki to‘lov",
-          "installment": "12 oylik to‘lov"
-        },
-        "advantages": [
-          "O‘rmon va shahar panoramali ko‘rinish",
-          "Shaxsiy omborxona 1.9–4.2 m²",
-          "Yopiq parking va 24/7 xavfsizlik",
-          "TAPU tayyor",
-          "Fuqarolik olishga mos"
-        ],
-        "distances": [
-          "Metro M11 — 15 daqiqa piyoda",
-          "Metrobüs — 15 daqiqa mashinada",
-          "Avtobus bekati — 1 daqiqa",
-          "Vadi Istanbul — 5 daqiqa",
-          "Axis Mall — 7 daqiqa",
-          "Özdilek bogʻi — 10 daqiqa",
-          "Trump Towers — 13 daqiqa",
-          "Kent Universiteti — 4 daqiqa",
-          "Atlas Universiteti — 15 daqiqa",
-          "20–30 daqiqa aeroportlar va ko‘priklarga"
-        ],
-        "amenities": [],
-        "payment_currency": "USD",
-        "suitable_for": ["Investitsiya", "Fuqarolik"],
-        "contact": "",
-        "images": [
-    "https://drive.google.com/uc?id=1aj_7p-Z5-54Xw1oIK2745zjGF-FNF0V2",
-    "https://drive.google.com/uc?id=1BAEnAMSRCwzGe2kjTfjw8CkKL4ZUDC6O",
-    "https://drive.google.com/uc?id=19ksh0L8D-wV_DUSHZlNAzLYVLj7_Sd7Q",
-    "https://drive.google.com/uc?id=1ywvZAMQvfs2oYgiaLmJbeBJONkyGeHf4",
-    "https://drive.google.com/uc?id=1359PYC9v03gdhgA_0uh7c-J4nitb3dH-"
-  ],
-  "videos": [
-    "https://drive.google.com/file/d/1ciQY28umvSHvB-nxEoSTwpmHRwQUhTAq/preview",
-    "https://drive.google.com/file/d/10BedmC6AQoGURH4fMsk4Hli2W9JkHo_D/preview"
-  ]
-      }
-    }
-  },
+  
   {
   "id": 36,
   "region": "europe",
@@ -3869,12 +3736,12 @@
       "payment_currency": "USD",
       "contact": "",
  "images": [
-    "https://drive.google.com/uc?id=1ub0SD0PegFQ2xeUdhw1iWTbdnDiLdtbH",
-    "https://drive.google.com/uc?id=1kxdgaIPXmwDWpOZyn8tyDqpEdjJlP_CL",
-    "https://drive.google.com/uc?id=1NkZ8VS9JGi_5WYIBEVM23eOarj04VQ3Q",
-    "https://drive.google.com/uc?id=1qAMwYdPfLrqWiwj5twEp3A-OXCm0Uwum",
-    "https://drive.google.com/uc?id=1hkDyZ-El5fBtbFSfG56VSxCDY_2O8zbI"
-  ],      "videos": []
+        "/storage/10031/1.jpg",
+        "/storage/10031/3.jpg",
+        "/storage/10031/4.jpg",
+        "/storage/10031/2.jpg"
+  ],
+      "videos": []
     },
     "uz": {
       "district": "Kağıthane, 10031",
@@ -3921,11 +3788,10 @@
       "payment_currency": "USD",
       "contact": "",
  "images": [
-    "https://drive.google.com/uc?id=1ub0SD0PegFQ2xeUdhw1iWTbdnDiLdtbH",
-    "https://drive.google.com/uc?id=1kxdgaIPXmwDWpOZyn8tyDqpEdjJlP_CL",
-    "https://drive.google.com/uc?id=1NkZ8VS9JGi_5WYIBEVM23eOarj04VQ3Q",
-    "https://drive.google.com/uc?id=1qAMwYdPfLrqWiwj5twEp3A-OXCm0Uwum",
-    "https://drive.google.com/uc?id=1hkDyZ-El5fBtbFSfG56VSxCDY_2O8zbI"
+   "/storage/10031/1.jpg",
+        "/storage/10031/3.jpg",
+        "/storage/10031/4.jpg",
+        "/storage/10031/2.jpg"
   ],      "videos": []
     }
   }
@@ -3965,17 +3831,14 @@
         "payment_currency": "USD",
         "contact": "",
         "images": [
-  "https://drive.google.com/uc?id=1kkx4K0yW-qaDCAkjd3yGNTcnaiiF0GkU",
-  "https://drive.google.com/uc?id=1ddkyfx_ZO1l3EAPX8whK-7mkslMyEt-I",
-  "https://drive.google.com/uc?id=1r3VWjcmqfTeaKtIYS9wEiZK2Ld8lboxZ",
-  "https://drive.google.com/uc?id=1wGSZK76nrmrq1JVzajD__087wph_bJ03",
-  "https://drive.google.com/uc?id=1jDk9EyHmcmtjdaXZHk1a_H7-lcOCJAp9",
-  "https://drive.google.com/uc?id=1d2oXYWn_1g8NttjJJTOuUyk0kZQ4ffkx",
-  "https://drive.google.com/uc?id=1bT4ZSdPvw3BRTGcIQkaCDx3fIPZWeLHy"
-],
+        "/storage/2027/1.jpeg",
+        "/storage/2027/2.jpeg",
+        "/storage/2027/3.jpeg",
+        "/storage/2027/4.jpeg",
+        "/storage/2027/5.jpeg",
+        "/storage/2027/6.jpeg"
+  ],
 "videos": [
-  "https://drive.google.com/file/d/1TBcQcdD6xv8xCoZjHP2W_n2dhvrVfLEr/preview",
-  "https://drive.google.com/file/d/1qIkp6OFeLDe5tqJbHl7SNtlRjj1gCVHf/preview"
 ]
 
       },
@@ -4010,110 +3873,20 @@
         "payment_currency": "USD",
         "contact": "",
         "images": [
-  "https://drive.google.com/uc?id=1kkx4K0yW-qaDCAkjd3yGNTcnaiiF0GkU",
-  "https://drive.google.com/uc?id=1ddkyfx_ZO1l3EAPX8whK-7mkslMyEt-I",
-  "https://drive.google.com/uc?id=1r3VWjcmqfTeaKtIYS9wEiZK2Ld8lboxZ",
-  "https://drive.google.com/uc?id=1wGSZK76nrmrq1JVzajD__087wph_bJ03",
-  "https://drive.google.com/uc?id=1jDk9EyHmcmtjdaXZHk1a_H7-lcOCJAp9",
-  "https://drive.google.com/uc?id=1d2oXYWn_1g8NttjJJTOuUyk0kZQ4ffkx",
-  "https://drive.google.com/uc?id=1bT4ZSdPvw3BRTGcIQkaCDx3fIPZWeLHy"
-],
+        "/storage/2027/1.jpeg",
+        "/storage/2027/2.jpeg",
+        "/storage/2027/3.jpeg",
+        "/storage/2027/4.jpeg",
+        "/storage/2027/5.jpeg",
+        "/storage/2027/6.jpeg"
+  ],
 "videos": [
-  "https://drive.google.com/file/d/1TBcQcdD6xv8xCoZjHP2W_n2dhvrVfLEr/preview",
-  "https://drive.google.com/file/d/1qIkp6OFeLDe5tqJbHl7SNtlRjj1gCVHf/preview"
 ]
 
       }
     }
   },
   {
-    "id": 38,
-    "region": "asia",
-    "language_versions": {
-      "ru": {
-        "district": "Ataşehir, 2029",
-        "region": "Аташехир, Стамбул",
-        "description": "Angel City — современный многофункциональный комплекс с жилыми, офисными и коммерческими помещениями. Архитектура здания выделяется кирпичной отделкой, продуманной вертикальной геометрией и зелёными балконами.",
-        "status": "Уточняется индивидуально",
-        "plans": [
-          "1+1 — 78.24–96.97 м² — $339,802 – $421,148",
-          "2+1 — 117.34–161.70 м² — $509,616 – $702,275",
-          "2+1 Duplex — 178.92–217.28 м² — $777,063 – $943,663",
-          "3+1 Duplex — 200.27–240.13 м² — $869,788 – $1,042,903",
-          "3.5+1 Duplex — 299.40 м² — $1,300,317",
-          "Коммерция — 230.66–1,319.67 м² — $1,001,774 – $5,731,426",
-          "Офисы — 44.11–276.27 м² — $191,573 – $1,199,861"
-        ],
-        "price": "от $339,802",
-        "payment": {
-          "initial_payment": "",
-          "installment": "",
-          "full_payment_discount": ""
-        },
-        "advantages": [
-          "Жилые квартиры, дуплексы, офисы, коммерция",
-          "Современный архитектурный стиль",
-          "Широкий выбор метражей",
-          "Офисы и коммерция с отдельным входом"
-        ],
-        "distances": [],
-        "amenities": [],
-        "suitable_for": ["Инвестиции", "Проживание", "Бизнес"],
-        "payment_currency": "USD",
-        "contact": "",
-"images": [
-  "https://drive.google.com/uc?id=1IqghdTzERUdXQJtZ0IlqO9me81pMDFra",
-  "https://drive.google.com/uc?id=1AjKbPFP08K_gwdiIWFSb2I_qEcgf2SAW",
-  "https://drive.google.com/uc?id=1seV1FcHxhJ3xsYjf33QeSOdtdENnnJnG",
-  "https://drive.google.com/uc?id=1gNooHyI0N0makKkuZikphHUOYukcoxcm",
-  "https://drive.google.com/uc?id=1oqqOPaRa0gXbOzMNi0c0qnAGAHeVHsvO",
-  "https://drive.google.com/uc?id=1SVJZZBgky78EWHpD6_JSKv-fg_ZFI7kw",
-  "https://drive.google.com/uc?id=1TIauTxyJ0laA3S8ZCNFmH4a_cwBi7icf"
-],        "videos": []
-      },
-      "uz": {
-        "district": "Ataşehir, 2029",
-        "region": "Ataşehir, Istanbul",
-        "description": "Angel City — bu zamonaviy ko‘p funksiyali majmua bo‘lib, yashash, ofis va tijorat binolarini o‘z ichiga oladi. Loyihaning g‘ishtli fasadi, vertikal shakllar va yashil balkonlari bilan ajralib turadi.",
-        "status": "Alohida aniqlanadi",
-        "plans": [
-          "1+1 — 78.24–96.97 m² — $339,802 – $421,148",
-          "2+1 — 117.34–161.70 m² — $509,616 – $702,275",
-          "2+1 Duplex — 178.92–217.28 m² — $777,063 – $943,663",
-          "3+1 Duplex — 200.27–240.13 m² — $869,788 – $1,042,903",
-          "3.5+1 Duplex — 299.40 m² — $1,300,317",
-          "Tijorat joylari — 230.66–1,319.67 m² — $1,001,774 – $5,731,426",
-          "Ofislar — 44.11–276.27 m² — $191,573 – $1,199,861"
-        ],
-        "price": "$339,802 dan boshlab",
-        "payment": {
-          "initial_payment": "",
-          "installment": "",
-          "full_payment_discount": ""
-        },
-        "advantages": [
-          "Yashash, dubliks, ofis va tijorat binolari",
-          "Zamonaviy arxitektura",
-          "Keng maydon tanlovi",
-          "Ofislar va tijorat joylari alohida kirish bilan"
-        ],
-        "distances": [],
-        "amenities": [],
-        "suitable_for": ["Investitsiya", "Yashash", "Biznes"],
-        "payment_currency": "USD",
-        "contact": "",
-"images": [
-  "https://drive.google.com/uc?id=1IqghdTzERUdXQJtZ0IlqO9me81pMDFra",
-  "https://drive.google.com/uc?id=1AjKbPFP08K_gwdiIWFSb2I_qEcgf2SAW",
-  "https://drive.google.com/uc?id=1seV1FcHxhJ3xsYjf33QeSOdtdENnnJnG",
-  "https://drive.google.com/uc?id=1gNooHyI0N0makKkuZikphHUOYukcoxcm",
-  "https://drive.google.com/uc?id=1oqqOPaRa0gXbOzMNi0c0qnAGAHeVHsvO",
-  "https://drive.google.com/uc?id=1SVJZZBgky78EWHpD6_JSKv-fg_ZFI7kw",
-  "https://drive.google.com/uc?id=1TIauTxyJ0laA3S8ZCNFmH4a_cwBi7icf"
-],        "videos": []
-      }
-    }
-  },{
     "id": 39,
     "region": "asia",
     "language_versions": {
@@ -4164,18 +3937,16 @@
         "payment_currency": "USD",
         "contact": "",
 "images": [
-  "https://drive.google.com/uc?id=1mr6HSfphEs9eOAOHF3tvSDftltucfVP4",
-  "https://drive.google.com/uc?id=1bdRvvnJWpbLWjxU2glAYhRNw6-RF-IuY",
-  "https://drive.google.com/uc?id=1HqYnCrKSvlv3bxGuCoTp8mLE9fi6ZS4i",
-  "https://drive.google.com/uc?id=1bLB68IcDfYqpIGaDQ8IqQR4BgcYEllRT",
-  "https://drive.google.com/uc?id=1llV1__7u8SgQLtyUKsH6O2lo0SytpCwc",
-  "https://drive.google.com/uc?id=1MwFLlJrUS3KiNS_GO8z7EuYm42HAWIgA",
-  "https://drive.google.com/uc?id=1Uo3ZgDFQDKezj6vCGD17gZhIM0aCNEup",
-  "https://drive.google.com/uc?id=1-HUqvaGNfHzVZHeWG5-MF6HNrzARLwN1",
-  "https://drive.google.com/uc?id=10I_YVpM4J0y0OgDldXLoykGyweUXegDJ"
-],        "videos": [
-  "https://drive.google.com/file/d/16k03mZ6oAUB8ezcN55UQ4nlIH_XqEFzX/preview",
-  "https://drive.google.com/file/d/16jdDUjwhMRgZu0jnKN7kqD4ty5WldWo2/preview"
+        "/storage/2030/1.jpeg",
+        "/storage/2030/2.jpeg",
+        "/storage/2030/3.jpeg",
+        "/storage/2030/4.jpeg",
+        "/storage/2030/5.jpeg",
+        "/storage/2030/6.jpg",
+        "/storage/2030/7.jpg",
+        "/storage/2030/8.jpg"
+  ],
+     "videos": [
 ]
 
       },
@@ -4226,18 +3997,15 @@
         "payment_currency": "USD",
         "contact": "",
        "images": [
-  "https://drive.google.com/uc?id=1mr6HSfphEs9eOAOHF3tvSDftltucfVP4",
-  "https://drive.google.com/uc?id=1bdRvvnJWpbLWjxU2glAYhRNw6-RF-IuY",
-  "https://drive.google.com/uc?id=1HqYnCrKSvlv3bxGuCoTp8mLE9fi6ZS4i",
-  "https://drive.google.com/uc?id=1bLB68IcDfYqpIGaDQ8IqQR4BgcYEllRT",
-  "https://drive.google.com/uc?id=1llV1__7u8SgQLtyUKsH6O2lo0SytpCwc",
-  "https://drive.google.com/uc?id=1MwFLlJrUS3KiNS_GO8z7EuYm42HAWIgA",
-  "https://drive.google.com/uc?id=1Uo3ZgDFQDKezj6vCGD17gZhIM0aCNEup",
-  "https://drive.google.com/uc?id=1-HUqvaGNfHzVZHeWG5-MF6HNrzARLwN1",
-  "https://drive.google.com/uc?id=10I_YVpM4J0y0OgDldXLoykGyweUXegDJ"
-],        "videos": [
-  "https://drive.google.com/file/d/16k03mZ6oAUB8ezcN55UQ4nlIH_XqEFzX/preview",
-  "https://drive.google.com/file/d/16jdDUjwhMRgZu0jnKN7kqD4ty5WldWo2/preview"
+        "/storage/2030/1.jpeg",
+        "/storage/2030/2.jpeg",
+        "/storage/2030/3.jpeg",
+        "/storage/2030/4.jpeg",
+        "/storage/2030/5.jpeg",
+        "/storage/2030/6.jpg",
+        "/storage/2030/7.jpg",
+        "/storage/2030/8.jpg"
+  ],       "videos": [
 ]
       }
     }
@@ -4274,19 +4042,17 @@
         "payment_currency": "TRY",
         "contact": "",
 "images": [
-  "https://drive.google.com/uc?id=1vZuLO1ZXnMqF3D83eLHmIYvc9PTIKmMv",
-  "https://drive.google.com/uc?id=13znSv6XzOByrAGC97tceaB-QuVGR3JYo",
-  "https://drive.google.com/uc?id=15pq910z4piUXs1IbNDzy4hvOA_Bo_BaM",
-  "https://drive.google.com/uc?id=1IAIeU3QGa0r37iVfa_v7AZHdWtyjsFSw",
-  "https://drive.google.com/uc?id=1pNu5pD_qHZP3tCn-s2FMxBvs0OKP50Ah",
-  "https://drive.google.com/uc?id=11MVgEol_SCT-edjOIiFYPKdh7VhWnyPk",
-  "https://drive.google.com/uc?id=1-vw8aE_XqzyVgDgoIYy2F-Vjr52uNYIY",
-  "https://drive.google.com/uc?id=1KexddSNpuV8aNfPqIX_EyLtXVbqjDlF4"
-],       "videos": [
-  "https://drive.google.com/file/d/1_Ak74TG57F5pPjDhqW9YhxLnJf04ZshA/preview",
-  "https://drive.google.com/file/d/1BOXWOhyNpAugYzF4l6pKlFG66cUpgfu1/preview",
-  "https://drive.google.com/file/d/1ioW350XySyWNTdtQOI3YGMUvr5Ap4dBh/preview",
-  "https://drive.google.com/file/d/1mo5-wZxIYMjfb0I0wC4q3ESz__4j_QPc/preview"
+        "/storage/2034/1.jpg",
+        "/storage/2034/2.jpg",
+        "/storage/2034/3.jpg",
+        "/storage/2034/4.jpg",
+        "/storage/2034/5.jpg",
+        "/storage/2034/6.jpg",
+        "/storage/2034/7.jpg",
+        "/storage/2034/8.jpg",
+        "/storage/2034/9.jpg"
+  ],      "videos": [
+  
 ]
 
       },
@@ -4318,19 +4084,18 @@
         "payment_currency": "TRY",
         "contact": "",
         "images": [
-  "https://drive.google.com/uc?id=1vZuLO1ZXnMqF3D83eLHmIYvc9PTIKmMv",
-  "https://drive.google.com/uc?id=13znSv6XzOByrAGC97tceaB-QuVGR3JYo",
-  "https://drive.google.com/uc?id=15pq910z4piUXs1IbNDzy4hvOA_Bo_BaM",
-  "https://drive.google.com/uc?id=1IAIeU3QGa0r37iVfa_v7AZHdWtyjsFSw",
-  "https://drive.google.com/uc?id=1pNu5pD_qHZP3tCn-s2FMxBvs0OKP50Ah",
-  "https://drive.google.com/uc?id=11MVgEol_SCT-edjOIiFYPKdh7VhWnyPk",
-  "https://drive.google.com/uc?id=1-vw8aE_XqzyVgDgoIYy2F-Vjr52uNYIY",
-  "https://drive.google.com/uc?id=1KexddSNpuV8aNfPqIX_EyLtXVbqjDlF4"
+          "/storage/2034/1.jpg",
+        "/storage/2034/2.jpg",
+        "/storage/2034/3.jpg",
+        "/storage/2034/4.jpg",
+        "/storage/2034/5.jpg",
+        "/storage/2034/6.jpg",
+        "/storage/2034/7.jpg",
+        "/storage/2034/8.jpg",
+        "/storage/2034/9.jpg"
+ 
 ],       "videos": [
-  "https://drive.google.com/file/d/1_Ak74TG57F5pPjDhqW9YhxLnJf04ZshA/preview",
-  "https://drive.google.com/file/d/1BOXWOhyNpAugYzF4l6pKlFG66cUpgfu1/preview",
-  "https://drive.google.com/file/d/1ioW350XySyWNTdtQOI3YGMUvr5Ap4dBh/preview",
-  "https://drive.google.com/file/d/1mo5-wZxIYMjfb0I0wC4q3ESz__4j_QPc/preview"
+
 ]
       }
     }
@@ -4382,18 +4147,14 @@
         "payment_currency": "USD",
         "contact": "",
         "images": [
-    "https://drive.google.com/uc?id=1ML4fekWOl8IdLc_ZUcDOIsafhCyrsF5c",
-    "https://drive.google.com/uc?id=1UCWJTIe8YSsTbG8RCQzWnntt6HT8pnTD",
-    "https://drive.google.com/uc?id=1w8Y-SY5QGTQvgdFHpBwmpkmP7CYaKfHt",
-    "https://drive.google.com/uc?id=1-OcZ54veCcHI9sQZdOJdiSkhltTSFv-W",
-    "https://drive.google.com/uc?id=1IMM7weSq-mafM3F7Fk3dyqoGJ_HuDtTX",
-    "https://drive.google.com/uc?id=1dzZTB1Xg3jrgC3Dpwu-w421S14KtzZUR"
+        "/storage/2035/1.jpg",
+        "/storage/2035/2.jpg",
+        "/storage/2035/3.jpg",
+        "/storage/2035/4.jpg",
+        "/storage/2035/5.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1JIUsVMOKBAQQQ3bY5BU4_rytt1-5nLJ6/preview",
-    "https://drive.google.com/file/d/10ESBVqh-ujpvoucL1R8fCk9J6CyOZB4R/preview",
-    "https://drive.google.com/file/d/1GBqv-vntbuQFHc_4a3bjdWk0WmjWQbBI/preview",
-    "https://drive.google.com/file/d/1dcmBLENIHMZ892eO_Ih0a0OH_3mP6KXI/preview"
+  
   ]
       },
       "uz": {
@@ -4439,18 +4200,14 @@
         "payment_currency": "USD",
         "contact": "",
        "images": [
-    "https://drive.google.com/uc?id=1ML4fekWOl8IdLc_ZUcDOIsafhCyrsF5c",
-    "https://drive.google.com/uc?id=1UCWJTIe8YSsTbG8RCQzWnntt6HT8pnTD",
-    "https://drive.google.com/uc?id=1w8Y-SY5QGTQvgdFHpBwmpkmP7CYaKfHt",
-    "https://drive.google.com/uc?id=1-OcZ54veCcHI9sQZdOJdiSkhltTSFv-W",
-    "https://drive.google.com/uc?id=1IMM7weSq-mafM3F7Fk3dyqoGJ_HuDtTX",
-    "https://drive.google.com/uc?id=1dzZTB1Xg3jrgC3Dpwu-w421S14KtzZUR"
+        "/storage/2035/1.jpg",
+        "/storage/2035/2.jpg",
+        "/storage/2035/3.jpg",
+        "/storage/2035/4.jpg",
+        "/storage/2035/5.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1JIUsVMOKBAQQQ3bY5BU4_rytt1-5nLJ6/preview",
-    "https://drive.google.com/file/d/10ESBVqh-ujpvoucL1R8fCk9J6CyOZB4R/preview",
-    "https://drive.google.com/file/d/1GBqv-vntbuQFHc_4a3bjdWk0WmjWQbBI/preview",
-    "https://drive.google.com/file/d/1dcmBLENIHMZ892eO_Ih0a0OH_3mP6KXI/preview"
+ 
   ]
       }
     }
@@ -4505,16 +4262,17 @@
         "payment_currency": "USD",
         "contact": "",
         "images": [
-    "https://drive.google.com/uc?id=1CLdTOSUsldA28KvBeR-GeRnFQUNQk0dO",
-    "https://drive.google.com/uc?id=1fJT7JI8sJRC3asjR2tBO_czixCR1qZ4M",
-    "https://drive.google.com/uc?id=1d_AigtVcZ1Vt_FBvuagWbLKH8Rnlo9Kd",
-    "https://drive.google.com/uc?id=1d_AigtVcZ1Vt_FBvuagWbLKH8Rnlo9Kd",
-    "https://drive.google.com/uc?id=1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT",
-    "https://drive.google.com/uc?id=1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT"
+        "/storage/10033/1.jpg",
+        "/storage/10033/2.jpg",
+        "/storage/10033/3.jpg",
+        "/storage/10033/4.jpg",
+        "/storage/10033/5.jpg",
+        "/storage/10033/6.jpg",
+        "/storage/10033/7.jpg",
+        "/storage/10033/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT/preview",
-    "https://drive.google.com/file/d/1Ite3EYNLE3DExDG85YP_rTfqRMvPkxJb/preview"
+   
   ]
       },
       "uz": {
@@ -4564,16 +4322,16 @@
         "payment_currency": "USD",
         "contact": "",
        "images": [
-    "https://drive.google.com/uc?id=1CLdTOSUsldA28KvBeR-GeRnFQUNQk0dO",
-    "https://drive.google.com/uc?id=1fJT7JI8sJRC3asjR2tBO_czixCR1qZ4M",
-    "https://drive.google.com/uc?id=1d_AigtVcZ1Vt_FBvuagWbLKH8Rnlo9Kd",
-    "https://drive.google.com/uc?id=1d_AigtVcZ1Vt_FBvuagWbLKH8Rnlo9Kd",
-    "https://drive.google.com/uc?id=1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT",
-    "https://drive.google.com/uc?id=1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT"
+         "/storage/10033/1.jpg",
+        "/storage/10033/2.jpg",
+        "/storage/10033/3.jpg",
+        "/storage/10033/4.jpg",
+        "/storage/10033/5.jpg",
+        "/storage/10033/6.jpg",
+        "/storage/10033/7.jpg",
+        "/storage/10033/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1MzoQypbmPt6aFOECgK2_hkgwD1grxDrT/preview",
-    "https://drive.google.com/file/d/1Ite3EYNLE3DExDG85YP_rTfqRMvPkxJb/preview"
   ]
       }
     }
@@ -4624,15 +4382,16 @@
         "payment_currency": "TRY",
         "contact": "",
          "images": [
-    "https://drive.google.com/uc?id=1qRj2UDg-IQkNQYOj4EYvKe8E8tmCluOH",
-    "https://drive.google.com/uc?id=1MdmmnitsrpnPUUJAN1Ws4nTyEoUHmief",
-    "https://drive.google.com/uc?id=1OwdEvF97XUxLJWEGRf6IStI8IYzash36",
-    "https://drive.google.com/uc?id=1K2FfLscjhUAkJpcTx4p4DgIzRqsSQCpt",
-    "https://drive.google.com/uc?id=1FeKpSBMAyX0C_-53GbMyPxsIJAUXa_iy",
-    "https://drive.google.com/uc?id=1U-xrSrC1sQvB4yqMdjQzUdSj5fMa00cB"
+        "/storage/10035/1.jpg",
+        "/storage/10035/2.jpg",
+        "/storage/10035/3.jpg",
+        "/storage/10035/4.jpg",
+        "/storage/10035/5.jpg",
+        "/storage/10035/6.jpg",
+        "/storage/10035/7.jpg",
+        "/storage/10035/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1QAk8GKQxW6A30wbHza4_ZxYuyTcBQU3e/preview"
   ]
       },
       "uz": {
@@ -4677,121 +4436,21 @@
         "payment_currency": "TRY",
         "contact": "",
          "images": [
-    "https://drive.google.com/uc?id=1qRj2UDg-IQkNQYOj4EYvKe8E8tmCluOH",
-    "https://drive.google.com/uc?id=1MdmmnitsrpnPUUJAN1Ws4nTyEoUHmief",
-    "https://drive.google.com/uc?id=1OwdEvF97XUxLJWEGRf6IStI8IYzash36",
-    "https://drive.google.com/uc?id=1K2FfLscjhUAkJpcTx4p4DgIzRqsSQCpt",
-    "https://drive.google.com/uc?id=1FeKpSBMAyX0C_-53GbMyPxsIJAUXa_iy",
-    "https://drive.google.com/uc?id=1U-xrSrC1sQvB4yqMdjQzUdSj5fMa00cB"
+           "/storage/10035/1.jpg",
+        "/storage/10035/2.jpg",
+        "/storage/10035/3.jpg",
+        "/storage/10035/4.jpg",
+        "/storage/10035/5.jpg",
+        "/storage/10035/6.jpg",
+        "/storage/10035/7.jpg",
+        "/storage/10035/8.jpg"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1QAk8GKQxW6A30wbHza4_ZxYuyTcBQU3e/preview"
   ]
       }
     }
   },
-  {
-    "id": 44,
-    "region": "europe",
-    "language_versions": {
-      "ru": {
-        "district": "Kağıthane, 10038",
-        "region": "Кагытхане, Стамбул",
-        "description": "Colony 21 — жилой комплекс из одного блока на 6 этажей, расположен в районе Каытхане. Проект включает 101 апартамент форматов 0+1 и 1+1 и подходит для инвестиций, аренды или проживания.",
-        "status": "Сдача: 30 июня 2026",
-        "plans": [
-          "1+0 — 39.91–61.04 м² — $150,000 – $233,000",
-          "1+1 — 49.09–85.6 м² — $204,000 – $328,000"
-        ],
-        "price": "от $150,000",
-        "payment": {
-          "initial_payment": "30% — рассрочка на 12 мес; 40% — на 24 мес; 50% — на 36 мес",
-          "installment": "до 36 месяцев",
-          "full_payment_discount": ""
-        },
-        "advantages": [
-          "1 блок, 6 этажей",
-          "101 квартира: 0+1 и 1+1",
-          "Фитнес-зал, парковка",
-          "НДС — 1%, налог TAPU — 0%",
-          "Гражданство подходит"
-        ],
-        "distances": [
-          "Метро — 3 мин",
-          "Axis Mall — 3 мин",
-          "Аэропорт — 25 мин",
-          "Taksim — 8 км",
-          "Vadi İstanbul — 4 мин",
-          "E-80/E-5 — 5 мин",
-          "Автобусная остановка — 500 м"
-        ],
-        "amenities": [
-          "Фитнес-зал",
-          "Парковка"
-        ],
-        "suitable_for": ["Гражданство", "Инвестиции", "Проживание"],
-        "payment_currency": "USD",
-        "contact": "",
-        "images": [
-    "https://drive.google.com/uc?id=1YT1drWM7O9Z9CnlzAhCmcoZI4owxJQ-O",
-    "https://drive.google.com/uc?id=1eCmDyKp47r3rSCp1DHIJrJayOn9ie7FN",
-    "https://drive.google.com/uc?id=1bUbxbLcsITC_lc2fXo4ZbqzrgOrPwC42",
-    "https://drive.google.com/uc?id=16Z2VdzkkkKD26-WEWB4FXBx5pGNJ8GlK",
-    "https://drive.google.com/uc?id=1_BiaT3HFntOYc-_MaplKoI68fDLObyqf",
-    "https://drive.google.com/uc?id=1TosXroOBn6l-Fj1wTe4qk8O-yF4gYSVU"
-  ],
-  "videos": []
-      },
-      "uz": {
-        "district": "Kağıthane, 10038",
-        "region": "Kağıthane, Istanbul",
-        "description": "Colony 21 — 6 qavatli bitta blokdan iborat turar joy majmuasi bo‘lib, Kağıthane hududida joylashgan. Loyiha 101 ta 0+1 va 1+1 xonadonlardan iborat bo‘lib, investitsiya, ijaraga berish yoki yashash uchun mos keladi.",
-        "status": "Topsiriladi: 2026 yil 30-iyun",
-        "plans": [
-          "1+0 — 39.91–61.04 m² — $150,000 – $233,000",
-          "1+1 — 49.09–85.6 m² — $204,000 – $328,000"
-        ],
-        "price": "$150,000 dan boshlab",
-        "payment": {
-          "initial_payment": "30% — 12 oylik; 40% — 24 oylik; 50% — 36 oylik",
-          "installment": "36 oygacha to‘lov",
-          "full_payment_discount": ""
-        },
-        "advantages": [
-          "1 blok, 6 qavat",
-          "101 ta kvartira: 0+1 va 1+1",
-          "Fitnes zali, avtoturargoh",
-          "QQS — 1%, TAPU bo‘yicha soliq — 0%",
-          "Fuqarolik olishga yaroqli"
-        ],
-        "distances": [
-          "Metro — 3 daqiqa",
-          "Axis Mall — 3 daqiqa",
-          "Aeroport — 25 daqiqa",
-          "Taksim — 8 km",
-          "Vadi İstanbul — 4 daqiqa",
-          "E-80/E-5 — 5 daqiqa",
-          "Avtobus bekati — 500 m"
-        ],
-        "amenities": [
-          "Fitnes zali",
-          "Avtoturargoh"
-        ],
-        "suitable_for": ["Fuqarolik", "Investitsiya", "Yashash"],
-        "payment_currency": "USD",
-        "contact": "",
-        "images": [
-    "https://drive.google.com/uc?id=1YT1drWM7O9Z9CnlzAhCmcoZI4owxJQ-O",
-    "https://drive.google.com/uc?id=1eCmDyKp47r3rSCp1DHIJrJayOn9ie7FN",
-    "https://drive.google.com/uc?id=1bUbxbLcsITC_lc2fXo4ZbqzrgOrPwC42",
-    "https://drive.google.com/uc?id=16Z2VdzkkkKD26-WEWB4FXBx5pGNJ8GlK",
-    "https://drive.google.com/uc?id=1_BiaT3HFntOYc-_MaplKoI68fDLObyqf",
-    "https://drive.google.com/uc?id=1TosXroOBn6l-Fj1wTe4qk8O-yF4gYSVU"
-  ],
-  "videos": []
-      }
-    }
-  },
+ 
   {
     "id": 45,
     "region": "europe",
@@ -4832,19 +4491,19 @@
         "payment_currency": "USD",
         "contact": "",
         "images": [
-    "https://drive.google.com/uc?id=1sLy_P181HR-SjrGdrab1PzxLGJsxpdqd",
-    "https://drive.google.com/uc?id=1kuHq7NJ6G4oWto7Do39Q9JjU-LYHum7_",
-    "https://drive.google.com/uc?id=13twHc8u_e0kLHI5DIJF-FjSPZ8MaxFlL",
-    "https://drive.google.com/uc?id=12vb0SEiCRZehpA-ZQVnSTFFaasl0clIH",
-    "https://drive.google.com/uc?id=1QAliTYUZQfotvomoTkgxgzLUlZYS9706",
-    "https://drive.google.com/uc?id=15ig7HbuHBc05uT-Gy9NYjLsP-c5SdGa5",
-    "https://drive.google.com/uc?id=1PPEkMWZr-MBo33IM376ektXKeD2qUL5c",
-    "https://drive.google.com/uc?id=1niTXRBL6Tc0jXVarqdJUx3iJ2zrVU-Ck"
+        "/storage/10039/1.png",
+        "/storage/10039/2.png",
+        "/storage/10039/3.png",
+        "/storage/10039/4.png",
+        "/storage/10039/5.png",
+        "/storage/10039/6.png",
+        "/storage/10039/7.png",
+        "/storage/10039/8.png",
+        "/storage/10039/9.png",
+        "/storage/10039/10.png",
+        "/storage/10039/11.png"
   ],
   "videos": [
-    "https://drive.google.com/file/d/1o8tWikqtSmfrwLOREHohYqesLfP4AZqQ/preview",
-    "https://drive.google.com/file/d/1_w0zo2w6FN805MRwKkYU1ppmZVI-CEkB/preview",
-    "https://drive.google.com/file/d/186nb1DXe3VBI-veZvrlK2e_ASAU8AYPo/preview"
   ]
       },
       "uz": {
@@ -4883,19 +4542,20 @@
         "payment_currency": "USD",
         "contact": "",
         "images": [
-    "https://drive.google.com/uc?id=1sLy_P181HR-SjrGdrab1PzxLGJsxpdqd",
-    "https://drive.google.com/uc?id=1kuHq7NJ6G4oWto7Do39Q9JjU-LYHum7_",
-    "https://drive.google.com/uc?id=13twHc8u_e0kLHI5DIJF-FjSPZ8MaxFlL",
-    "https://drive.google.com/uc?id=12vb0SEiCRZehpA-ZQVnSTFFaasl0clIH",
-    "https://drive.google.com/uc?id=1QAliTYUZQfotvomoTkgxgzLUlZYS9706",
-    "https://drive.google.com/uc?id=15ig7HbuHBc05uT-Gy9NYjLsP-c5SdGa5",
-    "https://drive.google.com/uc?id=1PPEkMWZr-MBo33IM376ektXKeD2qUL5c",
-    "https://drive.google.com/uc?id=1niTXRBL6Tc0jXVarqdJUx3iJ2zrVU-Ck"
+   
   ],
   "videos": [
-    "https://drive.google.com/file/d/1o8tWikqtSmfrwLOREHohYqesLfP4AZqQ/preview",
-    "https://drive.google.com/file/d/1_w0zo2w6FN805MRwKkYU1ppmZVI-CEkB/preview",
-    "https://drive.google.com/file/d/186nb1DXe3VBI-veZvrlK2e_ASAU8AYPo/preview"
+    "/storage/10039/1.png",
+        "/storage/10039/2.png",
+        "/storage/10039/3.png",
+        "/storage/10039/4.png",
+        "/storage/10039/5.png",
+        "/storage/10039/6.png",
+        "/storage/10039/7.png",
+        "/storage/10039/8.png",
+        "/storage/10039/9.png",
+        "/storage/10039/10.png",
+        "/storage/10039/11.png"
   ]
       }
     }
