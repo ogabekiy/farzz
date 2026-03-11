@@ -13,7 +13,6 @@ export default function page() {
       <Header /> 
       <div className='container mx-auto px-4 py-16 sm:py-24'>
       <Exclusive/>
-      {/* <NewApartments/> */}
       <Gallery/>
       <VideoGallery/>
       </div>

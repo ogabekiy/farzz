@@ -1,12 +1,9 @@
 import { Montserrat } from "next/font/google";
 import Script from "next/script";
 
-const montserrat = Montserrat({
-  variable: "--font-montserrat",
-  subsets: ["latin"],
-});
-
+/** @type {import("next").Metadata} */
 export const metadata = {
+  metadataBase: new URL("https://farzzgroup.com"),
   title: "Недвижимость в Турции | FARZZ GROUP - Купить квартиру в Стамбуле",
   description:
     "FARZZ GROUP — Надёжный партнёр для покупки недвижимости в Турции. Помощь в оформлении ВНЖ и гражданства. Рассрочка, готовые и инвестиционные объекты в Стамбуле и других городах. Говорим на вашем языке.",
@@ -53,7 +50,7 @@ export const metadata = {
         alt: "FARZZ GROUP - Недвижимость в Турции",
       },
     ],
-    locale: "ru",
+    locale: "ru_RU",
     type: "website",
   },
   icons: {
@@ -63,35 +60,30 @@ export const metadata = {
   },
 };
 
+const montserrat = Montserrat({
+  variable: "--font-montserrat",
+  subsets: ["latin"],
+});
+
 export default function RootLayout({ children }) {
   return (
     <html lang="ru">
-      <head>
-        <meta
-          name="facebook-domain-verification"
-          content="bxfgsfl4t90wcgb52jnf6sft5u04m4"
-        />
-
-        <Script
-          id="facebook-pixel"
-          strategy="afterInteractive"
-          dangerouslySetInnerHTML={{
-            __html: `
-              !function(f,b,e,v,n,t,s)
-              {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-              n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-              if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-              n.queue=[];t=b.createElement(e);t.async=!0;
-              t.src=v;s=b.getElementsByTagName(e)[0];
-              s.parentNode.insertBefore(t,s)}(window, document,'script',
-              'https://connect.facebook.net/en_US/fbevents.js');
-              fbq('init', '722783247095632');
-              fbq('track', 'PageView');
-            `,
-          }}
-        />
-      </head>
       <body className={`${montserrat.variable} antialiased`}>
+        <Script id="facebook-pixel" strategy="afterInteractive">
+          {`
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '722783247095632');
+            fbq('track', 'PageView');
+          `}
+        </Script>
+
         <noscript>
           <img
             height="1"
@@ -101,6 +93,7 @@ export default function RootLayout({ children }) {
             alt=""
           />
         </noscript>
+
         {children}
       </body>
     </html>

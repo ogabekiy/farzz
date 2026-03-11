@@ -1,9 +1,6 @@
-import { errorToast } from "./response-toasts";
-import { successToast } from "./response-toasts";
-
 export async function sendMessageToAdmin(name, phone, message) {
-  const BOT_TOKEN = "7129866981:AAGScYsbvDJ560EMPqe2xNNPGwOfvrxeTqI";
-  const CHAT_IDS = ["580802604", "473897442", "1006334744", "8100367195", "2135793183"];
+  const BOT_TOKEN = process.env.NEXT_PUBLIC_TELEGRAM_BOT_TOKEN;
+  const CHAT_IDS = process.env.NEXT_PUBLIC_CHAT_IDS.split(",");
   const text = `Ism: ${name}\nPhone Number: ${phone}\nXabar: ${message}`;
   const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
 
@@ -20,6 +17,7 @@ export async function sendMessageToAdmin(name, phone, message) {
         })
       )
     );
+   
 
     const failed = responses.filter(response => !response.ok);
     if (failed.length > 0) {
