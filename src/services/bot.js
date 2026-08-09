@@ -17,7 +17,7 @@ export async function sendMessageToAdmin(name, phone, message) {
         })
       )
     );
-   
+
 
     const failed = responses.filter(response => !response.ok);
     if (failed.length > 0) {
