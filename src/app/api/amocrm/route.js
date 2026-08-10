@@ -1,14 +1,13 @@
 import { NextResponse } from "next/server";
+import { sendMessageToAdmin } from "@/services/bot";
 
 /**
  * amoCRM base URL yaratish
  *
  * .env:
- *
  * AMO_SUBDOMAIN=farzzgroup
  *
  * yoki:
- *
  * AMO_SUBDOMAIN=farzzgroup.amocrm.ru
  *
  * Ikkalasini ham qabul qiladi.
@@ -473,7 +472,42 @@ export async function POST(request) {
     }
 
     // ==========================================
-    // 13. SUCCESS
+    // 13. TELEGRAM NOTIFICATION
+    // ==========================================
+
+    let telegramSent = false;
+
+    try {
+      await sendMessageToAdmin(
+        name,
+        phone,
+        message
+      );
+
+      telegramSent = true;
+
+      console.log("=================================");
+      console.log("TELEGRAM SUCCESS");
+      console.log("=================================");
+      console.log("Telegram xabar muvaffaqiyatli yuborildi");
+      console.log("=================================");
+    } catch (telegramError) {
+      /**
+       * Telegram notification xato bo'lsa ham
+       * amoCRM ma'lumotlari allaqachon saqlangan.
+       *
+       * Shuning uchun request'ni failed qilmaymiz.
+       */
+
+      console.error("=================================");
+      console.error("TELEGRAM ERROR");
+      console.error("=================================");
+      console.error(telegramError);
+      console.error("=================================");
+    }
+
+    // ==========================================
+    // 14. SUCCESS
     // ==========================================
 
     return NextResponse.json({
@@ -492,11 +526,13 @@ export async function POST(request) {
         lead: leadData,
 
         note: noteData,
+
+        telegramSent,
       },
     });
   } catch (error) {
     // ==========================================
-    // 14. SERVER ERROR
+    // 15. SERVER ERROR
     // ==========================================
 
     console.error("=================================");
