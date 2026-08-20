@@ -105,6 +105,7 @@ const VideoSlider = () => {
                   <iframe
                     src={`https://drive.google.com/file/d/${video.id}/preview`}
                     allow="autoplay"
+                    loading="lazy"
                     allowFullScreen
                     className="w-full h-full"
                   ></iframe>

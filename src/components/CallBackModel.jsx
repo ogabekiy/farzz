@@ -4,9 +4,9 @@ import { useState } from "react";
 import countryData from "country-telephone-data";
 import { useTranslations } from "next-intl";
 import { Phone } from "lucide-react";
-import { toast, ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
+import { toast } from "react-toastify";
 import { fbq } from "@/lib/fbpixel";
+import { AnimatePresence, motion } from "framer-motion";
 
 export default function CallbackModal({
   isOpen,
@@ -19,6 +19,7 @@ export default function CallbackModal({
   const [phone, setPhone] = useState("");
   const [message, setMessage] = useState("");
   const [countryCode, setCountryCode] = useState("+998");
+  const [phoneError, setPhoneError] = useState("");
 
   const [isLoading, setIsLoading] = useState(false);
 
@@ -38,6 +39,25 @@ export default function CallbackModal({
       )
     : countryData.allCountries;
 
+  const isValidPhone = (value) => {
+    const trimmedValue = value.trim();
+    const allowedCharacters = /^[\d\s()+-]+$/;
+    const localDigits = trimmedValue.replace(/\D/g, "");
+    const countryDigits = countryCode.replace(/\D/g, "");
+    const totalDigits = `${countryDigits}${localDigits}`;
+
+    if (countryDigits === "998") {
+      return allowedCharacters.test(trimmedValue) && localDigits.length === 9;
+    }
+
+    return (
+      allowedCharacters.test(trimmedValue) &&
+      localDigits.length >= 6 &&
+      totalDigits.length >= 8 &&
+      totalDigits.length <= 15
+    );
+  };
+
   const handleSubmit = async (e) => {
     e.preventDefault();
 
@@ -49,6 +69,13 @@ export default function CallbackModal({
       toast.error(t("error"));
       return;
     }
+
+    if (!isValidPhone(phone)) {
+      setPhoneError(t("phoneError"));
+      return;
+    }
+
+    setPhoneError("");
 
     // ==========================================
     // PREVENT DOUBLE SUBMIT
@@ -138,19 +165,35 @@ export default function CallbackModal({
     }
   };
 
-  if (!isOpen) return null;
-
   return (
     <>
-      <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 px-4">
-        <div className="relative w-full max-w-md rounded-2xl bg-white p-6 shadow-xl">
+      <AnimatePresence>
+        {isOpen && (
+          <motion.div
+            className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 px-4"
+            onClick={() => {
+              if (!isLoading) onClose();
+            }}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.2, ease: "easeOut" }}
+          >
+            <motion.div
+              className="relative w-full max-w-md rounded-2xl bg-white p-6 shadow-xl"
+              initial={{ opacity: 0, y: 24, scale: 0.96 }}
+              animate={{ opacity: 1, y: 0, scale: 1 }}
+              exit={{ opacity: 0, y: 16, scale: 0.96 }}
+              transition={{ duration: 0.24, ease: "easeOut" }}
+              onClick={(e) => e.stopPropagation()}
+            >
           {/* CLOSE BUTTON */}
 
           <button
             type="button"
             onClick={onClose}
             disabled={isLoading}
-            className="absolute right-4 top-4 text-2xl text-gray-500 hover:text-gray-800 disabled:opacity-50"
+            className="absolute right-4 top-4 text-2xl text-gray-500 hover:text-gray-800 disabled:cursor-not-allowed disabled:opacity-50"
           >
             ×
           </button>
@@ -195,7 +238,10 @@ export default function CallbackModal({
               <div className="w-1/2">
                 <select
                   value={countryCode}
-                  onChange={(e) => setCountryCode(e.target.value)}
+                  onChange={(e) => {
+                    setCountryCode(e.target.value);
+                    setPhoneError("");
+                  }}
                   disabled={isLoading}
                   className="w-full px-3 py-3 bg-gray-100 border border-gray-300 rounded-lg text-sm disabled:opacity-60"
                 >
@@ -214,13 +260,24 @@ export default function CallbackModal({
                 type="tel"
                 placeholder={t("phone")}
                 value={phone}
-                onChange={(e) => setPhone(e.target.value)}
+                onChange={(e) => {
+                  setPhone(e.target.value.replace(/[^\d\s()+-]/g, ""));
+                  setPhoneError("");
+                }}
+                aria-invalid={Boolean(phoneError)}
                 required
                 disabled={isLoading}
                 inputMode="tel"
-                className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-400 disabled:bg-gray-100"
+                className={`w-full px-4 py-3 rounded-lg border focus:outline-none focus:ring-2 disabled:bg-gray-100 ${
+                  phoneError
+                    ? "border-red-500 focus:ring-red-300"
+                    : "border-gray-300 focus:ring-blue-400"
+                }`}
               />
             </div>
+            {phoneError && (
+              <p className="-mt-2 text-sm text-red-600">{phoneError}</p>
+            )}
 
             {/* MESSAGE */}
 
@@ -244,22 +301,11 @@ export default function CallbackModal({
               {isLoading ? "Yuborilmoqda..." : t("send")}
             </button>
           </form>
-        </div>
-      </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
-      {/* TOAST */}
-
-      <ToastContainer
-        position="top-center"
-        autoClose={3000}
-        hideProgressBar={false}
-        newestOnTop
-        closeOnClick
-        rtl={false}
-        pauseOnFocusLoss
-        draggable
-        pauseOnHover
-      />
     </>
   );
 }

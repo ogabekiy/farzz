@@ -1,18 +1,16 @@
 'use client';
 
-import React from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { useLocale, useTranslations } from 'next-intl';
 import apartments from '@/data/apartments.json';
 import Image from 'next/image';
-import { Swiper, SwiperSlide } from 'swiper/react';
-import { Navigation } from 'swiper/modules';
-import 'swiper/css';
-import 'swiper/css/navigation';
-import { MapPin, ChevronLeft, ChevronRight, ArrowRight, Building2 } from 'lucide-react';
+import { MapPin, Building2 } from 'lucide-react';
 import Link from 'next/link';
 
 export default function Exclusive() {
   const locale = useLocale();
+  const [visibleCount, setVisibleCount] = useState(6);
+  const loadMoreRef = useRef(null);
 
   const t = useTranslations("Exclusive");
 
@@ -21,49 +19,47 @@ export default function Exclusive() {
     ...item.language_versions[locale],
   })); 
 
+  useEffect(() => {
+    const target = loadMoreRef.current;
+    if (!target || visibleCount >= localized.length) return;
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setVisibleCount((current) => Math.min(current + 6, localized.length));
+        }
+      },
+      { rootMargin: '300px' }
+    );
+
+    observer.observe(target);
+    return () => observer.disconnect();
+  }, [localized.length, visibleCount]);
+
   return (
     <section className="py-12 px-4 max-w-screen-xl mx-auto">
       <h2 className="text-3xl font-bold mb-8 text-center"> {t("title")}</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-        {localized.map((apartment, index) => {
-          const swiperId = `swiper-${apartment.id}`;
+        {localized.slice(0, visibleCount).map((apartment) => {
+          const image = apartment.images?.[0];
 
           return (
             <div
-              key={index}
+              key={apartment.id}
               className="bg-white rounded-2xl border shadow-lg overflow-hidden flex flex-col hover:shadow-2xl transition-shadow duration-300"
             >
               <div className="relative group">
-                {/* Custom Navigation Buttons with unique class */}
-                <button className={`absolute top-1/2 left-2 z-10 -translate-y-1/2 opacity-0 group-hover:opacity-100 bg-black/30 hover:bg-black/50 transition p-1 rounded-full ${swiperId}-prev`}>
-                  <ChevronLeft className="text-white" size={20} />
-                </button>
-                <button className={`absolute top-1/2 right-2 z-10 -translate-y-1/2 opacity-0 group-hover:opacity-100 bg-black/30 hover:bg-black/50 transition p-1 rounded-full ${swiperId}-next`}>
-                  <ChevronRight className="text-white" size={20} />
-                </button>
-
-                <Swiper
-                  navigation={{
-                    prevEl: `.${swiperId}-prev`,
-                    nextEl: `.${swiperId}-next`,
-                  }}
-                  modules={[Navigation]}
-                  className="rounded-t-2xl"
-                >
-                  {(apartment.images || []).map((img, idx) => (
-                    <SwiperSlide key={idx}>
-                      <Link href={`/${locale}/apartments/${index+1}`}>
-                      <Image
-                        width={800}
-                        height={400}
-                        src={img}
-                        alt={`Apartment ${apartment.id}`}
-                        className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
-                      />
-                      </Link>
-                    </SwiperSlide>
-                  ))}
-                </Swiper>
+                {image && (
+                  <Link href={`/${locale}/apartments/${apartment.id}`}>
+                    <Image
+                      width={800}
+                      height={400}
+                      src={image}
+                      alt={`Apartment ${apartment.id}`}
+                      className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
+                    />
+                  </Link>
+                )}
 
                 {/* Status */}
                 <div className="absolute top-2 left-2 bg-white px-3 py-1 text-xs font-semibold rounded-xl shadow text-gray-700">
@@ -113,19 +109,9 @@ export default function Exclusive() {
         })}
       </div>
 
-      {/* <Link href={`/${locale}/apartments`} className="group w-[400px] bg-[#174d99] mx-auto mt-10 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full text-base sm:text-lg hover:bg-[#1a6de0] transition-all flex items-center gap-2">
-                {t("view")}
-                <ArrowRight className="h-5 w-5 group-hover:translate-x-1 transition-transform" />
-              </Link> */}
-
-
-      {/* Hide default arrows */}
-      <style jsx global>{`
-        .swiper-button-prev::after,
-        .swiper-button-next::after {
-          display: none;
-        }
-      `}</style>
+      {visibleCount < localized.length && (
+        <div ref={loadMoreRef} className="h-10" aria-hidden="true" />
+      )}
     </section>
   );
 }

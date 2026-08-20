@@ -10,7 +10,6 @@ import CallbackModal from "./CallBackModel";
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
-  const [activeDropdown, setActiveDropdown] = useState(null);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [modalOpen, setModalOpen] = useState(false);
   const [specialModalOpen, setSpecialModalOpen] = useState(false);
@@ -23,11 +22,29 @@ export default function Navbar() {
   const searchParams = useSearchParams();
 
   useEffect(() => {
+    let ticking = false;
+    let frameId = null;
+
     const handleScroll = () => {
-      setIsScrolled(window.scrollY > 10);
+      if (ticking) return;
+
+      ticking = true;
+      frameId = window.requestAnimationFrame(() => {
+        setIsScrolled((current) => {
+          const next = current ? window.scrollY > 8 : window.scrollY > 40;
+          return current === next ? current : next;
+        });
+        ticking = false;
+      });
     };
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
+
+    handleScroll();
+    window.addEventListener("scroll", handleScroll, { passive: true });
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+      if (frameId) window.cancelAnimationFrame(frameId);
+    };
   }, []);
 
   useEffect(() => {
@@ -66,45 +83,51 @@ export default function Navbar() {
 
   return (
     <header
-      className={`${
-        isScrolled
-          ? "fixed top-0 left-0 right-0 z-50 bg-[#0e1e3a] shadow-md"
-          : "bg-[#0e1e3a]"
-      } text-white transition-all duration-300 w-full`}
+      className={`sticky top-0 z-50 w-full bg-[#0e1e3a] text-white transition-shadow duration-300 ${
+        isScrolled ? "shadow-md" : "shadow-none"
+      }`}
     >
-      {!isScrolled && (
-        <div className="container mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-between text-sm border-b border-gray-700">
-          <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6 mb-2 sm:mb-0">
-            <Link href="tel:+905072547878" className="flex items-center gap-1 hover:text-[#1e7bff]">
-              <Phone className="h-4 w-4" />
-              <span>+90 (507)-254-78-78</span>
-            </Link>
-            <Link href="mailto:farzzgroup@gmail.com" className="flex items-center gap-1 hover:text-[#1e7bff]">
-              <Mail className="h-4 w-4" />
-              <span>farzzgroup@gmail.com</span>
-            </Link>
-          </div>
-
-          <div className="flex items-center gap-4">
-            <div className="flex items-center gap-2">
-              <button onClick={() => changeLocale("ru")} className="hover:text-[#1e7bff] text-sm">RU</button>
-              <button onClick={() => changeLocale("uz")} className="hover:text-[#1e7bff] text-sm">UZ</button>
+      <div
+        className={`grid overflow-hidden border-b transition-[grid-template-rows,opacity,border-color] duration-300 ease-out will-change-[grid-template-rows,opacity] ${
+          isScrolled
+            ? "grid-rows-[0fr] border-transparent opacity-0"
+            : "grid-rows-[1fr] border-gray-700 opacity-100"
+        }`}
+      >
+        <div className="min-h-0 overflow-hidden">
+          <div className="container mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-between text-sm">
+            <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6 mb-2 sm:mb-0">
+              <Link href="tel:+905072547878" className="flex items-center gap-1 hover:text-[#1e7bff]">
+                <Phone className="h-4 w-4" />
+                <span>+90 (507)-254-78-78</span>
+              </Link>
+              <Link href="mailto:farzzgroup@gmail.com" className="flex items-center gap-1 hover:text-[#1e7bff]">
+                <Mail className="h-4 w-4" />
+                <span>farzzgroup@gmail.com</span>
+              </Link>
             </div>
-            <Link
-              href={`/${localeNav}?callback=true`}
-              className="bg-[#1e7bff] text-white px-4 py-1.5 rounded-md hover:bg-[#1a6de0] text-sm"
-            >
-              {t("callback")}
-            </Link>
-            {/* <Link
+
+            <div className="flex items-center gap-4">
+              <div className="flex items-center gap-2">
+                <button onClick={() => changeLocale("ru")} className="hover:text-[#1e7bff] text-sm">RU</button>
+                <button onClick={() => changeLocale("uz")} className="hover:text-[#1e7bff] text-sm">UZ</button>
+              </div>
+              <Link
+                href={`/${localeNav}?callback=true`}
+                className="bg-[#1e7bff] text-white px-4 py-1.5 rounded-md hover:bg-[#1a6de0] text-sm"
+              >
+                {t("callback")}
+              </Link>
+              {/* <Link
               href={`/${localeNav}?callbackSpecial=true`}
               className="bg-green-600 text-white px-4 py-1.5 rounded-md hover:bg-green-700 text-sm"
             >
               {t("callback")} Special
             </Link> */}
+            </div>
           </div>
         </div>
-      )}
+      </div>
 
       <div className="container mx-auto px-4 py-3 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">

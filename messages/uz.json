@@ -17,6 +17,7 @@
     "comment": "izohingiz",
     "send": "Yuborish",
     "error": "Iltimos, barcha maydonlarni to‘ldiring.",
+  "phoneError": "Iltimos, telefon raqamini to‘g‘ri kiriting.",
   "success": "Xabaringiz yuborildi!",
   "sendError": "Xabar yuborishda xatolik yuz berdi. Keyinroq urinib ko‘ring."
 },

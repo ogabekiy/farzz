@@ -1,5 +1,6 @@
 import { Montserrat } from "next/font/google";
 import Script from "next/script";
+import ToastProvider from "@/components/ToastProvider";
 
 /** @type {import("next").Metadata} */
 export const metadata = {
@@ -95,6 +96,7 @@ export default function RootLayout({ children }) {
         </noscript>
 
         {children}
+        <ToastProvider />
       </body>
     </html>
   );

@@ -19,14 +19,14 @@ export default function Home() {
       id: 1,
       title: t("anotoly"),
       count: 244,
-      image: "/storage/kartal/1.jpeg",
+      image: "https://pub-5e6f0ab020ed4dc0896094694498f848.r2.dev/beylikduzyu12/13.jpg",
       region: "anatoliya",
     },
     {
       id: 2,
       title: t("euro"),
       count: 397,
-      image: "/storage/atakent/4.jpeg",
+      image: "https://pub-5e6f0ab020ed4dc0896094694498f848.r2.dev/atakent/1.jpeg",
       region: "europe",
     },
   ];
