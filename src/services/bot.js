@@ -1,4 +1,4 @@
-export async function sendMessageToAdmin(name, phone, message) {
+export async function sendMessageToAdmin(name, phone, message, extraNote = "") {
   const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 
   const CHAT_IDS = process.env.TELEGRAM_CHAT_IDS
@@ -14,11 +14,15 @@ export async function sendMessageToAdmin(name, phone, message) {
     throw new Error("TELEGRAM_CHAT_IDS не найден");
   }
 
-  const text = `📩 Новая заявка
+  let text = `📩 Новая заявка
 
 👤 Имя: ${name}
 📞 Телефон: ${phone}
 💬 Сообщение: ${message}`;
+
+  if (extraNote) {
+    text += `\n\n${extraNote}`;
+  }
 
   const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
 
@@ -38,13 +42,11 @@ export async function sendMessageToAdmin(name, phone, message) {
       )
     );
 
-    const failed = responses.filter(
-      (response) => !response.ok
-    );
+    const successful = responses.filter((response) => response.ok);
 
-    if (failed.length > 0) {
+    if (successful.length === 0) {
       throw new Error(
-        "Не удалось отправить сообщение некоторым пользователям Telegram"
+        "Не удалось отправить сообщение ни одному пользователю Telegram"
       );
     }
 

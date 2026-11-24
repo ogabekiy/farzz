@@ -153,383 +153,181 @@ export async function POST(request) {
     }
 
     // ==========================================
-    // 3. ENV VARIABLES
+    // 3. ATTEMPT AMOCRM INTEGRATION
     // ==========================================
+
+    let amoSuccess = false;
+    let amoError = null;
+    let leadId = null;
+    let contactId = null;
+    let leadData = null;
+    let noteData = null;
 
     const token = process.env.AMO_LONG_LIVED_TOKEN?.trim();
     const subdomain = process.env.AMO_SUBDOMAIN?.trim();
-
     const baseUrl = getAmoBaseUrl(subdomain);
 
-    // Subdomain tekshirish
-    if (!subdomain) {
-      return NextResponse.json(
-        {
-          success: false,
+    if (!subdomain || !token || !baseUrl) {
+      amoError = "amoCRM sozlamalari to'liq emas";
+      console.warn("amoCRM sozlamalari to'liq emas:", {
+        subdomain: Boolean(subdomain),
+        token: Boolean(token),
+        baseUrl: Boolean(baseUrl),
+      });
+    } else {
+      try {
+        const leadUrl = `${baseUrl}/api/v4/leads/complex`;
+        console.log("amoCRM Lead URL:", leadUrl);
 
-          step: "environment",
-
-          message: "AMO_SUBDOMAIN topilmadi",
-
-          debug: {
-            subdomainExists: false,
-            tokenExists: Boolean(token),
-            tokenLength: token ? token.length : 0,
-          },
-        },
-        {
-          status: 500,
-        }
-      );
-    }
-
-    // Token tekshirish
-    if (!token) {
-      return NextResponse.json(
-        {
-          success: false,
-
-          step: "environment",
-
-          message: "AMO_LONG_LIVED_TOKEN topilmadi",
-
-          debug: {
-            subdomainExists: true,
-            tokenExists: false,
-            tokenLength: 0,
-          },
-        },
-        {
-          status: 500,
-        }
-      );
-    }
-
-    // Base URL tekshirish
-    if (!baseUrl) {
-      return NextResponse.json(
-        {
-          success: false,
-
-          step: "environment",
-
-          message: "amoCRM base URL yaratilmadi",
-        },
-        {
-          status: 500,
-        }
-      );
-    }
-
-    // ==========================================
-    // 4. LEAD + CONTACT YARATISH
-    // ==========================================
-
-    const leadUrl = `${baseUrl}/api/v4/leads/complex`;
-
-    console.log("amoCRM Lead URL:", leadUrl);
-
-    const lead = {
-      name: `Website lead - ${name}`,
-
-      _embedded: {
-        contacts: [
-          {
-            first_name: name,
-
-            custom_fields_values: [
+        const lead = {
+          name: `Website lead - ${name}`,
+          _embedded: {
+            contacts: [
               {
-                field_code: "PHONE",
-
-                values: [
+                first_name: name,
+                custom_fields_values: [
                   {
-                    value: phone,
-                    enum_code: "WORK",
+                    field_code: "PHONE",
+                    values: [
+                      {
+                        value: phone,
+                        enum_code: "WORK",
+                      },
+                    ],
                   },
                 ],
               },
             ],
           },
-        ],
-      },
-    };
+        };
 
-    console.log("Creating Lead + Contact...");
-
-    // ==========================================
-    // 5. LEAD + CONTACT REQUEST
-    // ==========================================
-
-    const leadResponse = await fetch(leadUrl, {
-      method: "POST",
-
-      headers: {
-        Authorization: `Bearer ${token}`,
-
-        "Content-Type": "application/json",
-
-        Accept: "application/json",
-      },
-
-      body: JSON.stringify([lead]),
-    });
-
-    // ==========================================
-    // 6. LEAD RESPONSE
-    // ==========================================
-
-    const {
-      data: leadData,
-      raw: leadRaw,
-    } = await parseAmoResponse(leadResponse);
-
-    console.log("=================================");
-    console.log("AMOCRM LEAD RESPONSE");
-    console.log("=================================");
-    console.log("Status:", leadResponse.status);
-    console.log("Status text:", leadResponse.statusText);
-    console.log("Response:", leadRaw);
-    console.log("=================================");
-
-    // ==========================================
-    // 7. LEAD ERROR
-    // ==========================================
-
-    if (!leadResponse.ok) {
-      return NextResponse.json(
-        {
-          success: false,
-
-          step: "amocrm_lead",
-
-          message:
-            leadResponse.status === 401
-              ? "amoCRM authorization xatosi"
-              : leadResponse.status === 400
-                ? "amoCRM Lead ma'lumotlarini qabul qilmadi"
-                : "amoCRM Lead yaratishda xatolik",
-
-          debug: {
-            status: leadResponse.status,
-
-            statusText: leadResponse.statusText,
-
-            url: leadUrl,
-
-            amocrmResponse: leadData || leadRaw || null,
+        const leadResponse = await fetch(leadUrl, {
+          method: "POST",
+          headers: {
+            Authorization: `Bearer ${token}`,
+            "Content-Type": "application/json",
+            Accept: "application/json",
           },
-        },
-        {
-          status: leadResponse.status,
+          body: JSON.stringify([lead]),
+        });
+
+        const { data: parsedLeadData, raw: leadRaw } = await parseAmoResponse(leadResponse);
+        leadData = parsedLeadData;
+
+        console.log("=================================");
+        console.log("AMOCRM LEAD RESPONSE");
+        console.log("Status:", leadResponse.status);
+        console.log("Response:", leadRaw);
+        console.log("=================================");
+
+        if (!leadResponse.ok) {
+          amoError =
+            leadResponse.status === 402
+              ? "amoCRM to'lovi tugagan (402 Payment Required)"
+              : leadResponse.status === 401
+                ? "amoCRM authorization xatosi"
+                : leadResponse.status === 400
+                  ? "amoCRM ma'lumotlarni qabul qilmadi"
+                  : `amoCRM xatosi (${leadResponse.status})`;
+          console.warn("amoCRM ga saqlab bo'lmadi:", amoError);
+        } else {
+          const createdLead = Array.isArray(leadData) ? leadData[0] : null;
+          leadId = createdLead?.id;
+          contactId = createdLead?.contact_id;
+
+          if (leadId) {
+            const noteUrl = `${baseUrl}/api/v4/leads/notes`;
+            const note = {
+              entity_id: leadId,
+              note_type: "common",
+              params: {
+                text: message,
+              },
+            };
+
+            const noteResponse = await fetch(noteUrl, {
+              method: "POST",
+              headers: {
+                Authorization: `Bearer ${token}`,
+                "Content-Type": "application/json",
+                Accept: "application/json",
+              },
+              body: JSON.stringify([note]),
+            });
+
+            const { data: parsedNoteData } = await parseAmoResponse(noteResponse);
+            noteData = parsedNoteData;
+            amoSuccess = true;
+          }
         }
-      );
+      } catch (err) {
+        amoError = err?.message || "amoCRM so'rovida xatolik";
+        console.error("amoCRM catch error:", err);
+      }
     }
 
     // ==========================================
-    // 8. YARATILGAN LEAD ID
-    // ==========================================
-
-    /**
-     * amoCRM odatda:
-     *
-     * [
-     *   {
-     *     id: 33366421,
-     *     contact_id: 45584347
-     *   }
-     * ]
-     *
-     * ko'rinishida qaytaradi.
-     */
-
-    const createdLead = Array.isArray(leadData)
-      ? leadData[0]
-      : null;
-
-    const leadId = createdLead?.id;
-
-    const contactId = createdLead?.contact_id;
-
-    console.log("Created Lead ID:", leadId);
-
-    console.log("Created Contact ID:", contactId);
-
-    // Lead ID bo'lmasa
-    if (!leadId) {
-      return NextResponse.json(
-        {
-          success: false,
-
-          step: "lead_id",
-
-          message:
-            "Lead yaratildi, lekin Lead ID topilmadi",
-
-          data: leadData,
-        },
-        {
-          status: 500,
-        }
-      );
-    }
-
-    // ==========================================
-    // 9. MESSAGE'NI LEADGA NOTE QILIB QO'SHISH
-    // ==========================================
-
-    const noteUrl = `${baseUrl}/api/v4/leads/notes`;
-
-    console.log("amoCRM Note URL:", noteUrl);
-
-    const note = {
-      entity_id: leadId,
-
-      note_type: "common",
-
-      params: {
-        text: message,
-      },
-    };
-
-    console.log("Adding message note to Lead...");
-
-    // ==========================================
-    // 10. NOTE REQUEST
-    // ==========================================
-
-    const noteResponse = await fetch(noteUrl, {
-      method: "POST",
-
-      headers: {
-        Authorization: `Bearer ${token}`,
-
-        "Content-Type": "application/json",
-
-        Accept: "application/json",
-      },
-
-      body: JSON.stringify([note]),
-    });
-
-    // ==========================================
-    // 11. NOTE RESPONSE
-    // ==========================================
-
-    const {
-      data: noteData,
-      raw: noteRaw,
-    } = await parseAmoResponse(noteResponse);
-
-    console.log("=================================");
-    console.log("AMOCRM NOTE RESPONSE");
-    console.log("=================================");
-    console.log("Status:", noteResponse.status);
-    console.log("Status text:", noteResponse.statusText);
-    console.log("Response:", noteRaw);
-    console.log("=================================");
-
-    // ==========================================
-    // 12. NOTE ERROR
-    // ==========================================
-
-    if (!noteResponse.ok) {
-      /**
-       * Muhim:
-       *
-       * Lead va Contact allaqachon yaratilgan.
-       *
-       * Faqat message note yaratishda xato bo'lgan.
-       */
-
-      return NextResponse.json(
-        {
-          success: false,
-
-          step: "amocrm_note",
-
-          message:
-            "Lead va Contact yaratildi, lekin message'ni Leadga qo'shib bo'lmadi",
-
-          lead: {
-            id: leadId,
-            contactId,
-          },
-
-          debug: {
-            status: noteResponse.status,
-
-            statusText: noteResponse.statusText,
-
-            url: noteUrl,
-
-            amocrmResponse: noteData || noteRaw || null,
-          },
-        },
-        {
-          status: noteResponse.status,
-        }
-      );
-    }
-
-    // ==========================================
-    // 13. TELEGRAM NOTIFICATION
+    // 4. TELEGRAM NOTIFICATION (HAR DOIM YUBORILADI)
     // ==========================================
 
     let telegramSent = false;
+    let telegramError = null;
 
     try {
-      await sendMessageToAdmin(
-        name,
-        phone,
-        message
-      );
+      const extraNote = !amoSuccess
+        ? `⚠️ Diqqat: amoCRM ga saqlanmadi (${amoError || "xatolik"})`
+        : "";
 
+      await sendMessageToAdmin(name, phone, message, extraNote);
       telegramSent = true;
-
       console.log("=================================");
       console.log("TELEGRAM SUCCESS");
-      console.log("=================================");
       console.log("Telegram xabar muvaffaqiyatli yuborildi");
       console.log("=================================");
-    } catch (telegramError) {
-      /**
-       * Telegram notification xato bo'lsa ham
-       * amoCRM ma'lumotlari allaqachon saqlangan.
-       *
-       * Shuning uchun request'ni failed qilmaymiz.
-       */
-
+    } catch (tError) {
+      telegramError = tError?.message || "Telegramga yuborib bo'lmadi";
       console.error("=================================");
-      console.error("TELEGRAM ERROR");
-      console.error("=================================");
-      console.error(telegramError);
+      console.error("TELEGRAM ERROR:", telegramError);
       console.error("=================================");
     }
 
     // ==========================================
-    // 14. SUCCESS
+    // 5. NATIJA QAYTARISH
     // ==========================================
 
-    return NextResponse.json({
-      success: true,
+    // Agar Telegram yoki amoCRM dan birortasi ishlagan bo'lsa - muvaffaqiyatli!
+    if (telegramSent || amoSuccess) {
+      return NextResponse.json({
+        success: true,
+        step: "completed",
+        message: amoSuccess
+          ? "Lead amoCRM va Telegramga muvaffaqiyatli yuborildi"
+          : "Zayavka Telegram orqali muvaffaqiyatli qabul qilindi",
+        data: {
+          leadId,
+          contactId,
+          amoSuccess,
+          amoError: amoError || null,
+          telegramSent,
+        },
+      });
+    }
 
-      step: "completed",
-
-      message:
-        "Lead, Contact va message amoCRM'ga muvaffaqiyatli yuborildi",
-
-      data: {
-        leadId,
-
-        contactId,
-
-        lead: leadData,
-
-        note: noteData,
-
-        telegramSent,
+    // Agar na amoCRM, na Telegram ishlagan bo'lsa
+    return NextResponse.json(
+      {
+        success: false,
+        step: "delivery_failed",
+        message: "Zayavkani yetkazib bo'lmadi",
+        debug: {
+          amoError,
+          telegramError,
+        },
       },
-    });
+      {
+        status: 500,
+      }
+    );
   } catch (error) {
     // ==========================================
     // 15. SERVER ERROR
